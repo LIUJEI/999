@@ -70,7 +70,7 @@
 {
     "key": "全网影视",
     "name": "🎆┣全网┫影视",
-    "type": 3,
+    "type": 1,
     "api": "http://tv.52ddw.com/api.php/provide/vod/",
     "searchable": 1,
     "quickSearch": 1,
@@ -390,16 +390,6 @@
     "quickSearch": 1,
     "filterable": 1,
     "ext": "https://www.czys.pro/"
-},
-{
-    "key": "胖虎影视",
-    "name": "🎆┣胖虎┫影视",
-    "type": 3,
-    "api": "csp_Panghu",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://physvod.com"
 },
 {
     "key": "利播影视",
