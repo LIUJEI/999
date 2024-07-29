@@ -488,6 +488,72 @@
     "jar": "http://cdn.qiaoji8.com/fix240620.jar"
 },
 {
+	"key": "hipy_js_一起看",
+	"name": "一起看(drpy_t3)",
+	"type": 3,
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/一起看.js"
+},
+{
+	"key": "hipy_js_西瓜影院",
+	"name": "西瓜影院(drpy_t3)",
+	"type": 3,
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/西瓜影院.js"
+},
+{
+	"key": "hipy_js_耐看",
+	"name": "耐看(drpy_t3)",
+	"type": 3,
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/耐看.js"
+},
+{
+	"key": "hipy_js_短剧天堂",
+	"name": "短剧天堂(drpy_t3)",
+	"type": 3,
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/短剧天堂.js"
+},
+{
+	"key": "hipy_js_榜一短剧",
+	"name": "榜一短剧(drpy_t3)",
+	"type": 3,
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/榜一短剧.js"
+},
+{
+	"key": "hipy_js_短剧TV网",
+	"name": "短剧TV网(drpy_t3)",
+	"type": 3,
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/短剧TV网.js"
+},
+{
     "key": "hipy_js_星芽短剧app",
     "name": "🎆┣星芽┫短剧",
     "type": 3,
