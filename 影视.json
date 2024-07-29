@@ -923,7 +923,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/吾爱短剧.m3u",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/吾爱短剧.json",
     "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt"
 },
 {
