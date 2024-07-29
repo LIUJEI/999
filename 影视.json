@@ -58,10 +58,30 @@
     "changeable": 0,
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
 },
-{"key":"t9-荐片","name":"🎆┣荐片┫影视","type":4,"api":"https://catbox.n13.club/t9/jianpian.php"},
-{"key":"t9-极光","name":"🎆┣极光┫影视","type":4,"api":"https://catbox.n13.club/t9/jiguang.php"},
-{"key":"t9-采集","name":"🎆┣采集┫影视","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
-{"key":"t9-黑狐","name":"🎆┣黑狐┫影视","type":4,"api":"https://catbox.n13.club/t9/heihu.php"},
+{
+    "key":"t9-荐片",
+    "name":"🎆┣荐片┫影视",
+    "type":4,
+    "api":"https://catbox.n13.club/t9/jianpian.php"
+},
+{
+    "key":"t9-极光",
+    "name":"🎆┣极光┫影视",
+    "type":4,
+    "api":"https://catbox.n13.club/t9/jiguang.php"
+},
+{
+    "key":"t9-采集",
+    "name":"🎆┣采集┫影视",
+    "type":4,
+    "api":"https://catbox.n13.club/t9/caiji.php"
+},
+{
+    "key":"t9-黑狐",
+    "name":"🎆┣黑狐┫影视",
+    "type":4,
+    "api":"https://catbox.n13.club/t9/heihu.php"
+},
 {
     "key": "南瓜影视",
     "name": "🎆┣南瓜┫影视",
@@ -923,7 +943,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/吾爱短剧.json",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili短剧.json",
     "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt"
 },
 {
