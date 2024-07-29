@@ -468,16 +468,13 @@
     "filterable": 0
 },
 {
-            "key": "hipy_js_星芽短剧app",
-            "name": "星芽短剧app",
-            "type": 3,
-            "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "http://47.108.190.141/hipy/drpy_js/星芽短剧[优].js"
-        },
+    "key": "hipy_js_星芽短剧app",
+    "name": "🎆┣星芽┫短剧",
+    "type": 3,
+    "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
+    "order_num": 0,
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/星芽短剧.js"
+},
 {
     "key": "良品短剧",
     "name": "🎆┣良品┫短剧",
@@ -561,7 +558,7 @@
 		
 {
     "key":"短剧吧",
-    "name":"🎆┣短剧┫吧网",
+    "name":"🎆┣吧网┫短剧",
     "type":3,
     "api":"csp_XBPQ",   
     "ext":{
@@ -571,66 +568,20 @@
 },
 {
     "key":"短剧天堂",
-    "name":"🎆┣短剧┫天堂",
+    "name":"🎆┣天堂┫短剧",
     "type":3,
     "api":"csp_XBPQ",  
-    "ext":{
-    "站名": "短剧天堂",
-    "主页url": "https://duanjutt.tv/",
-    "数组": "class=\"myui-vodlist__thumb lazyload\"&&</li",
-    "图片": "data-original=\"&&\"",
-    "标题": "title=\"&&\"",
-    "链接": "href=\"&&\"",
-    "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-    "过滤词": "/hls/#php",
-    "副标题": "<span class=\"pic-text text-right\">&&</span>",
-    "搜索url": "https://duanjutt.tv/vodsearch/-------------.html?wd={wd}",
-    "搜索模式": "1",
-    "搜索数组": "<div class=\"thumb\"&&</li>",
-    "搜索图片": "data-original=\"&&\"",
-    "搜索标题": "title=\"&&\"",
-    "搜索链接": "href=\"&&\"",
-    "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-    "搜索后缀": "/view/",
-    "线路数组": "data-toggle=\"tab&&</a>",
-    "线路标题": "高清秒播",
-    "播放数组": "<ul class=\"myui-content__list sort-list clearfix\"&&</ul>",
-    "状态": "地区：&&</p>",
-    "导演": "导演：&&</p>",
-    "主演": "主演：&&</p>",
-    "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
-    "播放列表": "<a&&/a>",
-    "播放标题": ">&&<",
-    "播放链接": "href=\"&&\"",
-    "免嗅": "0",
-    "分类url": "https://duanjutt.tv/vodtype/{cateId}-{catePg}.html",
-    "分类": "逆袭$1#甜宠$2#虐恋$3#穿越$4#重生$5#都市$20#现代言情$21#古装$22#古代言情$23#战神$24#神医$25#神豪$26#超能$27#萌宝$28#复仇$29#脑洞$30#赘婿$31#玄幻$32#热血$33#其他$34"}
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/短剧天堂.json"
 },
 {
     "key":"短剧网",
-    "name":"🎆┣短剧┫网香",
+    "name":"🎆┣网香┫短剧",
     "type":3,
     "api":"csp_XBPQ",  
     "ext":{
     "简介":"祝您观影愉快",
     "分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生",
     "分类url":"http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"}
-},
-{
-    "key": "蚂蚁资源",
-    "name": "🎗┣蚂蚁┫资源",
-    "type": 1,
-    "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
-    "searchable": 1,
-    "changeable": 1,
-    "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="
-},
-{
-	"key": "360资源",
-	"name": "🎗┣琉芸┫资源",
-	"type": 1,
-	"api": "https://360zy.com/api.php/provide/vod",
-	"playUrl": "json:http://110.42.3.99:880/rmm.php/?url="	
 },
 {
     "key": "影视大全",
@@ -913,14 +864,14 @@
     "key":"dr_卫士",
     "name":"🅾️主力【官方】",
     "type":3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dry2.js",
+    "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/360.js"
 },
 {
     "key":"dr_腾迅",
     "name":"🐧腾讯【官方】",
     "type":3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dry2.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/QQtv.js"
 },
 {
@@ -979,7 +930,22 @@
   {"key": "小宝","name": "🏧┣小宝┫影视","type": 1,"api": "http://www.xiaobao168.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
   {"key": "何以","name": "🏧┣何以┫直连","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
   {"key": "北川","name": "🏧┣北川┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.bczhuiju.com/api.php/v1.vod"},
-  
+{
+    "key": "蚂蚁资源",
+    "name": "🎗┣蚂蚁┫资源",
+    "type": 1,
+    "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
+    "searchable": 1,
+    "changeable": 1,
+    "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="
+},
+{
+	"key": "360资源",
+	"name": "🎗┣琉芸┫资源",
+	"type": 1,
+	"api": "https://360zy.com/api.php/provide/vod",
+	"playUrl": "json:http://110.42.3.99:880/rmm.php/?url="	
+}, 
 
 {
     "key": "Yinyuetai",
