@@ -303,7 +303,7 @@
 },
 {
     "key": "繁荣",
-    "name": "🎆┣繁荣┫巧儿",
+    "name": "🎆┣繁荣┫影视",
     "type": 3,
     "api": "csp_Frong",
     "jar": "./JAR/QR.jar",
@@ -311,7 +311,7 @@
 },
 {
     "key": "现代",
-    "name": "🎆┣现代┫巧儿",
+    "name": "🎆┣现代┫影视",
     "type": 3,
     "api": "csp_Xdai",
     "jar": "./JAR/QR.jar",
@@ -319,14 +319,14 @@
 },
 {
     "key":"月亮App",
-    "name":"🎆┣月亮┫巧儿",
+    "name":"🎆┣月亮┫影视",
     "type":3,
     "api":"csp_Ylys",
     "jar": "./JAR/QR.jar"
 },
 {
     "key":"时常",
-    "name":"🎆┣时常┫巧儿",
+    "name":"🎆┣时常┫影视",
     "type":3,
     "api":"csp_qiao3",
     "jar": "./JAR/QR.jar",
@@ -334,46 +334,52 @@
 },
 {
     "key":"sliu_spider",
-    "name":"🎆┣石榴┫巧儿",
+    "name":"🎆┣石榴┫影视",
     "type":3,
     "api":"csp_ShiLiuDY",
     "jar": "./JAR/QR.jar"
 },
 {
-      "key": "Jpys",
-      "name": "金牌┃秒播",
-      "type": 3,
-      "api": "csp_Jpys"
-    },
+    "key": "Jpys",
+    "name": "🎆┣金牌┫秒播",
+    "type": 3,
+    "jar": "./JAR/fan.txt",
+    "api": "csp_Jpys"
+},
 {
-      "key": "文采",
-      "name": "💮文采┃秒播",
-      "type": 3,
-      "api": "csp_Jpys"
-    },
+    "key": "文采",
+    "name": "🎆┣文采┫秒播",
+    "type": 3,
+    "jar": "./JAR/fan.txt",
+    "api": "csp_Jpys"
+},
 {
-      "key": "YCyz",
-      "name": "原创┃无广",
-      "type": 3,
-      "api": "csp_YCyz"
-    },
+    "key": "YCyz",
+    "name": "🎆┣原创┫无广",
+    "type": 3,
+    "jar": "./JAR/fan.txt",
+    "api": "csp_YCyz"
+},
 {
-      "key": "Cddys",
-      "name": "臭蛋┃多线",
-      "type": 3,
-      "api": "csp_Cddys"
-    },
+    "key": "Cddys",
+    "name": "🎆┣臭蛋┫多线",
+    "type": 3,
+    "jar": "./JAR/fan.txt",
+    "api": "csp_Cddys"
+},
 {
-      "key": "Djtt",
-      "name": "无忧┃短剧",
-      "type": 3,
-      "api": "csp_Djtt"
-    },
+    "key": "Djtt",
+    "name": "🎆┣无忧┫短剧",
+    "type": 3,
+    "jar": "./JAR/fan.txt",
+    "api": "csp_Djtt"
+},
 {
-      "key": "小点",
-      "name": "💥小点┃多线",
-      "type": 3,
-      "api": "csp_Appxdys"
+    "key": "小点",
+    "name": "🎆┣小点┫多线",
+    "type": 3,
+    "jar": "./JAR/fan.txt",
+    "api": "csp_Appxdys"
 },       
 {
 	"key": "hipy_js_一起看",
