@@ -39,25 +39,7 @@
     "api": "csp_XBPQ",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/03影院.json"
 },
-{
-    "key": "韩小圈",
-    "name": "🎆┣韩圈┫推荐",
-    "type": 3,
-    "api": "csp_HanXiaoQuan",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
-},
-{
-    "key": "无忧短剧",
-    "name": "🎆┣无忧┫短剧",
-    "type": 3,
-    "api": "csp_Duanj",
-    "searchable": 1,
-    "changeable": 0,
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
-},
+
 {
     "key":"t9-荐片",
     "name":"🎆┣荐片┫影视",
@@ -406,24 +388,29 @@
 },
 {
     "key": "FreeOK",
-    "name": "🎆┣小米┫制作",
+    "name": "🎆┣琉芸┫影视",
     "type": 3,
-    "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
 	"api": "csp_FreeOK",
-    "jar": "./JAR/xm.jar",
     "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
+    "changeable": 1
 },
 {
-    "key": "摩托影视",
-    "name": "🎆┣摩托┫影视",
+    "key": "追剧",
+    "name": "追剧┃App",
     "type": 3,
-    "api": "csp_App",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 0,
-    "ext": "j3UE7cVyk0jKGyMPkJ35EnqUgtOg+PN9OJevxJzkfD20vgt+RqQVvc3kcbSRgThbJjVk2hC6FWnD0fWIqWd4D4S/NPFftLiwX7Yf2pvV3P2hRAjNWiPO+iJQ33XkJeUHW9gMIzn0FkxZOs+o8juC1SnSkfjblSU1wtxBOetwgC8habcRdvOZEjBSLuZj8SlIjQ9QzwZivBSQGQ44j1bkAxNO4k1MhYbM5Z6QWxv/341MNNt7lsI9pldpg5/KtM/USj9Ftmmree+9m/3E/UgIwWzCl3Ax9B8NQQ7uGFr2wq68ahEIcCZyL3l+U37oARUk"
+    "api": "csp_TTian",
+    "jar": "./JAR/巧儿.jar",
+    "playerType": 1,
+    "ext": "daHR0cDovL3oua3pqdHYuY29t"
+},
+{
+    "key": "木叶",
+    "name": "木叶┃App",
+    "type": 3,
+    "api": "csp_Muye",
+    "jar": "./JAR/巧儿.jar",
+    "playerType": 1,
+    "ext": "cMS4wLjd8aHR0cDovLzExMy40NS4xMzUuMTAwOjEyMzU2fDEyY2ExNTNjfDEwMDd8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
 },
 {
     "key": "不卡影视",
@@ -436,11 +423,29 @@
     "ext": "PuMSXHTlG7XuTPHibOyZteVY1Bbl6ZlsngCB5cB1aT58PUe5B3fTqNqjFlBRB9gUMb3sBH9Ft54h0DfIM8NZXSQZqL75gkSizgP2bD/FXuU7p8/Atv6nfoWFwgWWXehi2e2bdvWuIZd/iTHBLXJLOErvkwen7BleeOnRa7QzqB9XmOsv/M7AccHoiKa8JPMRfdXDPQT4Edlrk+Fij03D/m66ytOrnl7W4tGxo7UmbtKLKuR1Tr2ureKLLfmEqHCOdCwtqw2Bgi/NNxDXZQAx5ihHKNNipXEDhBXyQBJgfnsuxCd95h1gj845lEYqc/PK/WI9fbWCuQMfd50aPtxG/rRQjPClzRSEk+KOpz9njtQ="
 },
 {
+    "key": "繁荣",
+    "name": "繁荣┃App",
+    "type": 3,
+    "api": "csp_Frong",
+    "jar": "./JAR/巧儿.jar",
+    "playerType": 1,
+    "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
+},
+{
+    "key": "现代",
+    "name": "现代┃App",
+    "type": 3,
+    "api": "csp_Xdai",
+    "jar": "./JAR/巧儿.jar",
+    "playerType": 1,
+    "ext": "OMS4wLjB8aHR0cDovL2FwcC5icm92b2QudG9wfDQzNmE0NjI5fDIwMjQwNDI4fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDA5ZWUzNTE2YzFjYThlZDE="
+},
+{
     "key":"AI4",
     "name":"🎆┣雷神┫巧儿",
     "type":3,
     "api":"csp_AppYsV2",
-    "jar": "http://cdn.qiaoji8.com/fix240620.jar",
+    "jar": "./JAR/巧儿.jar",
     "playerType":2,
     "ext":"http://39.98.32.241:6688/api.php/zjv3.vod"
 },
@@ -449,9 +454,9 @@
     "name":"🎆┣鸣人┫巧儿",
     "type":1,
     "api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
-    "jar": "http://cdn.qiaoji8.com/fix240620.jar",
-    "playerType":2
-
+    "playerType":2,
+    "searchable": 1,
+    "changeable": 1
 },
 {
     "key":"柠檬App",
@@ -467,25 +472,25 @@
     "name":"🎆┣月亮┃巧儿",
     "type":3,
     "api":"csp_Ylys",
-    "playerType":2,
-    "jar": "http://cdn.qiaoji8.com/fix240620.jar"
+    "jar": "./JAR/巧儿.jar",
+    "playerType":2
 },
 {
     "key":"时常",
     "name":"🎆┣时常┫巧儿",
     "type":3,
     "api":"csp_qiao3",
+    "jar": "./JAR/巧儿.jar",
     "playerType":1,
-    "jar": "http://cdn.qiaoji8.com/fix240620.jar",
     "ext":"https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"
 },
 {
     "key":"sliu_spider",
     "name":"🎆┣石榴┫巧儿",
-    "api":"csp_ShiLiuDY",
     "type":3,
-    "playerType":2,
-    "jar": "http://cdn.qiaoji8.com/fix240620.jar"
+    "api":"csp_ShiLiuDY",
+    "jar": "./JAR/巧儿.jar",
+    "playerType":2
 },
 {
 	"key": "hipy_js_一起看",
