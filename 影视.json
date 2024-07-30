@@ -306,7 +306,7 @@
     "name": "🎆┣繁荣┫巧儿",
     "type": 3,
     "api": "csp_Frong",
-    "jar": "./JAR/巧儿.jar",
+    "jar": "./JAR/QR.jar",
     "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
 },
 {
@@ -314,7 +314,7 @@
     "name": "🎆┣现代┫巧儿",
     "type": 3,
     "api": "csp_Xdai",
-    "jar": "./JAR/巧儿.jar",
+    "jar": "./JAR/QR.jar",
     "ext": "OMS4wLjB8aHR0cDovL2FwcC5icm92b2QudG9wfDQzNmE0NjI5fDIwMjQwNDI4fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDA5ZWUzNTE2YzFjYThlZDE="
 },
 {
@@ -322,13 +322,14 @@
     "name":"🎆┣月亮┫巧儿",
     "type":3,
     "api":"csp_Ylys",
-    "jar": "./JAR/巧儿.jar"
+    "jar": "./JAR/QR.jar"
 },
 {
     "key":"时常",
-    "name":"时常┃APP",
+    "name":"🎆┣时常┫巧儿",
     "type":3,
     "api":"csp_qiao3",
+    "jar": "./JAR/QR.jar",
     "ext":"laHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNhZDl8ZTU5ZDQ0YjJlZWYwM2FkOQ=="
 },
 {
@@ -336,7 +337,7 @@
     "name":"🎆┣石榴┫巧儿",
     "type":3,
     "api":"csp_ShiLiuDY",
-    "jar": "./JAR/巧儿.jar"
+    "jar": "./JAR/QR.jar"
 },
 {
 	"key": "hipy_js_一起看",
