@@ -295,6 +295,72 @@
     "ext": "http://z.kzjtv.com/"
 },
 {
+			"key": "荐片",
+			"name": "🍬荐片",
+			"type": 3,
+			"api": "csp_JianPian",
+			"playerType": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://api2.rinhome.com"
+		},
+		{
+			"key": "New6v",
+			"name": "🧉New6V",
+			"type": 3,
+			"api": "csp_New6v",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.xb6v.com"
+		},
+		{
+			"key": "迅雷吧",
+			"name": "🧉迅雷吧",
+			"type": 3,
+			"api": "csp_Xunlei8",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "Mp4电影",
+			"name": "🧉Mp4电影",
+			"type": 3,
+			"api": "csp_Mp4Mov",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "酷吧电影",
+			"name": "🧉酷吧",
+			"type": 3,
+			"api": "csp_KubaCL",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "SeedHub",
+			"name": "🧉SeedHub",
+			"type": 3,
+			"api": "csp_SeedHub",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "美剧迷",
+			"name": "🧉美剧迷",
+			"type": 3,
+			"api": "csp_MeijuMi",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+{
     "key": "不卡影视",
     "name": "🎆┣不卡┫影视",
     "type": 3,
