@@ -326,11 +326,10 @@
 },
 {
     "key":"时常",
-    "name":"🎆┣时常┫巧儿",
+    "name":"时常┃APP",
     "type":3,
     "api":"csp_qiao3",
-    "jar": "./JAR/巧儿.jar",
-    "ext":"https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"
+    "ext":"laHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNhZDl8ZTU5ZDQ0YjJlZWYwM2FkOQ=="
 },
 {
     "key":"sliu_spider",
