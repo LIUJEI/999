@@ -404,15 +404,6 @@
     "ext": "daHR0cDovL3oua3pqdHYuY29t"
 },
 {
-    "key": "木叶",
-    "name": "木叶┃App",
-    "type": 3,
-    "api": "csp_Muye",
-    "jar": "./JAR/巧儿.jar",
-    "playerType": 1,
-    "ext": "cMS4wLjd8aHR0cDovLzExMy40NS4xMzUuMTAwOjEyMzU2fDEyY2ExNTNjfDEwMDd8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
-},
-{
     "key": "不卡影视",
     "name": "🎆┣不卡┫影视",
     "type": 3,
@@ -439,33 +430,6 @@
     "jar": "./JAR/巧儿.jar",
     "playerType": 1,
     "ext": "OMS4wLjB8aHR0cDovL2FwcC5icm92b2QudG9wfDQzNmE0NjI5fDIwMjQwNDI4fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDA5ZWUzNTE2YzFjYThlZDE="
-},
-{
-    "key":"AI4",
-    "name":"🎆┣雷神┫巧儿",
-    "type":3,
-    "api":"csp_AppYsV2",
-    "jar": "./JAR/巧儿.jar",
-    "playerType":2,
-    "ext":"http://39.98.32.241:6688/api.php/zjv3.vod"
-},
-{
-    "key":"鸣人",
-    "name":"🎆┣鸣人┫巧儿",
-    "type":1,
-    "api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
-    "playerType":2,
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key":"柠檬App",
-    "name":"🎆┣柠檬┫巧儿",
-    "type":3,
-    "api":"csp_Nmvod",
-    "playerType":2,
-    "jar": "http://cdn.qiaoji8.com/fix240620.jar",
-    "ext":"https://api.cnmcom.com/webcloud/relay.php?url="
 },
 {
     "key":"月亮App",
@@ -507,8 +471,8 @@
 	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/西瓜影院.js"
 },
 {
-	"key": "hipy_js_雷电",
-	"name": "🎆┣雷电┫影视",
+	"key": "hipy_js_闪电",
+	"name": "🎆┣闪电┫影视",
 	"type": 3,
 	"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
 	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/雷电.js"
@@ -735,7 +699,6 @@
     "分类url": "https://www.kmeiju.com/Type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#剧集$2#动漫$4#记录$21#漫影$22"}
 },
-
 {
     "key": "影视工厂",
     "name": "🎗┣工厂┫蓝光",
@@ -859,6 +822,15 @@
 {"key": "酷我","name": "🏧┣酷我┫App","type": 3,"api": "csp_AppYsV2","ext": "http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"},
 {"key": "看剧","name": "🏧┣爱看┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.ikanju.cc/mogai_api.php/v1.vod"},
 {"key": "北川","name": "🏧┣北川┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.bczhuiju.com/api.php/v1.vod"},
+{"key": "雷神","name": "🏧┣雷神┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://39.98.32.241:6688/api.php/zjv3.vod"},
+{
+    "key": "AI4",
+    "name": "🏧┣AI4┫APP",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "playerType": 1,
+    "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="
+},
 {
     "key": "蚂蚁资源",
     "name": "🎗┣蚂蚁┫资源",
@@ -869,6 +841,7 @@
     "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="
 },
 {"key": "三六资源","name": "🎗┣琉芸┫资源","type": 1,"api": "https://360zy.com/api.php/provide/vod"}, 
+{"key": "鸣人资源","name": "🌀┣鸣人┫采集","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list","playerType":2},
 {"key": "优质资源","name": "🌀┣优质┃采集","type": 0,"api": "https://api.1080zyku.com/inc/ldg_api.php"},
 {"key": "黑木资源","name": "🌀┣木耳┃采集","type": 1,"api": "https://heimuer.tv/api.php/provide/vod/"},
 {"key": "喵派对影","name": "🌀┣喵趣┃采集","type": 1,"api": "https://www.lezy.lol/api.php/provide/vod/"},
