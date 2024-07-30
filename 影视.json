@@ -294,41 +294,40 @@
     "api": "csp_AppZJ",
     "ext": "http://z.kzjtv.com/"
 },
-
-{
-	"key": "New6v",
-	"name": "🧉New6V",
-	"type": 3,
-	"api": "csp_New6v",
-	"ext": "https://www.xb6v.com"
-},
 {
 	"key": "迅雷吧",
-	"name": "🧉迅雷吧",
+	"name": "🎆┣迅雷┫影视",
 	"type": 3,
 	"api": "csp_Xunlei8"
 },
 {
-	"key": "Mp4电影",
-	"name": "🧉Mp4电影",
-	"type": 3,
-	"api": "csp_Mp4Mov"
-},
-{
 	"key": "酷吧电影",
-	"name": "🧉酷吧",
+	"name": "🎆┣酷吧┫影视",
 	"type": 3,
 	"api": "csp_KubaCL"
 },
 {
 	"key": "SeedHub",
-	"name": "🧉SeedHub",
+	"name": "🎆┣SeedHub┫影视",
 	"type": 3,
 	"api": "csp_SeedHub"
 },
 {
+	"key": "New6v",
+	"name": "🎆┣New6V┫影视",
+	"type": 3,
+	"api": "csp_New6v",
+	"ext": "https://www.xb6v.com"
+},
+{
+	"key": "Mp4电影",
+	"name": "🎆┣Mp4┫影视",
+	"type": 3,
+	"api": "csp_Mp4Mov"
+},
+{
 	"key": "花蕊影视",
-	"name": "🍡花蕊",
+	"name": "🎆┣花蕊",
 	"type": 3,
 	"api": "csp_Wexhuaruitv"
 },		
@@ -648,6 +647,26 @@
     "分类url": "https://www.rr520.cc/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"}
 },
+{
+	"key": "珍品",
+	"name": "🎗┣珍品┫蓝光",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"ext": {
+	"分类url": "https://www.zpcxb.com/zptop/area/{area}/{cateId}/page/{catePg}/year/{year}.html",
+	"分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}
+},
+{
+	"key": "夕云",
+	"name": "🎗┣夕云┫蓝光",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"ext": {
+	"首页": "电视剧$21",
+	"分类": "电影$20#电视剧$39#动漫$46#综艺$47",
+	"分类url": "https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"}
+},
+
 {
     "key":"dr_卫士",
     "name":"🅾️主力【官方】",
