@@ -68,10 +68,7 @@
     "key": "南瓜影视",
     "name": "🎆┣南瓜┫影视",
     "type": 3,
-    "api": "csp_WexNgys",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0
+    "api": "csp_WexNgys"
 },
 {
     "key": "全网影视",
@@ -86,53 +83,37 @@
     "key": "最新影视",
     "name": "🎆┣最新┫影视",
     "type": 3,
-    "api": "csp_Zx1080",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
+    "api": "csp_Zx1080"
 },
 {
     "key": "桃子影视",
     "name": "🎆┣桃子┫影视",
     "type": 3,
-    "api": "csp_Taozi",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
+    "api": "csp_Taozi"
 },
 {
     "key": "达达龟",
     "name": "🎆┣达龟┫影视",
     "type": 3,
-    "api": "csp_Dadag",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
+    "api": "csp_Dadag"
 },
 {
     "key": "csp_SP360",
     "name": "🎆┣三六┫官源",
     "type": 3,
-    "api": "csp_SP360",
-    "searchable": 1,
-    "changeable": 1
+    "api": "csp_SP360"
 },
 {
     "key": "笙歌影视",
     "name": "🎆┣笙歌┫影视",
     "type": 3,
-    "api": "csp_AppYY",
-    "searchable": 1,
-    "quickSearch": 0,
-    "changeable": 0
+    "api": "csp_AppYY"
 },
 {
     "key": "酷看影视",
     "name": "🎆┣酷看┫影视",
     "type": 3,
-    "api": "csp_Wexkukantv",
-    "searchable": 1,
-    "changeable": 1
+    "api": "csp_Wexkukantv"
 },
 {
     "key": "可可影视",
