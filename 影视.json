@@ -396,12 +396,13 @@
 },
 {
     "key": "追剧",
-    "name": "追剧┃App",
+    "name": "🎆┣追剧┫影视",
     "type": 3,
-    "api": "csp_TTian",
-    "jar": "./JAR/巧儿.jar",
-    "playerType": 1,
-    "ext": "daHR0cDovL3oua3pqdHYuY29t"
+    "api": "csp_AppZJ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "http://z.kzjtv.com/"
 },
 {
     "key": "不卡影视",
@@ -415,7 +416,7 @@
 },
 {
     "key": "繁荣",
-    "name": "繁荣┃App",
+    "name": "🎆┣繁荣┫巧儿",
     "type": 3,
     "api": "csp_Frong",
     "jar": "./JAR/巧儿.jar",
@@ -424,7 +425,7 @@
 },
 {
     "key": "现代",
-    "name": "现代┃App",
+    "name": "🎆┣现代┫巧儿",
     "type": 3,
     "api": "csp_Xdai",
     "jar": "./JAR/巧儿.jar",
@@ -433,7 +434,7 @@
 },
 {
     "key":"月亮App",
-    "name":"🎆┣月亮┃巧儿",
+    "name":"🎆┣月亮┫巧儿",
     "type":3,
     "api":"csp_Ylys",
     "jar": "./JAR/巧儿.jar",
@@ -759,6 +760,13 @@
     "ext": {
     "分类url": "https://www.rr520.cc/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"}
+},
+{
+    "key": "五五影视",
+    "name": "🎗┣五五┫影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://raw.gitmirror.com/PizazzGY/TVBox/main/XBPQ/五五影视.json"
 },
 {
     "key":"dr_卫士",
