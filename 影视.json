@@ -105,27 +105,6 @@
     "api": "csp_AppYY"
 },
 {
-    "key":"csp_QQ",
-    "name":"🐧官解┃腾讯",
-    "type": 3,
-    "api":"csp_QQ",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/0821.jar"
-},
-{
-    "key":"csp_IQIYI",
-    "name":"🥝官解┃爱奇艺",
-    "type":3,
-    "api":"csp_IQIYI",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/0821.jar"
-},
-{
-    "key":"csp_Mgtv",
-    "name":"🍋官解┃芒果",
-    "type":3,
-    "api":"csp_Mgtv",
-   "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/0821.jar"
-},
-{
     "key": "酷看影视",
     "name": "🎆┣酷看┫影视",
     "type": 3,
