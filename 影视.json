@@ -104,9 +104,33 @@
     "type": 3,
     "api": "csp_AppYY"
 },
-{"key":"Sp_tx","name":"🐧官解┃腾讯","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
-{"key":"Sp_qy","name":"🥝官解┃爱奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
-{"key":"Sp_mg","name":"🍋官解┃芒果","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
+{
+    "key":"csp_QQ",
+    "name":"🐧官解┃腾讯",
+    "type": 3,
+    "api":"csp_QQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable":1
+},
+{
+    "key":"csp_IQIYI",
+    "name":"🥝官解┃爱奇艺",
+    "type":3,
+    "api":"csp_IQIYI",
+    "quickSearch":1,
+    "searchable":1,
+    "filterable":1
+},
+{
+    "key":"csp_Mgtv",
+    "name":"🍋官解┃芒果",
+    "type":3,
+    "api":"csp_Mgtv",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+},
 {
     "key": "酷看影视",
     "name": "🎆┣酷看┫影视",
