@@ -65,7 +65,7 @@
     "key": "全网影视",
     "name": "🎆┣全网┫影视",
     "type": 1,
-    "api": "https://wrea.91qkw.cc/api.php/provide/vod/",
+    "api": "https://www.xncnews.com/api.php/provide/vod/",
     "categories": ["短剧","电影","国产剧","连续剧","综艺","动漫","真理片"]
 },
 {
@@ -472,7 +472,7 @@
 },
 {
     "key": "csp_TVB",
-    "name": "4⃣港视┃高清┃云播",
+    "name": "🎗┣港视┫云播",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -484,7 +484,7 @@
 },
 {
     "key": "凯奇影视",
-    "name": "🧿凯奇┃蓝光",
+    "name": "🎗┣凯奇┫蓝光",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -494,22 +494,6 @@
     "分类url": "https://cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanshipin"}
 },
-{
-    "key": "速迅影视",
-    "name": "🧿速迅┃蓝光",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "影片年代": "<div class=\"module-info-tag\">&&</div>",
-    "影片地区": "圥忈制作",
-    "影片状态": "备注：&&</div>",
-    "影片类型": "module-info-tag\">&&立即播放",
-    "线路数组": "data-dropdown-value=&&</div>",
-    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-    "分类url": "https://vip.suxun.site/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$43"}
-},
-
 {
     "key": "热播之家",
     "name": "🎗┣热播┫之家",
@@ -810,38 +794,10 @@
 {"key": "三八资源","name": "🌀┣三八┫采集","type": 1,"api": "https://vod38.com/api.php/provide/vod/"},
 {"key": "淘片采集","name": "🌀┣淘片┫采集","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html"},
 {"key": "飞速资源","name": "🌀┣飞速┫采集","type": 1,"api": "https://feisuzy.com/api.php/provide/vod/"},
-{
-            "key": "墨白影视",
-            "name": "💡墨白┃快播",
-            "type": 1,
-            "api": "https://nm.xxxc137.top/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-{
-            "key": "风启影视",
-            "name": "💡风启┃快播",
-            "type": 1,
-            "api": "https://15ds.cn/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-{
-            "key": "HG影视",
-            "name": "💡皇冠┃快播",
-            "type": 1,
-            "api": "https://hong.hgyx.vip/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "BILFUN影视",
-            "name": "💡有趣┃快播",
-            "type": 1,
-            "api": "https://www.bilfun.cc/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
+{"key": "墨白影视","name": "🌀┣墨白┫快播","type": 1,"api": "https://nm.xxxc137.top/api.php/provide/vod/"},
+{"key": "风启影视","name": "🌀┣风启┫快播","type": 1,"api": "https://15ds.cn/api.php/provide/vod/"},
+{"key": "皇冠影视","name": "🌀┣皇冠┫快播","type": 1,"api": "https://hong.hgyx.vip/api.php/provide/vod/"},
+{"key": "剧狗影视","name": "🌀┣剧狗┃快播","type": 1,"api": "https://www.youmuz.cn/api.php/provide/vod/"},
 {
     "key": "Yinyuetai",
     "name": "🎧音悦┃MV",
