@@ -509,19 +509,7 @@
     "分类url": "https://vip.suxun.site/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$43"}
 },
-{
-    "key": "白雾影视",
-    "name": "🧿白雾┃蓝光",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "搜索url": "https://www.baiwoo.com/search.php?searchword={wd}",
-    "简介": "请勿相信影片中的广告，以免上当受骗。+剧情介绍：&&</li>",
-    "线路数组": "<span style=\"font-size:16px;&&</span>",
-    "线路标题": ">&&<",
-    "分类url": "https://www.baiwoo.com/{cateId}-{catePg}.html",
-    "分类": "动作片$i/?5#爱情片$i/?6#科幻片$i/?7#恐怖片$i/?8#战争片$i/?9#喜剧片$i/?10#剧情片$i/?12#纪录片$i/?28#大陆剧$i/?13#港台剧$i/?14#欧美剧$i/?15#日韩剧$i/?16#海外剧$i/?31#动漫$i/?4#综艺$i/?3"}
-},
+
 {
     "key": "热播之家",
     "name": "🎗┣热播┫之家",
@@ -802,7 +790,6 @@
 {"key": "优质资源","name": "🌀┣优质┃采集","type": 0,"api": "https://api.1080zyku.com/inc/ldg_api.php"},
 {"key": "黑木资源","name": "🌀┣木耳┃采集","type": 1,"api": "https://heimuer.tv/api.php/provide/vod/"},
 {"key": "喵派对影","name": "🌀┣喵趣┃采集","type": 1,"api": "https://www.lezy.lol/api.php/provide/vod/"},
-{"key": "全看影视","name": "🌀┣全看┃采集","type": 1,"api": "https://wrea.91qkw.cc/api.php/provide/vod/"},
 {"key": "映迷资源","name": "🌀┣映迷┃快播","type": 1,"api": "https://www.inmi.app/api.php/provide/vod/"},
 {"key": "易看资源","name": "🌀┣易看┃快播","type": 1,"api": "http://tv.ykzj6.cn/api.php/provide/vod/"},
 {"key": "影猫资源","name": "🌀┣影猫┃快播","type": 1,"api": "http://ysm.tkbot.fun/api.php/provide/vod/"},
@@ -813,7 +800,6 @@
 {"key": "策驰资源","name": "🌀┣策驰┫采集","type": 1,"api": "https://www.39kan.com/api.php/provide/vod/"},
 {"key": "努努资源","name": "🌀┣努努┫采集","type": 1,"api": "https://www.nuuub.com/api.php/provide/vod/"},
 {"key": "星星资源","name": "🌀┣星星┫采集","type": 1,"api": "http://vip.smzj6.vip/api.php/provide/vod/"},
-{"key": "全影影视","name": "🌀┣全影┫采集","type": 1,"api": "http://tv.52ddw.com/api.php/provide/vod/"},
 {"key": "农民资源","name": "🌀┣农民┫采集","type": 1,"api": "https://www.xncnews.com/api.php/provide/vod/"},
 {"key": "追风资源","name": "🌀┣追风┫采集","type": 1,"api": "http://www.zfsp.cc/api.php/provide/vod/"},
 {"key": "五一资源","name": "🌀┣五一┫采集","type": 1,"api": "http://www.51zhuiju.cc/api.php/provide/vod/"},
@@ -823,7 +809,39 @@
 {"key": "柠檬资源","name": "🌀┣柠檬┫采集","type": 1,"api": "https://www.nmnm.cc/api.php/provide/vod/"},
 {"key": "三八资源","name": "🌀┣三八┫采集","type": 1,"api": "https://vod38.com/api.php/provide/vod/"},
 {"key": "淘片采集","name": "🌀┣淘片┫采集","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html"},
-{"key": "飞速资源","name": "🌀┣飞速┫采集","type": 1,"api": "https://feisuzy.com/api.php/provide/vod/"},  
+{"key": "飞速资源","name": "🌀┣飞速┫采集","type": 1,"api": "https://feisuzy.com/api.php/provide/vod/"},
+{
+            "key": "墨白影视",
+            "name": "💡墨白┃快播",
+            "type": 1,
+            "api": "https://nm.xxxc137.top/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+{
+            "key": "风启影视",
+            "name": "💡风启┃快播",
+            "type": 1,
+            "api": "https://15ds.cn/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+{
+            "key": "HG影视",
+            "name": "💡皇冠┃快播",
+            "type": 1,
+            "api": "https://hong.hgyx.vip/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "BILFUN影视",
+            "name": "💡有趣┃快播",
+            "type": 1,
+            "api": "https://www.bilfun.cc/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
 {
     "key": "Yinyuetai",
     "name": "🎧音悦┃MV",
