@@ -268,12 +268,6 @@
     "api": "csp_Wexzxzj"
 },
 {
-    "key": "FreeOK",
-    "name": "🎆┣琉芸┫影视",
-    "type": 3,
-	"api": "csp_FreeOK"
-},
-{
     "key": "追剧",
     "name": "🎆┣追剧┫影视",
     "type": 3,
@@ -394,7 +388,7 @@
 },       
 {
 	"key": "csp_Netfixtv",
-	"name": "👀至臻┃自建4K",
+	"name": "🎆┣至臻┫自建",
 	"type": 3,
 	"api": "csp_Duopan",
 	"jar": "./JAR/0801xm.jar",
@@ -402,7 +396,7 @@
 },
 {
 	"key": "freeok",
-	"name": "🦁freeOK┃独家",
+	"name": "🎆┣小米┫独家",
 	"type": 3,
 	"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
     "jar": "./JAR/0801xm.jar",
@@ -410,7 +404,7 @@
 },
 {
 	"key": "huohuo",
-	"name": "💥火火┃独家",
+	"name": "🎆┣火火┫独家",
 	"type": 3,
 	"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
     "jar": "./JAR/0801xm.jar",
@@ -418,28 +412,28 @@
 },
 {
 	"key": "csp_Nkdy",
-	"name": "🥛耐看┃APP",
+	"name": "🎆┣耐看┫影视",
 	"type": 3,
 	"api": "csp_Nkdy",
     "jar": "./JAR/0801xm.jar"
 },
 {
 	"key": "云播",
-	"name": "☁️云播┃影视",
+	"name": "🎆┣云播┫影视",
 	"type": 3,
 	"api": "csp_Tvyb",
     "jar": "./JAR/0801xm.jar"	
 },
 {
 	"key": "csp_DADAG",
-	"name": "⭕️剧圈┃影视",
+	"name": "🎆┣剧圈┫影视",
 	"type": 3,
 	"api": "csp_Dadag",
     "jar": "./JAR/0801xm.jar"
 },
 {
 	"key": "QIYIU",
-	"name": "🦌奇优┃影视",
+	"name": "🎆┣奇优┫影视",
 	"type": 3,
 	"api": "csp_Qiyou",
 	"jar": "./JAR/0801xm.jar"
