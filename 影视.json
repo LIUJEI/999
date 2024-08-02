@@ -287,6 +287,19 @@
     "api": "csp_Dadag"
 },
 {
+      "key": "荐片",
+      "name": "🎆┣琉芸┫推荐",
+      "type": 3,
+      "api": "csp_JianPian",
+      "ext": "http://api2.rinhome.com"
+},
+{
+    "key": "FreeOK",
+    "name": "🎆┣琉芸┫影视",
+    "type": 3,
+    "api": "csp_FreeOK"
+},
+{
     "key": "不卡影视",
     "name": "🎆┣不卡┫APP",
     "type": 3,
@@ -393,22 +406,6 @@
 	"api": "csp_Duopan",
 	"jar": "./JAR/0801xm.jar",
 	"ext": "http://mpanso.com/"
-},
-{
-	"key": "freeok",
-	"name": "🎆┣小米┫独家",
-	"type": 3,
-	"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-    "jar": "./JAR/0801xm.jar",
-	"api": "csp_FreeOK"
-},
-{
-	"key": "huohuo",
-	"name": "🎆┣火火┫独家",
-	"type": 3,
-	"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-    "jar": "./JAR/0801xm.jar",
-	"api": "csp_SaoHuo"
 },
 {
 	"key": "csp_Nkdy",
