@@ -1347,7 +1347,27 @@
     "分类url": "https://www.kmeiju.com/Type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#剧集$2#动漫$4#记录$21#漫影$22"}
 },
-
+{
+	"key": "hipy_js_一起看",
+	"name": "🎆┣起看┫影视",
+	"type": 3,
+	"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/一起看.js"
+},
+{
+	"key": "hipy_js_西瓜影院",
+	"name": "🎆┣西瓜┫影院",
+	"type": 3,
+	"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/西瓜影院.js"
+},
+{
+	"key": "hipy_js_闪电",
+	"name": "🎆┣闪电┫影视",
+	"type": 3,
+	"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/雷电.js"
+},
 {
 	"key": "相声",
 	"name": "📻正版相声",
