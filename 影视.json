@@ -36,7 +36,6 @@
     "api": "csp_XBPQ",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/03影院.json"
 },
-
 {
     "key":"t9-荐片",
     "name":"🎆┣荐片┫影视",
@@ -64,9 +63,8 @@
 {
     "key": "全网影视",
     "name": "🎆┣全网┫影视",
-    "type": 1,
-    "api": "https://www.xncnews.com/api.php/provide/vod/",
-    "categories": ["短剧","电影","国产剧","连续剧","综艺","动漫","真理片"]
+    "type": 3,
+    "api": "csp_Quanwk"
 },
 {
     "key": "南瓜影视",
@@ -81,22 +79,22 @@
     "api": "csp_Zx1080"
 },
 {
-    "key": "桃子影视",
-    "name": "🎆┣桃子┫影视",
-    "type": 3,
-    "api": "csp_Taozi"
-},
-{
-    "key": "达达龟",
-    "name": "🎆┣达龟┫影视",
-    "type": 3,
-    "api": "csp_Dadag"
-},
-{
     "key": "csp_SP360",
     "name": "🎆┣三六┫官源",
     "type": 3,
     "api": "csp_SP360"
+},
+{
+    "key": "愉悦影视",
+    "name": "🎆┣愉悦┫影视",
+    "type": 3,
+    "api": "csp_Wexyuyueys"
+},
+{
+    "key": "铁剧影视",
+    "name": "🎆┣铁剧┫影视",
+    "type": 3,
+    "api": "csp_AppBr"
 },
 {
     "key": "笙歌影视",
@@ -109,6 +107,12 @@
     "name": "🎆┣酷看┫影视",
     "type": 3,
     "api": "csp_Wexkukantv"
+},
+{
+    "key": "剧圈影视",
+    "name": "🎆┣剧圈┫影视",
+    "type": 3,
+    "api": "csp_Juqq"
 },
 {
     "key": "可可影视",
@@ -231,18 +235,6 @@
     "api": "csp_LiteApple"
 },
 {
-    "key": "愉悦影视",
-    "name": "🎆┣愉悦┫影视",
-    "type": 3,
-    "api": "csp_Wexyuyueys"
-},
-{
-    "key": "铁剧影视",
-    "name": "🎆┣铁剧┫影视",
-    "type": 3,
-    "api": "csp_AppBr"
-},
-{
     "key": "视频库",
     "name": "🎆┣视频┫影库",
     "type": 3,
@@ -295,11 +287,36 @@
     "ext": "http://z.kzjtv.com/"
 },
 {
+    "key": "桃子影视",
+    "name": "🎆┣桃子┫影视",
+    "type": 3,
+    "api": "csp_Taozi"
+},
+{
+    "key": "达达龟",
+    "name": "🎆┣达龟┫影视",
+    "type": 3,
+    "api": "csp_Dadag"
+},
+{
     "key": "不卡影视",
-    "name": "🎆┣不卡┫影视",
+    "name": "🎆┣不卡┫APP",
     "type": 3,
     "api": "csp_App",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
     "ext": "PuMSXHTlG7XuTPHibOyZteVY1Bbl6ZlsngCB5cB1aT58PUe5B3fTqNqjFlBRB9gUMb3sBH9Ft54h0DfIM8NZXSQZqL75gkSizgP2bD/FXuU7p8/Atv6nfoWFwgWWXehi2e2bdvWuIZd/iTHBLXJLOErvkwen7BleeOnRa7QzqB9XmOsv/M7AccHoiKa8JPMRfdXDPQT4Edlrk+Fij03D/m66ytOrnl7W4tGxo7UmbtKLKuR1Tr2ureKLLfmEqHCOdCwtqw2Bgi/NNxDXZQAx5ihHKNNipXEDhBXyQBJgfnsuxCd95h1gj845lEYqc/PK/WI9fbWCuQMfd50aPtxG/rRQjPClzRSEk+KOpz9njtQ="
+},
+{
+    "key": "摩托影视",
+    "name": "🎆┣摩托┫APP",
+    "type": 3,
+    "api": "csp_App",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "j3UE7cVyk0jKGyMPkJ35EnqUgtOg+PN9OJevxJzkfD20vgt+RqQVvc3kcbSRgThbJjVk2hC6FWnD0fWIqWd4D4S/NPFftLiwX7Yf2pvV3P2hRAjNWiPO+iJQ33XkJeUHW9gMIzn0FkxZOs+o8juC1SnSkfjblSU1wtxBOetwgC8habcRdvOZEjBSLuZj8SlIjQ9QzwZivBSQGQ44j1bkAxNO4k1MhYbM5Z6QWxv/341MNNt7lsI9pldpg5/KtM/USj9Ftmmree+9m/3E/UgIwWzCl3Ax9B8NQQ7uGFr2wq68ahEIcCZyL3l+U37oARUk"
 },
 {
     "key": "繁荣",
