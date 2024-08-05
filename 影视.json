@@ -37,14 +37,11 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/03影院.json"
 },
 {
-    "key":"jp",
-    "name":"APP|荐片",
-    "type":3,
-    "api":"csp_Jianpian",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0
-},
+      "key": "Appmq",
+      "name": "麻雀┃多线",
+      "type": 3,
+      "api": "csp_Appmq"
+    },
 {
     "key": "csp_SP360",
     "name": "🎆┣三六┫官源",
