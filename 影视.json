@@ -37,16 +37,19 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/03影院.json"
 },
 {
-    "key":"t9-荐片",
-    "name":"🎆┣荐片┫影视",
-    "type":4,
-    "api":"https://catbox.n13.club/t9/jianpian.php"
+    "key":"jp",
+    "name":"APP|荐片",
+    "type":3,
+    "api":"csp_Jianpian",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0
 },
 {
-    "key":"t9-极光",
-    "name":"🎆┣极光┫影视",
-    "type":4,
-    "api":"https://catbox.n13.club/t9/jiguang.php"
+    "key": "csp_SP360",
+    "name": "🎆┣三六┫官源",
+    "type": 3,
+    "api": "csp_SP360"
 },
 {
     "key":"t9-采集",
