@@ -391,7 +391,7 @@
     "name": "🍓煤球┃多线",
     "type": 3,
     "api": "csp_Appmq",
-    "jar": "./JAR/fan.txt"
+    "jar": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/custom_spider.jar"
 },       
 {
 	"key": "csp_Netfixtv",
