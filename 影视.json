@@ -37,7 +37,7 @@
 },
 {
     "key": "荐片",
-    "name": "🎆┣琉芸┫推荐",
+    "name": "🎆┣荐片┫推荐",
     "type": 3,
     "api": "csp_JianPian",
     "ext": "http://api2.rinhome.com"
@@ -49,28 +49,16 @@
     "api": "csp_SP360"
 },
 {
-    "key":"t9-采集",
-    "name":"🎆┣采集┫影视",
-    "type":4,
-    "api":"https://catbox.n13.club/t9/caiji.php"
-},
-{
-    "key":"t9-黑狐",
-    "name":"🎆┣黑狐┫影视",
-    "type":4,
-    "api":"https://catbox.n13.club/t9/heihu.php"
+    "key": "南瓜影视",
+    "name": "🎆┣南瓜┫影视",
+    "type": 3,
+    "api": "csp_WexNgys"
 },
 {
     "key": "全网影视",
     "name": "🎆┣全网┫影视",
     "type": 3,
     "api": "csp_Quanwk"
-},
-{
-    "key": "南瓜影视",
-    "name": "🎆┣南瓜┫影视",
-    "type": 3,
-    "api": "csp_WexNgys"
 },
 {
     "key": "最新影视",
@@ -83,12 +71,6 @@
     "name": "🎆┣愉悦┫影视",
     "type": 3,
     "api": "csp_Wexyuyueys"
-},
-{
-    "key": "铁剧影视",
-    "name": "🎆┣铁剧┫影视",
-    "type": 3,
-    "api": "csp_AppBr"
 },
 {
     "key": "笙歌影视",
@@ -155,12 +137,6 @@
     "name": "🎆┣圣城┫影视",
     "type": 3,
     "api": "csp_SC1080"
-},
-{
-    "key": "兄弟影视",
-    "name": "🎆┣兄弟┫影视",
-    "type": 3,
-    "api": "csp_Wexxiongdiys"
 },
 {
     "key": "明日影视",
@@ -251,7 +227,7 @@
 },
 {
     "key": "利播影视",
-    "name": "🎆┣利播┫影视",
+    "name": "🎆┣立播┫影视",
     "type": 3,
     "api": "csp_Wexlibhd"
 },
@@ -260,19 +236,6 @@
     "name": "🎆┣在线┫之家",
     "type": 3,
     "api": "csp_Wexzxzj"
-},
-{
-    "key": "追剧",
-    "name": "🎆┣追剧┫影视",
-    "type": 3,
-    "api": "csp_AppZJ",
-    "ext": "http://z.kzjtv.com/"
-},
-{
-    "key": "桃子影视",
-    "name": "🎆┣桃子┫影视",
-    "type": 3,
-    "api": "csp_Taozi"
 },
 {
     "key": "达达龟",
@@ -303,14 +266,6 @@
     "api": "csp_Frong",
     "jar": "./JAR/QR.jar",
     "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
-},
-{
-    "key": "现代",
-    "name": "🎆┣现代┫影视",
-    "type": 3,
-    "api": "csp_Xdai",
-    "jar": "./JAR/QR.jar",
-    "ext": "OMS4wLjB8aHR0cDovL2FwcC5icm92b2QudG9wfDQzNmE0NjI5fDIwMjQwNDI4fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDA5ZWUzNTE2YzFjYThlZDE="
 },
 {
     "key":"月亮App",
@@ -368,13 +323,6 @@
     "type": 3,
     "jar": "./JAR/fan.txt",
     "api": "csp_Djtt"
-},
-{
-    "key": "小点",
-    "name": "🎆┣小点┫多线",
-    "type": 3,
-    "jar": "./JAR/fan.txt",
-    "api": "csp_Appxdys"
 },
 {
     "key": "煤球",
