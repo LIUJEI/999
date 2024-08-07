@@ -158,7 +158,7 @@
 },
 {
     "key": "两个磁力",
-    "name": "🎆┣两个┫磁力",
+    "name": "🎆┣比特┫磁力",
     "type": 3,
     "api": "csp_Wexbttwo"
 },
@@ -225,8 +225,12 @@
     "type": 3,
     "api": "csp_Dadag"
 },
-{"key":"愉悦影视","name":"💡愉悦┃影视","type":3,"api":"csp_Wexyuyueys","searchable":1,"changeable":1},
-{"key":"笙歌┃影视","name":"💡笙歌┃影视","type":3,"api":"csp_AppYY","searchable":1,"quickSearch":0,"changeable":0},
+{
+    "key":"笙歌┃影视",
+    "name":"🎆┣笙歌┫影视",
+    "type":3,
+    "api":"csp_AppYY"
+},
 {
     "key": "不卡影视",
     "name": "🎆┣不卡┫APP",
@@ -239,33 +243,21 @@
 },
 {
     "key": "繁荣",
-    "name": "繁荣┃App",
+    "name": "🎆┣繁荣┫App",
     "type": 3,
     "api": "csp_Frong",
-    "jar": "./JAR/QR.jar ;md5;e8c89ed0862c98170bbaff794a645432",
+    "jar": "http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432",
     "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
 },
 {
     "key": "Lib",
-    "name": "Lib┃直连",
+    "name": "🎆┣巧儿┫直连",
     "type": 3,
-    "api": "csp_Lib"
+    "api": "csp_Lib",
+    "jar": "http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432"
    
 },
-{
-    "key": "sliu_spider",
-    "name": "石榴┃直连",
-    "api": "csp_ShiLiuDY",
-    "type": 3,
-    "jar": "./JAR/QR.jar ;md5;e8c89ed0862c98170bbaff794a645432"
-},
-{
-    "key": "时常",
-    "name": "时常┃APP",
-    "type": 3,
-    "api": "csp_qiao3",
-    "jar": "./JAR/QR.jar ;md5;e8c89ed0862c98170bbaff794a645432"
-},
+
 {
     "key": "专线",
     "name": "🎆┣专线┫秒播",
