@@ -254,28 +254,28 @@
 },
 {
     "key": "专线",
-    "name": "🎆┣专线┫秒播",
+    "name": "🚝┣专线┫秒播",
     "type": 3,
     "api": "csp_Zx4k",
     "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b"
 },
 {
     "key": "Jpys",
-    "name": "🎆┣金牌┫秒播",
+    "name": "🐭┣金牌┫秒播",
     "type": 3,
     "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
     "api": "csp_Jpys"
 },
 {
     "key": "文采",
-    "name": "🎆┣文采┫秒播",
+    "name": "💮┣文采┫秒播",
     "type": 3,
     "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
     "api": "csp_Jpys"
 },
 {
     "key": "YCyz",
-    "name": "🎆┣原创┫无广",
+    "name": "☀┣原创┫无广",
     "type": 3,
     "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
     "api": "csp_YCyz"
@@ -289,19 +289,55 @@
 },
 {
     "key": "煤球",
-    "name": "🎆┣煤球┫多线",
+    "name": "🍓┣煤球┫多线",
     "type": 3,
     "api": "csp_Appmq",
     "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b"
 },
 {
     "key": "萌米",
-    "name": "🎆┣萌米┫多线",
+    "name": "👀┣萌米┫多线",
     "type": 3,
     "api": "csp_AppTT",
     "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
     "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-},       
+}, 
+{
+	"key": "云播",
+	"name": "☁️┣云播┫影视",
+	"type": 3,
+	"api": "csp_Tvyb",
+	"jar": "./JAR/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48"
+},
+{
+	"key": "csp_DADAG",
+	"name": "⭕️┣剧圈┫影视",
+	"type": 3,
+	"api": "csp_Dadag",
+    "jar": "./JAR/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48"
+},
+{
+	"key": "QIYIU",
+	"name": "🦌┣奇优┫影视",
+	"type": 3,
+	"api": "csp_Qiyou",
+	"jar": "./JAR/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48"
+}, 
+{
+	"key": "csp_Nkdy",
+	"name": "🥛┣耐看┫影视",
+	"type": 3,
+	"api": "csp_Nkdy",
+	"jar": "./JAR/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48"
+},
+{
+	"key": "csp_zhizhen",
+	"name": "🌹┣至臻┫4K4K",
+	"type": 3,
+	"api": "csp_Duopan",
+	"jar": "./JAR/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48",
+	"ext": {"site_urls": ["http://mihdr.top","http://mpanso.com"]}
+},
 {
     "key": "hipy_js_短剧TV网",
     "name": "📛┣TV网┫短剧",
