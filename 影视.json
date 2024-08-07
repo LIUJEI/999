@@ -539,15 +539,6 @@
     "changeable": 0 
 },        
 {
-    "key": "Iktv",
-    "name": "🎵KTV┃K歌",
-    "type": 3,
-    "api": "csp_Iktv",
-    "searchable": 1,
-    "changeable": 0,
-    "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/ktv.jar"
-},
-{
     "key":"music",
     "name": "🎵酷狗┃音乐",
     "type": 3,
@@ -556,16 +547,6 @@
     "searchable":0,
     "changeable":0,
     "style":{"type":"rect","ratio":1.433}
-},
-{
-    "key":"csp_xpath_kuqimv",
-    "name":"🎵酷奇┃音乐",
-    "type":3,
-    "api":"csp_XPath",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/lib/kuqimv.json"
 },
 {
     "key": "csp_Bili短剧",
