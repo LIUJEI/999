@@ -55,12 +55,6 @@
     "api": "csp_WexNgys"
 },
 {
-    "key": "全网影视",
-    "name": "🎆┣全网┫影视",
-    "type": 3,
-    "api": "csp_Quanwk"
-},
-{
     "key": "最新影视",
     "name": "🎆┣最新┫影视",
     "type": 3,
@@ -242,6 +236,27 @@
     "name": "🎆┣铁剧┫影视",
     "type": 3,
     "api": "csp_AppBr"
+},
+{
+    "key": "XBPQ_黑狐",
+	"name": "🎆┣黑狐┫影视",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Lib/黑狐影视.json"
+},
+{
+	"key": "XBPQ_98影视",
+	"name": "🎆┣酒吧┫影视",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/98影视.json"
+},
+{
+	"key": "XBPQ_4kvm",
+	"name": "🎆┣高清┫大全",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/4kvm.json"
 },
 {
     "key": "不卡影视",
