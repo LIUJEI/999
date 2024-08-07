@@ -67,18 +67,6 @@
     "api": "csp_Zx1080"
 },
 {
-    "key": "愉悦影视",
-    "name": "🎆┣愉悦┫影视",
-    "type": 3,
-    "api": "csp_Wexyuyueys"
-},
-{
-    "key": "笙歌影视",
-    "name": "🎆┣笙歌┫影视",
-    "type": 3,
-    "api": "csp_AppYY"
-},
-{
     "key": "酷看影视",
     "name": "🎆┣酷看┫影视",
     "type": 3,
@@ -143,12 +131,6 @@
     "name": "🎆┣明日┫影视",
     "type": 3,
     "api": "csp_WexMingriys"
-},
-{
-    "key": "腐剧视频",
-    "name": "🎆┣腐剧┫视频",
-    "type": 3,
-    "api": "csp_WexFujutv"
 },
 {
     "key": "啾啾影视",
@@ -244,12 +226,6 @@
     "api": "csp_Dadag"
 },
 {
-    "key": "FreeOK",
-    "name": "🎆┣琉芸┫影视",
-    "type": 3,
-    "api": "csp_FreeOK"
-},
-{
     "key": "不卡影视",
     "name": "🎆┣不卡┫APP",
     "type": 3,
@@ -266,21 +242,6 @@
     "api": "csp_Frong",
     "jar": "./JAR/QR.jar",
     "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
-},
-{
-    "key":"月亮App",
-    "name":"🎆┣月亮┫影视",
-    "type":3,
-    "api":"csp_Ylys",
-    "jar": "./JAR/QR.jar"
-},
-{
-    "key":"时常",
-    "name":"🎆┣时常┫影视",
-    "type":3,
-    "api":"csp_qiao3",
-    "jar": "./JAR/QR.jar",
-    "ext":"laHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNhZDl8ZTU5ZDQ0YjJlZWYwM2FkOQ=="
 },
 {
     "key":"sliu_spider",
