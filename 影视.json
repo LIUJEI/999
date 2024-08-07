@@ -225,6 +225,8 @@
     "type": 3,
     "api": "csp_Dadag"
 },
+{"key":"愉悦影视","name":"💡愉悦┃影视","type":3,"api":"csp_Wexyuyueys","searchable":1,"changeable":1},
+{"key":"笙歌┃影视","name":"💡笙歌┃影视","type":3,"api":"csp_AppYY","searchable":1,"quickSearch":0,"changeable":0},
 {
     "key": "不卡影视",
     "name": "🎆┣不卡┫APP",
@@ -486,13 +488,28 @@
 {"key": "皇冠影视","name": "🌀┣皇冠┫快播","type": 1,"api": "https://hong.hgyx.vip/api.php/provide/vod/"},
 {"key": "剧狗影视","name": "🌀┣剧狗┃快播","type": 1,"api": "https://www.youmuz.cn/api.php/provide/vod/"},
 {
+    "key":"本地",
+    "name":"🐲本地｜视频",
+    "type":3,
+    "api":"csp_LocalFile"
+},
+{
+    "key":"采集之王",
+    "name":"🐲采王┃采集",
+    "type":3,
+    "api":"https://xn--zp8-mf3g9f.v.nxog.top/m/js/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "order_num":142,
+    "ext":"https://xn--zp8-mf3g9f.v.nxog.top/m/js/采集之王.js?type=url&params=https://xn--zp8-mf3g9f.v.nxog.top/m/json/采集静态.json"
+},
+{
     "key": "Yinyuetai",
     "name": "🎧音悦┃MV",
     "type": 3,
     "api": "https://gitee.com/dongchenys/liu/raw/master/js/yinyuetai.js",
     "searchable": 1,
-    "changeable": 0
-      
+    "changeable": 0 
 },        
 {
     "key": "Iktv",
