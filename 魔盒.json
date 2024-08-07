@@ -3,7 +3,7 @@
 
     "warningText":"💕永久完全免费，切勿付费购买💕",  
 
-    "spider":"https://gitlab.com/dokiss1/tvbox/-/raw/master/jar/spider.jar",
+    "spider":"https://gitee.com/xmbjmjk/omg/raw/master/xmbjm.jar",
     
  
     "lives": [{"name": "live2","type": 0,"url": "./lives/live2.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"}],
@@ -129,19 +129,7 @@
     "分类": "电视剧$2#电影$1#动漫$4#综艺$5#短剧$28#动作$6#喜剧$7#爱情$8#科幻$9#国产剧$13#国产动漫$24#大陆综艺$17",
     "分类url": "https://rebozj.pro/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"}
 },
-{
-    "key": "csp_hmhd",
-    "name": "正版🦛河马影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-    "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-    "分类": "电影&电视剧&动漫&综艺",
-    "分类值": "1&2&3&4"}
-},
+
 {
     "key": "csp_mgtva",
     "name": "正版🥑木瓜影视",
@@ -169,18 +157,7 @@
     "分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
     "分类": "电影$1#剧集$2#动漫$3#综艺$4"}
 },
-{
-    "key": "全集影视",
-    "name": "正版🎉全集影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-    "分类url": "https://quan.cn.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$39"}
-},
+
 {
     "key": "剧集TV",
     "name": "正版🎊剧集影视",
@@ -283,18 +260,7 @@
     "分类url": "https://www.yu992.com/lys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
     "分类": "剧集$juji#电影$dianying#综艺$zongyi#动漫$dongman#短剧$duanju"}
 },
-{
-    "key": "饭团影视",
-    "name": "🥮饭团┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-    "分类url": "https://www.xyy6680.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-    "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"}
-},
+
 {
     "key": "魔力高清",
     "name": "正版🥮魔力高清",
@@ -308,18 +274,7 @@
     "分类url": "https://www.mmldy.cc/type/film/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$film#电视剧$tv#动漫$dongman#综艺$zongyi"}
 },
-{
-    "key": "往往影视",
-    "name": "正版🥮往往影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-    "分类url": "https://www.wwys.pro/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "剧集$2#电影$1#综艺$3#动漫$4#短剧$5"}
-},
+
 {
     "key": "橙汁",
     "name": "影视🧃橙汁影视",
