@@ -236,68 +236,78 @@
     "ext": "PuMSXHTlG7XuTPHibOyZteVY1Bbl6ZlsngCB5cB1aT58PUe5B3fTqNqjFlBRB9gUMb3sBH9Ft54h0DfIM8NZXSQZqL75gkSizgP2bD/FXuU7p8/Atv6nfoWFwgWWXehi2e2bdvWuIZd/iTHBLXJLOErvkwen7BleeOnRa7QzqB9XmOsv/M7AccHoiKa8JPMRfdXDPQT4Edlrk+Fij03D/m66ytOrnl7W4tGxo7UmbtKLKuR1Tr2ureKLLfmEqHCOdCwtqw2Bgi/NNxDXZQAx5ihHKNNipXEDhBXyQBJgfnsuxCd95h1gj845lEYqc/PK/WI9fbWCuQMfd50aPtxG/rRQjPClzRSEk+KOpz9njtQ="
 },
 {
-    "key": "繁荣",
-    "name": "🎆┣繁荣┫影视",
+    "key": "摩托影视",
+    "name": "🎆┣摩托┫APP",
     "type": 3,
-    "api": "csp_Frong",
-    "jar": "./JAR/QR.jar",
-    "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
+    "api": "csp_App",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "j3UE7cVyk0jKGyMPkJ35EnqUgtOg+PN9OJevxJzkfD20vgt+RqQVvc3kcbSRgThbJjVk2hC6FWnD0fWIqWd4D4S/NPFftLiwX7Yf2pvV3P2hRAjNWiPO+iJQ33XkJeUHW9gMIzn0FkxZOs+o8juC1SnSkfjblSU1wtxBOetwgC8habcRdvOZEjBSLuZj8SlIjQ9QzwZivBSQGQ44j1bkAxNO4k1MhYbM5Z6QWxv/341MNNt7lsI9pldpg5/KtM/USj9Ftmmree+9m/3E/UgIwWzCl3Ax9B8NQQ7uGFr2wq68ahEIcCZyL3l+U37oARUk"
 },
 {
-    "key":"sliu_spider",
-    "name":"🎆┣石榴┫影视",
-    "type":3,
-    "api":"csp_ShiLiuDY",
-    "jar": "./JAR/QR.jar"
+    "key": "专线",
+    "name": "🎆┣专线┫秒播",
+    "type": 3,
+    "api": "csp_Zx4k",
+    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b"
 },
 {
     "key": "Jpys",
     "name": "🎆┣金牌┫秒播",
     "type": 3,
-    "jar": "./JAR/fan.txt",
+    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
     "api": "csp_Jpys"
 },
 {
     "key": "文采",
     "name": "🎆┣文采┫秒播",
     "type": 3,
-    "jar": "./JAR/fan.txt",
+    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
     "api": "csp_Jpys"
 },
 {
     "key": "YCyz",
     "name": "🎆┣原创┫无广",
     "type": 3,
-    "jar": "./JAR/fan.txt",
+    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
     "api": "csp_YCyz"
 },
 {
     "key": "Cddys",
     "name": "🎆┣臭蛋┫多线",
     "type": 3,
-    "jar": "./JAR/fan.txt",
+    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
     "api": "csp_Cddys"
 },
 {
     "key": "Djtt",
     "name": "🎆┣无忧┫短剧",
     "type": 3,
-    "jar": "./JAR/fan.txt",
+    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
     "api": "csp_Djtt"
 },
 {
     "key": "煤球",
-    "name": "🍓煤球┃多线",
+    "name": "🎆┣煤球┫多线",
     "type": 3,
     "api": "csp_Appmq",
-    "jar": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/custom_spider.jar?ref=master"
+    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b"
+},
+{
+    "key": "萌米",
+    "name": "🎆┣萌米┫多线",
+    "type": 3,
+    "api": "csp_AppTT",
+    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
+    "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
 },       
 {
 	"key": "csp_Netfixtv",
 	"name": "🎆┣至臻┫自建",
 	"type": 3,
 	"api": "csp_Duopan",
-	"jar": "./JAR/0801xm.jar",
+	"jar": "https://like.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a",
 	"ext": "http://mpanso.com/"
 },
 {
@@ -305,28 +315,28 @@
 	"name": "🎆┣耐看┫影视",
 	"type": 3,
 	"api": "csp_Nkdy",
-    "jar": "./JAR/0801xm.jar"
+    "jar": "https://like.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a"
 },
 {
 	"key": "云播",
 	"name": "🎆┣云播┫影视",
 	"type": 3,
 	"api": "csp_Tvyb",
-    "jar": "./JAR/0801xm.jar"	
+    "jar": ""	
 },
 {
 	"key": "csp_DADAG",
 	"name": "🎆┣剧圈┫影视",
 	"type": 3,
 	"api": "csp_Dadag",
-    "jar": "./JAR/0801xm.jar"
+    "jar": "https://like.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a"
 },
 {
 	"key": "QIYIU",
 	"name": "🎆┣奇优┫影视",
 	"type": 3,
 	"api": "csp_Qiyou",
-	"jar": "./JAR/0801xm.jar"
+	"jar": ""
 },
 
 {
