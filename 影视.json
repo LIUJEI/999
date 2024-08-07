@@ -232,6 +232,14 @@
     "api":"csp_AppYY"
 },
 {
+    "key":"愉悦影视",
+    "name":"🎆┣愉悦┫影视",
+    "type":3,
+    "api":"csp_Wexyuyueys",
+    "searchable":1,
+    "changeable":1
+},
+{
     "key": "不卡影视",
     "name": "🎆┣不卡┫APP",
     "type": 3,
@@ -249,15 +257,6 @@
     "jar": "http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432",
     "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
 },
-{
-    "key": "Lib",
-    "name": "🎆┣巧儿┫直连",
-    "type": 3,
-    "api": "csp_Lib",
-    "jar": "http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432"
-   
-},
-
 {
     "key": "专线",
     "name": "🎆┣专线┫秒播",
