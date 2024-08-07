@@ -302,42 +302,6 @@
     "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
     "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
 },       
-{
-	"key": "csp_Netfixtv",
-	"name": "🎆┣至臻┫自建",
-	"type": 3,
-	"api": "csp_Duopan",
-	"jar": "https://like.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a",
-	"ext": "http://mpanso.com/"
-},
-{
-	"key": "csp_Nkdy",
-	"name": "🎆┣耐看┫影视",
-	"type": 3,
-	"api": "csp_Nkdy",
-    "jar": "https://like.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a"
-},
-{
-	"key": "云播",
-	"name": "🎆┣云播┫影视",
-	"type": 3,
-	"api": "csp_Tvyb",
-    "jar": ""	
-},
-{
-	"key": "csp_DADAG",
-	"name": "🎆┣剧圈┫影视",
-	"type": 3,
-	"api": "csp_Dadag",
-    "jar": "https://like.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a"
-},
-{
-	"key": "QIYIU",
-	"name": "🎆┣奇优┫影视",
-	"type": 3,
-	"api": "csp_Qiyou",
-	"jar": ""
-},
 
 {
     "key":"短剧吧",
