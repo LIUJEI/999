@@ -233,21 +233,21 @@
 },
 {
     "key": "XBPQ_电影先生",
-    "name": "电影|先生",
+    "name": "🎆┣电影┫先生",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/电影先生.json"
 },
 {
     "key": "✨YY影视✨",
-    "name": "UU|影视",
+    "name": "🎆┣优优┫影视",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/UU影视.json"
 },
 {
     "key": "XBPQ_南坊",
-	"name": "🛞南坊┃影视",
+	"name": "🎆┣南坊┫影视",
 	"type": 3,
 	"api": "csp_XBPQ",
 	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/南坊.json"
