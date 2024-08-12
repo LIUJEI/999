@@ -1,7 +1,7 @@
 {
 	"站名": "南坊追剧",
 	"线路数组": "value=\"&&</div>",
-	"线路标题": "<span>&&[替换:</span><small>>> #</small>>>集]",
+	"线路标题": "琉芸专享✨+<span>&&[替换:</span><small>>> #</small>>>集]",
 	"分类url": "https://www.nfapp.fun/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ak",
 	"跳转播放链接": "https://www.nfzj.fun/bfq/FosiPlayer/?url=+link_pre*url\":\"&&\"",
 	"二次跳转播放链接": "https://www.nfzj.fun/bfq/FosiPlayer/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
