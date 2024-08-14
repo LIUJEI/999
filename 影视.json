@@ -56,28 +56,22 @@
 },
 {
     "key": "全网影视",
-    "name": "全网｜影视",
+    "name": "🎆┣全网┫影视",
     "type": 3,
-    "api": "csp_Quanwk",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-{
-    "key": "追剧影视",
-    "name": "追剧｜APP",
-    "type": 3,
-    "api": "csp_AppZJ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "http://z.kzjtv.com/"
+    "api": "csp_Quanwk"
 },
 {
     "key": "最新影视",
     "name": "🎆┣最新┫影视",
     "type": 3,
     "api": "csp_Zx1080"
+},
+{
+    "key": "追剧影视",
+    "name": "🎆┣追剧┫APP",
+    "type": 3,
+    "api": "csp_AppZJ",
+    "ext": "http://z.kzjtv.com/"
 },
 {
     "key": "酷看影视",
