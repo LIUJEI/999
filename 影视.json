@@ -55,6 +55,25 @@
     "api": "csp_WexNgys"
 },
 {
+    "key": "全网影视",
+    "name": "全网｜影视",
+    "type": 3,
+    "api": "csp_Quanwk",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "追剧影视",
+    "name": "追剧｜APP",
+    "type": 3,
+    "api": "csp_AppZJ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "http://z.kzjtv.com/"
+},
+{
     "key": "最新影视",
     "name": "🎆┣最新┫影视",
     "type": 3,
@@ -65,6 +84,24 @@
     "name": "🎆┣酷看┫影视",
     "type": 3,
     "api": "csp_Wexkukantv"
+},
+{
+    "key": "快看影视",
+    "name": "🎆┣快看┫影视",
+    "type": 3,
+    "api": "csp_Kuaikan"
+},
+{
+    "key": "爱看影视",
+    "name": "爱看｜影视",
+    "type": 3,
+    "api": "csp_Ikan"
+},
+{
+    "key": "看看影视",
+    "name": "🎆┣看看┫影视",
+    "type": 3,
+    "api": "csp_WebIV"
 },
 {
     "key": "可可影视",
@@ -101,12 +138,6 @@
     "name": "🎆┣天天┫影视",
     "type": 3,
     "api": "csp_AppTT"
-},
-{
-    "key": "快看影视",
-    "name": "🎆┣快看┫影视",
-    "type": 3,
-    "api": "csp_Kuaikan"
 },
 {
     "key": "毛驴影视",
@@ -161,12 +192,6 @@
     "name": "🎆┣骚火┫影视",
     "type": 3,
     "api": "csp_Wexsaohuo"
-},
-{
-    "key": "看看影视",
-    "name": "🎆┣看看┫影视",
-    "type": 3,
-    "api": "csp_WebIV"
 },
 {
     "key": "苹果影视",
@@ -230,6 +255,12 @@
     "name":"🎆┣愉悦┫影视",
     "type":3,
     "api":"csp_Wexyuyueys"
+},
+{
+    "key": "FreeOK",
+    "name": "🎆┣芸芸┫影视",
+    "type": 3,
+    "api": "csp_FreeOK"
 },
 {
     "key": "XBPQ_电影先生",
