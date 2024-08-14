@@ -58,7 +58,8 @@
     "key": "全网影视",
     "name": "🎆┣全网┫影视",
     "type": 3,
-    "api": "csp_Quanwk"
+	"api": "csp_Quanwk",
+	"ext": "https://888.qkw1.cc/"
 },
 {
     "key": "最新影视",
@@ -342,20 +343,6 @@
     "api": "csp_YCyz"
 },
 {
-    "key": "Cddys",
-    "name": "🎆┣臭蛋┫多线",
-    "type": 3,
-    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
-    "api": "csp_Cddys"
-},
-{
-    "key": "煤球",
-    "name": "🍓┣煤球┫多线",
-    "type": 3,
-    "api": "csp_Appmq",
-    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b"
-},
-{
     "key": "萌米",
     "name": "👀┣萌米┫多线",
     "type": 3,
@@ -545,6 +532,24 @@
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
 },
+{
+			"key": "酷影",
+			"name": "🥥酷影┃4K",
+			
+			"type": 3,
+			"api": "csp_AppYsV2",
+			
+			"ext": "http://122.228.85.203:3366/api.php/app/"
+		},
+		{
+			"key": "君君",
+			"name": "🚗君君┃4K",
+			
+			"type": 3,
+			"api": "csp_AppYsV2",
+			
+			"ext": "http://122.228.85.203:1000/api.php/app/"
+		},
 {"key": "感觉","name": "🏧┣新觉┃APP","type": 3,"api": "csp_AppYsV2","ext": "http://43.248.100.147:9891/api.php/app/"},
 {"key": "奴娜","name": "🏧┣奴娜┃APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.nntv.in/api.php/v1.vod"},
 {"key": "异界","name": "🏧┣异界┃APP","type": 3,"api": "csp_AppYsV2","ext": "http://ysjtv.yy365.vip/api.php/app/"},
