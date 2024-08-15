@@ -387,11 +387,27 @@
 	"ext": {"site_urls": ["http://mihdr.top","http://mpanso.com"]}
 },
 {
+    "key": "无忧短剧",
+    "name": "📛┣无忧┫短剧",
+    "type": 3,
+    "api": "csp_Duanj",
+    "searchable": 1,
+    "changeable": 0,
+    "style": {"type": "rect","ratio": 1.433},
+    "jar": "./JAR/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+},
+{
     "key": "hipy_js_短剧TV网",
     "name": "📛┣TV网┫短剧",
     "type": 3,
     "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/短剧TV网.js"
+},
+{
+    "key": "星芽短剧",
+    "name": "📛┣星芽┫APP",
+    "type": 3,
+    "api": "csp_AppXY"
 },
 {
     "key": "hipy_js_星芽短剧app",
