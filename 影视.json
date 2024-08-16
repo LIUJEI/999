@@ -49,6 +49,13 @@
     "api": "csp_SP360"
 },
 {
+	"key": "csp_pptv",
+	"name": "🫧泡泡┃影视",
+	"type": 3,
+	"api": "csp_Pptv",
+	"jar": "./JAR/OYWCN.txt;md5;89edf4358bcd12ad16d35bb8e3df19c3"
+},
+{
     "key": "南瓜影视",
     "name": "🎆┣南瓜┫影视",
     "type": 3,
