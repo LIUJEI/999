@@ -336,21 +336,6 @@
     "api": "csp_Jpys"
 },
 {
-    "key": "YCyz",
-    "name": "☀┣原创┫无广",
-    "type": 3,
-    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
-    "api": "csp_YCyz"
-},
-{
-    "key": "萌米",
-    "name": "👀┣萌米┫多线",
-    "type": 3,
-    "api": "csp_AppTT",
-    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
-    "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-}, 
-{
 	"key": "csp_pptv",
 	"name": "🫧泡泡┃影视",
 	"type": 3,
@@ -361,7 +346,8 @@
 	"key": "huohuo",
 	"name": "💥火火┃独家",
 	"type": 3,
-	"api": "csp_SaoHuo"
+	"api": "csp_SaoHuo",
+    "jar": "./JAR/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48"
 },
 {
 	"key": "云播",
@@ -563,11 +549,11 @@
 },
 {"key": "酷影","name": "🥥┣酷影┫4Kp","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.85.203:3366/api.php/app/"},
 {
-      "key": "测压",
-      "name": "🌟摸鱼测压┃4K解析",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": " http://4k.摸鱼儿.com/api.php/app/"
+    "key": "测压",
+    "name": "🌟摸鱼┃解析",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": " http://4k.摸鱼儿.com/api.php/app/"
 },
 {"key": "感觉","name": "🏧┣新觉┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://43.248.100.147:9891/api.php/app/"},
 {"key": "奴娜","name": "🏧┣奴娜┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.nntv.in/api.php/v1.vod"},
