@@ -49,13 +49,6 @@
     "api": "csp_SP360"
 },
 {
-	"key": "csp_pptv",
-	"name": "🫧泡泡┃影视",
-	"type": 3,
-	"api": "csp_Pptv",
-	"jar": "./JAR/OYWCN.txt;md5;89edf4358bcd12ad16d35bb8e3df19c3"
-},
-{
     "key": "南瓜影视",
     "name": "🎆┣南瓜┫影视",
     "type": 3,
@@ -357,6 +350,19 @@
     "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
     "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
 }, 
+{
+	"key": "csp_pptv",
+	"name": "🫧泡泡┃影视",
+	"type": 3,
+	"api": "csp_Pptv",
+	"jar": "./JAR/OYWCN.txt;md5;89edf4358bcd12ad16d35bb8e3df19c3"
+},
+{
+	"key": "huohuo",
+	"name": "💥火火┃独家",
+	"type": 3,
+	"api": "csp_SaoHuo"
+},
 {
 	"key": "云播",
 	"name": "☁️┣云播┫影视",
