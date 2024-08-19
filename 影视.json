@@ -547,8 +547,9 @@
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
 },
+{"key": "夜图","name": "🏧┣宝盒┫4KK","type": 3,"api": "csp_AppYsV2","ext": " http://cms-yt.lyyytv.cn/api.php/app/"},
 {"key": "君君","name": "🏧┣君君┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.85.203:1000/api.php/app/"},
-{"key": "测压","name": "🏧┣摸鱼┫APP","type": 3,"api": "csp_AppYsV2","ext": " http://4k.摸鱼儿.com/api.php/app/"},
+{"key": "测压","name": "🏧┣摸鱼┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://4k.摸鱼儿.com/api.php/app/"},
 {"key": "感觉","name": "🏧┣新觉┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://43.248.100.147:9891/api.php/app/"},
 {"key": "奴娜","name": "🏧┣奴娜┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.nntv.in/api.php/v1.vod"},
 {"key": "沐沐","name": "🏧┣沐沐┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://nnystv.cn/api.php/app/"},
