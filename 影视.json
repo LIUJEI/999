@@ -337,14 +337,14 @@
 },
 {
 	"key": "csp_pptv",
-	"name": "🫧泡泡┃影视",
+	"name": "💮┣泡泡┫影视",
 	"type": 3,
 	"api": "csp_Pptv",
 	"jar": "./JAR/OYWCN.txt;md5;89edf4358bcd12ad16d35bb8e3df19c3"
 },
 {
 	"key": "huohuo",
-	"name": "💥火火┃独家",
+	"name": "💮┣火火┫独家",
 	"type": 3,
 	"api": "csp_SaoHuo",
     "jar": "./JAR/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48"
@@ -547,14 +547,8 @@
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
 },
-{"key": "酷影","name": "🥥┣酷影┫4Kp","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.85.203:3366/api.php/app/"},
-{
-    "key": "测压",
-    "name": "🌟摸鱼┃解析",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": " http://4k.摸鱼儿.com/api.php/app/"
-},
+{"key": "君君","name": "🏧┣君君┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.85.203:1000/api.php/app/"},
+{"key": "测压","name": "🏧┣摸鱼┫APP","type": 3,"api": "csp_AppYsV2","ext": " http://4k.摸鱼儿.com/api.php/app/"},
 {"key": "感觉","name": "🏧┣新觉┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://43.248.100.147:9891/api.php/app/"},
 {"key": "奴娜","name": "🏧┣奴娜┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.nntv.in/api.php/v1.vod"},
 {"key": "沐沐","name": "🏧┣沐沐┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://nnystv.cn/api.php/app/"},
@@ -831,6 +825,14 @@
 	"name": "速讯Ⓢ蓝光",
 	"type": 1,
 	"url": "https://cdn.suxun.site/api/?key=HRTgKIxjsFBAhDcrge&url=",
+	"ext": {
+	"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905"],
+	"header": {"User-Agent": "okhttp/4.9.1"}}
+},
+{
+	"name": "爱优腾4K",
+	"type": 1,
+	"url": "http://www.mpanso.com/woaini.php?url=",
 	"ext": {
 	"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905"],
 	"header": {"User-Agent": "okhttp/4.9.1"}}
