@@ -128,6 +128,41 @@
     "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"}
 },
 {
+    "key": "csp_七新影视",
+    "name":"正版🍁七新影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext": {
+    "主页url":"http://www.7xdy.com/",
+    "简介":"【琉✿芸】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=\"display: none;\">&&</span>",
+    "导演":"",
+    "主演":"主演：&&</a>",   
+    "搜索url":"http://www.7xdy.com/search.php;post;searchword={wd}",  
+    "影片状态":"集数：&&</div>",
+    "影片类型":"video-tag-icon\">&&立即播放",
+    "线路标题":"🌹琉✿芸🌹八大平台一网打尽",
+    "线路数组":"<h3&&</h3>",
+    "分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
+    "分类":"🏮劉氏-影業$guochanju#电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}
+},
+{
+    "key":"csp_xBPQ_九八",
+    "name":"正版☪九八影",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext": {
+    "站名":"玖八",
+    "主页url":"http://www.98dyb.com/",
+    "简介":"【琉芸提醒】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=*>&&</span>",
+    "影片状态":"状态：&&</p>",
+    "搜索url":"/search.php;post;searchword={wd}",
+    "线路数组":"<h3&&/h3>",
+    "线路标题":"拾光接口+src=*>&&<",
+    "分类url":"http://www.98dyb.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
+    "分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}
+},
+
+{
     "key": "csp_mgtva",
     "name": "正版🥑木瓜影视",
     "type": 3,
@@ -150,18 +185,6 @@
     "线路标题": ">&&<",
     "分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
     "分类": "电影$1#剧集$2#动漫$3#综艺$4"}
-},
-{
-    "key": "剧集TV",
-    "name": "正版🎊剧集影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-    "分类url": "https://wap.ijujitv.cc/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "韩剧$1#陆剧$6#日剧$2#美剧$3#泰剧$4#港剧$7#台剧$8#短剧$9"}
 },
 {
     "key": "bkyy",
@@ -253,7 +276,6 @@
     "分类url": "https://www.yu992.com/lys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
     "分类": "剧集$juji#电影$dianying#综艺$zongyi#动漫$dongman#短剧$duanju"}
 },
-
 {
     "key": "魔力高清",
     "name": "正版🥮魔力高清",
@@ -318,15 +340,6 @@
     "播放数组": "<div class=\"scroll-content\">&&</div>",
     "播放标题": "<span>&&</span>",
     "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"}
-},
-{
-    "key": "哩咕TV0",
-    "name": "正版🎗哩咕高清",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "分类url": "https://www.ligutv.com/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$1#连续剧$2#动漫$3#综艺$4#短剧$5"}
 },
 {
     "key": "zztong",
@@ -465,7 +478,6 @@
 	"分类": "电影$20#电视剧$39#动漫$46#综艺$47",
 	"分类url": "https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"}
 },
-
 {
     "key": "大象影视",
     "name": "正版🐘大象影视",
@@ -492,7 +504,6 @@
     "分类url": "http://www.61tv.icu/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
 },
-
 {
     "key": "HG影视",
     "name": "正版💥猴哥影视",
@@ -661,27 +672,6 @@
     "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
     "分类url": "https://www.brovod.com/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#短剧$6"}
-},
-{
-    "key": "csp_七新影视",
-    "name":"正版🍁七新影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext": {
-    "主页url":"http://www.7xdy.com/",
-    "简介":"【琉✿芸】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=\"display: none;\">&&</span>",
-    "导演":"",
-    "主演":"主演：&&</a>",   
-    "搜索url":"http://www.7xdy.com/search.php;post;searchword={wd}",  
-    "影片状态":"集数：&&</div>",
-    "影片类型":"video-tag-icon\">&&立即播放",
-    "线路标题":"🌹琉✿芸🌹八大平台一网打尽",
-    "线路数组":"<h3&&</h3>",
-    "分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html",
-    "分类":"🏮劉氏-影業$guochanju#电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}
 },
 {
     "key":"csp_xBPQ_奇优",
