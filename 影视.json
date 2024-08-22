@@ -300,6 +300,20 @@
 	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/4kvm.json"
 },
 {
+	"key": "csp_XBPQ_茶杯狐",
+	"name": "🎆┣茶杯┫聚合",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/茶杯.json"
+},
+{
+	"key": "hipy_js_央视大全",
+	"name": "🎆┣央视┫大全",
+	"type": 3,
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/大全央视.js"
+},		
+{
     "key": "不卡影视",
     "name": "🎆┣不卡┫APP",
     "type": 3,
@@ -568,7 +582,6 @@
 {"key": "奴娜","name": "🏧┣奴娜┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.nntv.in/api.php/v1.vod"},
 {"key": "沐沐","name": "🏧┣沐沐┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://nnystv.cn/api.php/app/"},
 {"key": "龙门","name": "🏧┣龙门┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://movie.iqinu.com/api.php/v1.vod"},
-{"key": "星球","name": "🏧┣奈飞┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.netfly.tv/api.php/app/"},
 {"key": "鸭飞","name": "🏧┣鸭飞┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://yanetflix.me/api.php/app/"},
 {"key": "剧兔","name": "🏧┣追剧┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.zjtu.one/api.php/app/"},
 {"key": "河狸","name": "🏧┣河狸┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.heli888.cc/api.php/app/"},
