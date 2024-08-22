@@ -512,6 +512,20 @@
     "导演": "导演:&&</div>",
     "主演": "主演:&&</div>",
     "简介": "<p>&&</p>"}
+},
+{
+    "key": "csp_XYQHiker_爱你短剧",
+    "name":"📛┣爱你┫短剧",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/爱你短剧.json"
+},
+{
+    "key": "csp_XYQHiker_河马短剧",
+    "name":"📛┣河马┫短剧",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/河马短剧.json"
 },		
 {
     "key":"dr_卫士",
