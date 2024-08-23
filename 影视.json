@@ -599,7 +599,7 @@
     "key":"采集之王",
     "name":"🐲采王┃采集",
     "type": 3,
-	"api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
