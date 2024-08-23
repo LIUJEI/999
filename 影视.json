@@ -610,7 +610,7 @@
 	"key": "hipy_js_短剧在线",
 	"name": "短剧在线(drpy_t3)",
 	"type": 3,
-	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js/drpy_libs/drpy2.min.js",
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/短剧在线.js"
 },
 {
@@ -624,7 +624,7 @@
 	"key": "hipy_js_泡泡影院",
 	"name": "泡泡影院(drpy_t3)",
 	"type": 3,
-	"api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/泡泡影院.js"
 },
 {
@@ -632,7 +632,7 @@
 	"name": "酷云77(drpy_t3)",
 	"type": 3,
 	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js/drpy_libs/drpy2.min.js",
-	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/酷云77.js"
+	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/酷云影视.js"
 },		
 {
     "key": "Yinyuetai",
