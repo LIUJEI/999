@@ -607,6 +607,34 @@
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/采集之王[合].js?type=url&params=../json/采集静态.json$1"
 },
 {
+	"key": "hipy_js_短剧在线",
+	"name": "短剧在线(drpy_t3)",
+	"type": 3,
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js/drpy_libs/drpy2.min.js",
+	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/短剧在线.js"
+},
+{
+	"key": "hipy_js_一起看",
+	"name": "一起看(drpy_t3)",
+	"type": 3,
+	"api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
+	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/一起看.js"
+},
+{
+	"key": "hipy_js_泡泡影院",
+	"name": "泡泡影院(drpy_t3)",
+	"type": 3,
+	"api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
+	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/泡泡影院.js"
+},
+{
+	"key": "hipy_js_酷云77",
+	"name": "酷云77(drpy_t3)",
+	"type": 3,
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js/drpy_libs/drpy2.min.js",
+	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/酷云77.js"
+},		
+{
     "key": "Yinyuetai",
     "name": "🎧音悦┃MV",
     "type": 3,
