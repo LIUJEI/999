@@ -305,39 +305,11 @@
     "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
 },
 {
-    "key": "专线",
-    "name": "🚝┣专线┫秒播",
-    "type": 3,
-    "api": "csp_Zx4k",
-    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b"
-},
-{
-    "key": "Jpys",
-    "name": "🐭┣金牌┫秒播",
-    "type": 3,
-    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
-    "api": "csp_Jpys"
-},
-{
-    "key": "文采",
-    "name": "💮┣文采┫秒播",
-    "type": 3,
-    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
-    "api": "csp_Jpys"
-},
-{
 	"key": "csp_pptv",
 	"name": "💮┣泡泡┫影视",
 	"type": 3,
 	"api": "csp_Pptv",
 	"jar": "./JAR/OYWCN.txt;md5;89edf4358bcd12ad16d35bb8e3df19c3"
-},
-{
-	"key": "huohuo",
-	"name": "💮┣火火┫独家",
-	"type": 3,
-	"api": "csp_SaoHuo",
-    "jar": "./JAR/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48"
 },
 {
 	"key": "云播",
@@ -587,7 +559,7 @@
 },
 {
     "key": "三六资源",
-    "name": "🎗┣琉芸┫资源",
+    "name": "🎗┣三六┫资源",
     "type": 1,
     "api": "https://360zy.com/api.php/provide/vod",
     "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
@@ -784,33 +756,7 @@
     
 {"name":"🌐智能聚合","type":3,"url":"Web"},   
 {"name":"🌐自动聚合","type":3,"url":"Demo"},
-{
-      "name": "摸鱼测压",
-      "type": 1,
-      "url": "http://vipjx.xn--v4q818bf34b.com/moyu64.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
-},
+
 {
     "name": "龙龙专线㊎",
     "type": "1",
