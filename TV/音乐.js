@@ -93,7 +93,7 @@ async function detail(id) {
             vod_name: res.title,
             vod_play_from: _.map(res.fullClip.urls, n => {return n.display}).join('$$$'),
 			vod_play_url: _.map(res.fullClip.urls, n => {return '播放$' + n.url}).join('$$$'),
-            vod_content: '关注公众号“东方精英汇”，获取最新接口，加qq群783264601防迷失！【东辰影视】提醒您：该资源来源于网络，请勿传播，仅供技术学习使用，请在学习后24小时内删除！',
+            vod_content: '关注“流云软件”，获取最新接口！【琉芸】提醒您：该资源来源于网络，请勿传播，仅供技术学习使用，请在学习后24小时内删除！',
         };
         return JSON.stringify({
             list: [vod],
