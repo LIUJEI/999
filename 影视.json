@@ -607,25 +607,11 @@
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/采集之王[合].js?type=url&params=../json/采集静态.json$1"
 },
 {
-	"key": "hipy_js_剧圈圈",
-	"name": "剧圈圈(drpy_t3)",
-	"type": 3,
-	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/剧圈圈.js"
-},
-{
 	"key": "hipy_js_一起看",
 	"name": "一起看(drpy_t3)",
 	"type": 3,
 	"api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/一起看.js"
-},
-{
-	"key": "hipy_js_皮皮影视",
-	"name": "皮皮影视(drpy_t3)",
-	"type": 3,
-	"api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
-	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/皮皮影视.js"
 },
 {
 	"key": "hipy_js_酷云影视",
