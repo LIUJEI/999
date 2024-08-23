@@ -598,12 +598,13 @@
 {
     "key":"采集之王",
     "name":"🐲采王┃采集",
-    "type":3,
-    "api":"https://xn--zp8-mf3g9f.v.nxog.top/m/js/drpy2.min.js",
-    "searchable":1,
-    "quickSearch":1,
-    "order_num":142,
-    "ext":"https://xn--zp8-mf3g9f.v.nxog.top/m/js/采集之王.js?type=url&params=https://xn--zp8-mf3g9f.v.nxog.top/m/json/采集静态.json"
+    "type": 3,
+	"api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/采集之王[合].js?type=url&params=../json/采集静态.json$1"
 },
 {
     "key": "Yinyuetai",
