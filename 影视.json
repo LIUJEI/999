@@ -610,7 +610,7 @@
     "key": "Yinyuetai",
     "name": "🎧音悦┃MV",
     "type": 3,
-    "api": "https://gitee.com/dongchenys/liu/raw/master/js/yinyuetai.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/音乐.js",
     "searchable": 1,
     "changeable": 0 
 },        
