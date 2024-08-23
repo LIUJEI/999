@@ -550,12 +550,12 @@
 {"key": "雷神","name": "🏧┣雷神┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://39.98.32.241:6688/api.php/zjv3.vod"},
 {"key": "追忆","name": "🏧┣追忆┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://110.42.7.101:1122/api.php/app/"},
 {
-    "key": "蚂蚁资源",
-    "name": "🎗┣蚂蚁┫资源",
+    "key": "黑木耳资源",
+    "name": "🎗┣木耳┫资源",
     "type": 1,
-    "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
-    "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
-    "filterable": 1
+    "api": "https://heimuer.tv/api.php/provide/vod/",
+    "playurl": "https://player.heimuer.tv/index.html?url=",
+    "categories": ["网络电影","国产剧","国产综艺","合集短剧","逆袭短剧","穿越短剧","悬疑短剧","神豪短剧","重生短剧","甜宠短剧","强者短剧","古装短剧"] 
 },
 {
     "key": "三六资源",
@@ -563,11 +563,10 @@
     "type": 1,
     "api": "https://360zy.com/api.php/provide/vod",
     "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
-    "filterable": 1
+    "categories": ["古装片","国产片","大陆综艺","爽文短剧","现代都市","年代穿越","古装仙侠","成长逆袭"] 
 }, 
 {"key": "鸣人资源","name": "🌀┣鸣人┫采集","type": 1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list"},
 {"key": "优质资源","name": "🌀┣优质┃采集","type": 0,"api": "https://api.1080zyku.com/inc/ldg_api.php"},
-{"key": "黑木资源","name": "🌀┣木耳┃采集","type": 1,"api": "https://heimuer.tv/api.php/provide/vod/"},
 {"key": "喵派对影","name": "🌀┣喵趣┃采集","type": 1,"api": "https://www.lezy.lol/api.php/provide/vod/"},
 {"key": "影猫资源","name": "🌀┣影猫┃快播","type": 1,"api": "http://ysm.tkbot.fun/api.php/provide/vod/"},
 {"key": "何以资源","name": "🌀┣何以┃快播","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/"},
@@ -589,7 +588,7 @@
 {"key": "墨白影视","name": "🌀┣墨白┫快播","type": 1,"api": "https://nm.xxxc137.top/api.php/provide/vod/"},
 {"key": "风启影视","name": "🌀┣风启┫快播","type": 1,"api": "https://15ds.cn/api.php/provide/vod/"},
 {"key": "皇冠影视","name": "🌀┣皇冠┫快播","type": 1,"api": "https://hong.hgyx.vip/api.php/provide/vod/"},
-
+{"key": "爱坤资源","name": "🌀┣爱坤┫采集","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json"},
 {
     "key":"本地",
     "name":"🐲本地｜视频",
