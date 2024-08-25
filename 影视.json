@@ -578,12 +578,15 @@
     "api":"csp_LocalFile"
 },
 {
-    "key": "韩小圈",
-    "name": "🐲韩小圈｜APP",
+    "key": "hipy_js_采集之王[合]",
+    "name": "🐲采集｜之王",
     "type": 3,
-    "api": "csp_HanXiaoQuan",
-    "jar": "./JAR/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
-},
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "order_num": 210,
+    "ext": "http://ttkx.live:55/lib/采集之王.js?type=url&params=./lib/采集静态.json"},
 {
 	"key": "hipy_js_一起看",
 	"name": "一起看看",
