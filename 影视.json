@@ -587,14 +587,14 @@
 	"key": "hipy_js_一起看",
 	"name": "一起看看",
 	"type": 3,
-	"api": "https://git.acwing.com/999/tvbox/-/blob/main/TV/drpy2.min.js",
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/一起看.js"
 },
 {
 	"key": "hipy_js_西瓜影院",
 	"name": "西瓜影院",
 	"type": 3,
-	"api": "https://git.acwing.com/999/tvbox/-/blob/main/TV/drpy2.min.js",
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/西瓜影院.js"
 },
 {
