@@ -587,7 +587,7 @@
 	"key": "hipy_js_一起看",
 	"name": "一起看看",
 	"type": 3,
-	"api": "https://git.acwing.com/999/tvbox/-/raw/main/drpy2.min.js",
+	"api": "./drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/一起看.js"
 },
 {
