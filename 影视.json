@@ -733,6 +733,7 @@
     "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
     "type": 3,
     "api": "csp_Config",
+    "style": {"type": "rect","ratio": 1.597},
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar"
 },
 {
