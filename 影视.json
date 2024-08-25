@@ -571,43 +571,31 @@
 {"key": "风启影视","name": "🌀┣风启┫快播","type": 1,"api": "https://15ds.cn/api.php/provide/vod/"},
 {"key": "皇冠影视","name": "🌀┣皇冠┫快播","type": 1,"api": "https://hong.hgyx.vip/api.php/provide/vod/"},
 {"key": "爱坤资源","name": "🌀┣爱坤┫采集","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json"},
-{
-    "key":"本地",
-    "name":"🐲本地｜视频",
-    "type":3,
-    "api":"csp_LocalFile"
-},
-{
-    "key": "hipy_js_采集之王[合]",
-    "name": "🐲采集｜之王",
-    "type": 3,
-    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-    "ext": "http://ttkx.live:55/lib/采集之王.js?type=url&params=./lib/采集静态.json"
-},
+
 {
 	"key": "hipy_js_侠客影视",
-	"name": "侠客影视",
+	"name": "🐲侠客影视",
 	"type": 3,
 	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/侠客影视.js"
 },
 {
 	"key": "hipy_js_新茶杯狐",
-	"name": "新茶杯狐",
+	"name": "🐲新茶杯狐",
 	"type": 3,
 	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/新茶杯狐.js"
 },
 {
 	"key": "hipy_js_影视大全",
-	"name": "影视大全",
+	"name": "🐲影视大全",
 	"type": 3,
 	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/影视大全.js"
 },
 {
 	"key": "hipy_js_毒蛇电影[优]",
-	"name": "毒蛇电影",
+	"name": "🐲毒蛇电影",
 	"type": 3,
 	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/毒蛇电影[优].js"
@@ -741,21 +729,18 @@
     "ext":"https://notabug.org/liuyun/H--2024/raw/master/json/小灯塔国学.json"
 },
 {
-  "key": "cofig",
-  "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
-  "type": 3,
-  "style": {"type": "rect","ratio": 1.433},
-  "api": "csp_Config",
-  "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+    "key": "配置中心",
+    "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
+    "type": 3,
+    "api": "csp_Config",
+    "style": {"type": "rect","ratio": 1.597},
+    "jar": "./JAR/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
 },
 {
-  "key": "bb",
-  "name": "🇨🇳┣☪琉✿芸┫【更新时间:08.25】",
-  "type": 3,
-  "api": "csp_XPath",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0 
+    "key":"本地",
+    "name": "🇨🇳┣☪琉✿芸┫【更新时间:08.25】",
+    "type":3,
+    "api":"csp_LocalFile"
 }],
 
 "parses":[
