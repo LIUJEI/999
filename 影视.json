@@ -582,51 +582,47 @@
     "name": "🐲采集｜之王",
     "type": 3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "order_num": 210,
     "ext": "http://ttkx.live:55/lib/采集之王.js?type=url&params=./lib/采集静态.json"},
 {
 	"key": "hipy_js_一起看",
 	"name": "一起看看",
 	"type": 3,
-	"api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
+	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/一起看.js"
 },
 {
 	"key": "hipy_js_西瓜影院",
-	"name": "西瓜影院(drpy_t3)",
+	"name": "西瓜影院",
 	"type": 3,
-	"api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
+	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/西瓜影院.js"
 },
 {
 	"key": "hipy_js_侠客影视",
 	"name": "侠客影视",
 	"type": 3,
-	"api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
+	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/侠客影视.js"
 },
 {
 	"key": "hipy_js_新茶杯狐",
 	"name": "新茶杯狐",
 	"type": 3,
-	"api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
+	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/新茶杯狐.js"
 },
 {
 	"key": "hipy_js_影视大全",
 	"name": "影视大全",
 	"type": 3,
-	"api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
+	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/影视大全.js"
 },
 {
 	"key": "hipy_js_毒蛇电影[优]",
 	"name": "毒蛇电影",
 	"type": 3,
-	"api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
+	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/毒蛇电影[优].js"
 },		
 {
