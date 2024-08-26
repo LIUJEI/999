@@ -576,7 +576,7 @@
 	"key": "hipy_js_侠客影视",
 	"name": "🐲侠客影视",
 	"type": 3,
-	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+	"api": "http://ttkx.live:55/lib/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/侠客影视.js"
 },
 {
