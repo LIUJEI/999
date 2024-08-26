@@ -576,21 +576,21 @@
 	"key": "hipy_js_侠客影视",
 	"name": "🐲侠客影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy2.min.js",
+	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/侠客影视.js"
 },
 {
 	"key": "hipy_js_新茶杯狐",
 	"name": "🐲新茶杯狐",
 	"type": 3,
-	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/新茶杯狐.js"
 },
 {
 	"key": "hipy_js_影视大全",
 	"name": "🐲影视大全",
 	"type": 3,
-	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/影视大全.js"
 },
 {
