@@ -509,7 +509,36 @@
     "api":"csp_XYQHiker",
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/河马短剧.json"
 },		
-
+{
+    "key": "Wexduanjuvop",
+    "name": "📛┣短剧┫秒播",
+    "type": 3,
+    "api": "csp_Wexduanjuvop",
+    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724601406964/wex.txt"
+},
+{
+    "key": "Wexduanjuhema",
+    "name": "📛┣短剧┫仙品",
+    "type": 3,
+    "api": "csp_Wexduanjuhema",
+    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724601406964/wex.txt"
+},
+{
+      "key": "Wexbaipiao",
+      "name": "🎇星星┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wexbaipiao",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wex4Kav",
+      "name": "🎇急速┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wex4Kav",
+      "searchable": 1,
+      "changeable": 1
+    },
 {"key": "夜图","name": "🏧┣宝盒┫4KK","type": 3,"api": "csp_AppYsV2","ext": " http://cms-yt.lyyytv.cn/api.php/app/"},
 {"key": "君君","name": "🏧┣君君┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.85.203:1000/api.php/app/"},
 {"key": "感觉","name": "🏧┣新觉┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://43.248.100.147:9891/api.php/app/"},
