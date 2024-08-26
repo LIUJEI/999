@@ -720,10 +720,8 @@
     "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
     "type": 3,
     "api": "csp_ConfigCenter",
-    "jar": "./JAR/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75",
-    "ext": {
-    "commonConfig": "https://git.acwing.com/iduoduo/orange/-/raw/main/peizhi.json"
-    }
+    "jar": "https://git.acwing.com/iduoduo/orange/-/raw/main/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+    "ext": {"commonConfig": "https://git.acwing.com/iduoduo/orange/-/raw/main/peizhi.json"}
 },
 {
     "key":"本地",
