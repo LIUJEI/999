@@ -36,6 +36,48 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/03影院.json"
 },
 {
+    "key":"dr_卫士",
+    "name":"🅾️主力【官方】",
+    "type":3,
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/360.js"
+},
+{
+    "key":"dr_腾迅",
+    "name":"🐧腾讯【官方】",
+    "type":3,
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/QQtv.js"
+},
+{
+    "key":"dr_芒果",
+    "name":"🥭芒果【官方】",
+    "type":3,
+    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/MGtv.js"
+},
+{
+    "key":"dr_奇异",
+    "name":"🥝爱奇艺【官方】",
+    "type":3,
+    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/AQItv.js"
+},
+{
+    "key":"dr_搜狗",
+    "name":"🦊搜狗【官方】",
+    "type":3,
+    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/SGtv.js"
+},
+{
+    "key":"dr_优酷",
+    "name":"🏠优酷【官方】",
+    "type":3,
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
+},
+{
     "key": "荐片",
     "name": "🎆┣荐片┫推荐",
     "type": 3,
@@ -467,48 +509,7 @@
     "api":"csp_XYQHiker",
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/河马短剧.json"
 },		
-{
-    "key":"dr_卫士",
-    "name":"🅾️主力【官方】",
-    "type":3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/360.js"
-},
-{
-    "key":"dr_腾迅",
-    "name":"🐧腾讯【官方】",
-    "type":3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/QQtv.js"
-},
-{
-    "key":"dr_芒果",
-    "name":"🥭芒果【官方】",
-    "type":3,
-    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/MGtv.js"
-},
-{
-    "key":"dr_奇异",
-    "name":"🥝爱奇艺【官方】",
-    "type":3,
-    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/AQItv.js"
-},
-{
-    "key":"dr_搜狗",
-    "name":"🦊搜狗【官方】",
-    "type":3,
-    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/SGtv.js"
-},
-{
-    "key":"dr_优酷",
-    "name":"🏠优酷【官方】",
-    "type":3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
-},
+
 {"key": "夜图","name": "🏧┣宝盒┫4KK","type": 3,"api": "csp_AppYsV2","ext": " http://cms-yt.lyyytv.cn/api.php/app/"},
 {"key": "君君","name": "🏧┣君君┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.85.203:1000/api.php/app/"},
 {"key": "感觉","name": "🏧┣新觉┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://43.248.100.147:9891/api.php/app/"},
@@ -571,20 +572,6 @@
 {"key": "风启影视","name": "🌀┣风启┫快播","type": 1,"api": "https://15ds.cn/api.php/provide/vod/"},
 {"key": "皇冠影视","name": "🌀┣皇冠┫快播","type": 1,"api": "https://hong.hgyx.vip/api.php/provide/vod/"},
 {"key": "爱坤资源","name": "🌀┣爱坤┫采集","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json"},
-{
-    "key": "js_changmeng",
-    "name": "🐲畅梦影视",
-    "type": 3,
-    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-    "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/畅梦影视[优].js"
-},
-{
-    "key": "hipy_js_毒蛇电影[优]",
-    "name": "🐲毒蛇电影",
-    "type": 3,
-    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-    "ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/毒蛇电影[优].js"
-},
 {
     "key": "hipy_js_央视大全",
     "name": "🇨🇳央视大全",
@@ -729,12 +716,15 @@
     "ext":"https://notabug.org/liuyun/H--2024/raw/master/json/小灯塔国学.json"
 },
 {
-    "key": "配置中心",
+    "key": "ConfigCenter",
     "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
     "type": 3,
     "api": "csp_ConfigCenter",
+    "searchable": 0,
+    "changeable": 0,
     "ext": {
-    "commonConfig": "https://git.acwing.com/iduoduo/orange/-/raw/main/peizhi.json"}
+    "commonConfig": "https://git.acwing.com/iduoduo/orange/-/raw/main/peizhi.json"
+    }
 },
 {
     "key":"本地",
