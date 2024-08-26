@@ -573,11 +573,11 @@
 {"key": "爱坤资源","name": "🌀┣爱坤┫采集","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json"},
 
 {
-	"key": "hipy_js_侠客影视",
-	"name": "🐲侠客影视",
+	"key": "hipy_js_央视大全",
+	"name": "🐲央视大全",
 	"type": 3,
 	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-	"ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/侠客影视.js"
+	"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/大全央视[央].js"
 },
 {
 	"key": "hipy_js_新茶杯狐",
@@ -732,9 +732,9 @@
     "key": "配置中心",
     "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
     "type": 3,
-    "api": "csp_Config",
-    "style": {"type": "rect","ratio": 1.597},
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar"
+    "api": "csp_ConfigCenter",
+    "ext": {
+    "commonConfig": "https://git.acwing.com/iduoduo/orange/-/raw/main/peizhi.json"}
 },
 {
     "key":"本地",
