@@ -347,7 +347,7 @@
     "key": "hipy_js_短剧TV网",
     "name": "📛┣TV网┫短剧",
     "type": 3,
-    "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/短剧TV网.js"
 },
 {
@@ -360,7 +360,7 @@
     "key": "hipy_js_星芽短剧app",
     "name": "📛┣星芽┫短剧",
     "type": 3,
-    "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/星芽短剧.js"
 },
 {
@@ -374,7 +374,7 @@
     "key": "hipy_js_短剧天堂",
     "name": "📛┣天堂┫短剧",
     "type": 3,
-    "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/短剧天堂.js"
 },
 {
@@ -391,7 +391,7 @@
     "key": "hipy_js_榜一短剧",
     "name": "📛┣榜壹┫短剧",
     "type": 3,
-    "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/榜一短剧.js"
 },
 {
@@ -597,6 +597,7 @@
     "name":"🇨🇳央视频道",
     "type":3,
     "api":"csp_CCTV",
+    "jar": "https://gitee.com/tvkj/tw/raw/main/lib/HeChengChaXiu7.jar",
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/央视频道.json"
 },		
 {
