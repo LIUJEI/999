@@ -354,35 +354,35 @@
     "name": "🎆┣云播┫影视",
     "type": 3,
     "api": "csp_Tvyb",
-    "jar": "./JAR/OYWCN.txt;md5;8f613ce3a83ee9428695d97a84c8bd48"
+    "jar": "./JAR/OYWCN.txt"
 },
 {
     "key": "csp_DADAG",
     "name": "🎆┣剧圈┫影视",
     "type": 3,
     "api": "csp_Dadag",
-    "jar": "./JAR/OYWCN.txt;md5;8f613ce3a83ee9428695d97a84c8bd48"
+    "jar": "./JAR/OYWCN.txt"
 },
 {
     "key": "QIYIU",
     "name": "🎆┣奇优┫影视",
     "type": 3,
     "api": "csp_Qiyou",
-    "jar": "./JAR/OYWCN.txt;md5;8f613ce3a83ee9428695d97a84c8bd48"
+    "jar": "./JAR/OYWCN.txt"
 }, 
 {
     "key": "csp_Nkdy",
     "name": "🎆┣耐看┫影视",
     "type": 3,
     "api": "csp_Nkdy",
-    "jar": "./JAR/OYWCN.txt;md5;8f613ce3a83ee9428695d97a84c8bd48"
+    "jar": "./JAR/OYWCN.txt"
 },
 {
     "key": "csp_zhizhen",
     "name": "🎆┣至臻┫4K4K",
     "type": 3,
     "api": "csp_Duopan",
-    "jar": "./JAR/OYWCN.txt;md5;8f613ce3a83ee9428695d97a84c8bd48",
+    "jar": "https://gitlab.com/dokiss1/tvbox/-/raw/master/jar/xmpg.jar",
     "ext": {"site_urls": ["http://mihdr.top","http://mpanso.com"]}
 },
 {
