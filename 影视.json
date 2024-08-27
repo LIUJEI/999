@@ -333,6 +333,16 @@
     "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
 },
 {
+	"key": "csp_瓜子",
+	"name": "🌰瓜子┃1080P",
+	"api": "csp_Gz360",
+	"type": 3,
+	"searchable": 1,
+	"playerType": 2,
+	"timeout": 30,
+	"changeable": 0
+},
+{
     "key": "csp_pptv",
     "name": "🎆┣泡泡┫影视",
     "type": 3,
