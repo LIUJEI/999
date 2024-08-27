@@ -78,6 +78,56 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
 },
 {
+    "key": "XBPQ_电影先生",
+    "name": "🎆┣电影┫先生",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/电影先生.json"
+},
+{
+    "key": "✨YY影视✨",
+    "name": "🎆┣优优┫影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/UU影视.json"
+},
+{
+    "key": "XBPQ_南坊",
+    "name": "🎆┣南坊┫影视",
+    "type": 3,
+	"api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/南坊.json"
+},
+{
+    "key": "XBPQ_黑狐",
+    "name": "🎆┣黑狐┫影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/黑狐影视.json"
+},
+{
+    "key": "XBPQ_98影视",
+    "name": "🎆┣酒吧┫影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/98影视.json"
+},
+{
+    "key": "XBPQ_4kvm",
+    "name": "🎆┣高清┫大全",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/4kvm.json"
+},	
+{
+    "key": "繁荣",
+    "name": "🎆┣繁荣┫App",
+    "type": 3,
+    "api": "csp_Frong",
+    "jar": "http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432",
+    "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
+},
+{
     "key": "荐片",
     "name": "🎆┣荐片┫推荐",
     "type": 3,
@@ -214,15 +264,9 @@
 },
 {
     "key": "骚火影视",
-    "name": "🎆┣骚火┫影视",
+    "name": "🎆┣火火┫影视",
     "type": 3,
     "api": "csp_Wexsaohuo"
-},
-{
-    "key": "苹果影视",
-    "name": "🎆┣苹果┫影视",
-    "type": 3,
-    "api": "csp_LiteApple"
 },
 {
     "key": "视频库",
@@ -276,71 +320,18 @@
     "api": "csp_FreeOK"
 },
 {
-    "key": "XBPQ_电影先生",
-    "name": "🎆┣电影┫先生",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/电影先生.json"
-},
-{
-    "key": "✨YY影视✨",
-    "name": "🎆┣优优┫影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/UU影视.json"
-},
-{
-    "key": "XBPQ_南坊",
-    "name": "🎆┣南坊┫影视",
-    "type": 3,
-	"api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/南坊.json"
-},
-{
-    "key": "XBPQ_黑狐",
-    "name": "🎆┣黑狐┫影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/黑狐影视.json"
-},
-{
-    "key": "XBPQ_98影视",
-    "name": "🎆┣酒吧┫影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/98影视.json"
-},
-{
-    "key": "XBPQ_4kvm",
-    "name": "🎆┣高清┫大全",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/4kvm.json"
-},	
-{
-    "key": "不卡影视",
-    "name": "🎆┣不卡┫APP",
-    "type": 3,
-    "api": "csp_App",
-    "ext": "PuMSXHTlG7XuTPHibOyZteVY1Bbl6ZlsngCB5cB1aT58PUe5B3fTqNqjFlBRB9gUMb3sBH9Ft54h0DfIM8NZXSQZqL75gkSizgP2bD/FXuU7p8/Atv6nfoWFwgWWXehi2e2bdvWuIZd/iTHBLXJLOErvkwen7BleeOnRa7QzqB9XmOsv/M7AccHoiKa8JPMRfdXDPQT4Edlrk+Fij03D/m66ytOrnl7W4tGxo7UmbtKLKuR1Tr2ureKLLfmEqHCOdCwtqw2Bgi/NNxDXZQAx5ihHKNNipXEDhBXyQBJgfnsuxCd95h1gj845lEYqc/PK/WI9fbWCuQMfd50aPtxG/rRQjPClzRSEk+KOpz9njtQ="
-},
-{
-    "key": "繁荣",
-    "name": "🎆┣繁荣┫App",
-    "type": 3,
-    "api": "csp_Frong",
-    "jar": "http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432",
-    "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
-},
-{
 	"key": "csp_瓜子",
-	"name": "🌰瓜子┃1080P",
+	"name": "🎆┣瓜子┫影视",
 	"api": "csp_Gz360",
 	"type": 3,
-	"searchable": 1,
-	"playerType": 2,
-	"timeout": 30,
-	"changeable": 0
+	"jar": "./JAR/xiaomi.txt"
+},
+{
+	"key": "csp_LiteApple",
+	"name": "🎆┣苹果┫影视",
+	"type": 3,
+	"api": "csp_LiteApple",
+	"jar": "./JAR/xiaomi.txt"
 },
 {
     "key": "csp_pptv",
@@ -354,37 +345,30 @@
     "name": "🎆┣云播┫影视",
     "type": 3,
     "api": "csp_Tvyb",
-    "jar": "./JAR/OYWCN.txt"
+    "jar": "./JAR/xiaomi.txt"
 },
 {
     "key": "csp_DADAG",
     "name": "🎆┣剧圈┫影视",
     "type": 3,
     "api": "csp_Dadag",
-    "jar": "./JAR/OYWCN.txt"
+    "jar": "./JAR/xiaomi.txt"
 },
 {
     "key": "QIYIU",
     "name": "🎆┣奇优┫影视",
     "type": 3,
     "api": "csp_Qiyou",
-    "jar": "./JAR/OYWCN.txt"
+    "jar": "./JAR/xiaomi.txt"
 }, 
 {
     "key": "csp_Nkdy",
     "name": "🎆┣耐看┫影视",
     "type": 3,
     "api": "csp_Nkdy",
-    "jar": "./JAR/OYWCN.txt"
+    "jar": "./JAR/xiaomi.txt"
 },
-{
-    "key": "csp_zhizhen",
-    "name": "🎆┣至臻┫4K4K",
-    "type": 3,
-    "api": "csp_Duopan",
-    "jar": "https://gitlab.com/dokiss1/tvbox/-/raw/master/jar/xmpg.jar",
-    "ext": {"site_urls": ["http://mihdr.top","http://mpanso.com"]}
-},
+
 {
     "key": "无忧短剧",
     "name": "📛┣无忧┫短剧",
