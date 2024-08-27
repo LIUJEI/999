@@ -766,11 +766,7 @@
     "type":3,
     "url":"Web"
 },   
-{
-    "name": "盘古解析",
-    "type": 0,
-    "url": "https://www.pangujiexi.com/pangu/?url="
-},
+
 {
     "name": "七七解析3",
     "type": 0,
@@ -802,20 +798,9 @@
     "header": {"User-Agent": "Dalvik/2.1.0"}
 },
 {
-	"name": "速讯Ⓢ蓝光",
-	"type": 1,
-	"url": "https://cdn.suxun.site/api/?key=HRTgKIxjsFBAhDcrge&url=",
-	"ext": {
-	"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905"],
-	"header": {"User-Agent": "okhttp/4.9.1"}}
-},
-{
-	"name": "爱优腾4K",
-	"type": 1,
-	"url": "http://www.mpanso.com/woaini.php?url=",
-	"ext": {
-	"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905"],
-	"header": {"User-Agent": "okhttp/4.9.1"}}
+    "name": "盘古解析",
+    "type": 0,
+    "url": "https://www.pangujiexi.com/pangu/?url="
 },
 {
     "name": "夜幕Ⓝ解析",
@@ -842,7 +827,11 @@
     "type": 0,
     "url": "https://jx.m3u8.tv/jiexi/?url="
 },
-    
+{
+    "name": "8090嗅探",
+    "type": 0,
+    "url": "https://www.8090g.cn/jiexi/?url="
+},    
 {
     "name": "虾米Ⓑ",
     "type": 0,
