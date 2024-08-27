@@ -807,28 +807,20 @@
     "url": "https://www.8090g.cn/jiexi/?url="
 },
 {
-    "name": "虾米Ⓐ",
+    "name":"🏁琉芸★全能嗅探★Ⓦ",
+    "type": "1",
+    "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url="
+},
+{
+    "name":"🏁琉芸★全能嗅探★Ⓜ︎",
     "type": 0,
     "url": "https://jx.xmflv.com/?url=",
     "ext": {
     "flag": [  "爱奇艺",  "奇艺",  "qq",  "腾讯",  "youku",  "优酷",  "pptv",  "PPTV",  "letv",  "乐视",  "leshi",  "bilibili",  "哔哩哔哩",  "哔哩",  "mgtv",  "芒果",  "芒果"],
     "header": { 
-     "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36"}}
-},
-{
-    "name":"🏁琉芸★全能嗅探★Ⓦ",
-    "type": "1",
-    "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
-    "flag": ["youku","qq","qiyi","bilibili","mgtv","pptv","xigua"],
-    "header": {"User-Agent": "Dalvik/2.1.0"}
-},
-{
-    "name":"🏁琉芸★全能嗅探★Ⓜ︎",
-    "type": "1",
-    "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
-    "flag": ["LXTX"],
-    "header": {"User-Agent": "Dalvik/2.1.0"}
+    "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36"}}
 }],
+
 "rules":[
 {"name":"量子广告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy"],"regex":["20.52","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+","#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"]},
