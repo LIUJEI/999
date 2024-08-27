@@ -761,9 +761,32 @@
 
 "parses":[
     
-{"name":"🌐智能聚合","type":3,"url":"Web"},   
-{"name":"🌐自动聚合","type":3,"url":"Demo"},
-
+{
+    "name":"🌐智能聚合",
+    "type":3,
+    "url":"Web"
+},   
+{
+    "name": "盘古解析",
+    "type": 0,
+    "url": "https://www.pangujiexi.com/pangu/?url="
+},
+{
+    "name": "七七解析3",
+    "type": 0,
+    "url": "https://jx.xyflv.cc/?url=",
+    "ext": {
+    "header": {
+    "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
+    "referer": "https://www.xyflv.cc/"}}
+},
+{
+    "name": "芸芸解析",
+    "type": 1,
+    "url": "http://119.91.123.253:2345/Api/yun.php?url=",
+    "ext": { 
+    "header": {"User-Agent": "Dart/2.18 (dart:io)"}}
+},
 {
     "name": "龙龙专线㊎",
     "type": "1",
