@@ -324,14 +324,14 @@
 	"name": "🎆┣瓜子┫影视",
 	"api": "csp_Gz360",
 	"type": 3,
-	"jar": "./JAR/xiaomi.txt"
+	"jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
 },
 {
 	"key": "csp_LiteApple",
 	"name": "🎆┣苹果┫影视",
 	"type": 3,
 	"api": "csp_LiteApple",
-	"jar": "./JAR/xiaomi.txt"
+	"jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
 },
 {
     "key": "csp_pptv",
@@ -345,28 +345,28 @@
     "name": "🎆┣云播┫影视",
     "type": 3,
     "api": "csp_Tvyb",
-    "jar": "./JAR/xiaomi.txt"
+    "jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
 },
 {
     "key": "csp_DADAG",
     "name": "🎆┣剧圈┫影视",
     "type": 3,
     "api": "csp_Dadag",
-    "jar": "./JAR/xiaomi.txt"
+    "jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
 },
 {
     "key": "QIYIU",
     "name": "🎆┣奇优┫影视",
     "type": 3,
     "api": "csp_Qiyou",
-    "jar": "./JAR/xiaomi.txt"
+    "jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
 }, 
 {
     "key": "csp_Nkdy",
     "name": "🎆┣耐看┫影视",
     "type": 3,
     "api": "csp_Nkdy",
-    "jar": "./JAR/xiaomi.txt"
+    "jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
 },
 
 {
