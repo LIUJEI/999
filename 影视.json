@@ -345,16 +345,6 @@
 	"jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
 },
 {
-	"key": "csp_LiteApple",
-	"name": "🎆┣苹果┫影视",
-	"type": 3,
-	"searchable": 1,
-	"api": "csp_LiteApple",
-	"playerType": 1,
-	"filterable": 1,
-	"jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
-},
-{
     "key": "csp_pptv",
     "name": "🎆┣泡泡┫影视",
     "type": 3,
@@ -398,7 +388,7 @@
     "searchable": 1,
     "changeable": 0,
     "style": {"type": "rect","ratio": 1.433},
-    "jar": "./JAR/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
 },
 {
     "key": "hipy_js_短剧TV网",
@@ -587,6 +577,56 @@
 {"key": "风启影视","name": "🌀┣风启┫快播","type": 1,"api": "https://15ds.cn/api.php/provide/vod/"},
 {"key": "皇冠影视","name": "🌀┣皇冠┫快播","type": 1,"api": "https://hong.hgyx.vip/api.php/provide/vod/"},
 {"key": "爱坤资源","name": "🌀┣爱坤┫采集","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json"},
+{
+    "key": "文才弹幕",
+    "name": "文才｜弹幕",
+    "type": 3,
+    "api": "csp_Jpys",
+    "ext": {"danmu": true},
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+},
+{
+    "key": "一起看弹幕",
+    "name": "一起看｜弹幕",
+    "type": 3,
+    "api": "csp_Yqk",
+    "ext": {"danmu": true},
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+},
+{
+    "key": "JOJO弹幕",
+    "name": "JOJO｜弹幕",
+    "type": 3,
+    "api": "csp_Jiohub",
+    "ext": {"danmu": true},
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+},
+{
+    "key": "哔嘀弹幕",
+    "name": "哔嘀｜弹幕",
+    "type": 3,
+    "api": "csp_Bdys",
+    "ext": {
+    "site": "https://www.yjys01.com",
+    "danmu": true},
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+},
+{
+    "key": "在线短剧",
+    "name": "在线｜短剧",
+    "type": 3,
+    "api": "csp_Duanju",
+    "style": {"type": "rect","ratio": 1.433},
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+},
+{
+    "key": "韩小圈",
+    "name": "韩小圈｜APP",
+    "type": 3,
+    "api": "csp_HanXiaoQuan",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+},
+
 {
     "key": "hipy_js_央视大全",
     "name": "🇨🇳央视大全",
