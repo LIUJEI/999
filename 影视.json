@@ -345,10 +345,11 @@
 },
 {
 	"key": "csp_paopao",
-	"name": "🫧菠菜┃1080P",
+	"name": "🎆┣菠菜┫影视",
 	"type": 3,
 	"api": "csp_Pptv",
-	"ext": "https://yigeg.pro"
+	"ext": "https://yigeg.pro",
+    "jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
 },
 {
 	"key": "csp_瓜子",
@@ -399,6 +400,13 @@
     "api": "csp_Wexduanjuvip",
     "searchable": 1,
     "changeable": 1
+},
+ {
+    "key": "韩小圈",
+    "name": "🎆┣韩小圈┫APP",
+    "type": 3,
+    "api": "csp_HanXiaoQuan",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
 },
 {
     "key": "文才弹幕",
