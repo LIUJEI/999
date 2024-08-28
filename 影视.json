@@ -332,6 +332,12 @@
     "api": "csp_Ddys"
 },
 {
+    "key": "腐剧视频",
+    "name": "🎆┣腐剧┫视频",
+    "type": 3,
+    "api": "csp_WexFujutv"
+},
+{
     "key": "FreeOK",
     "name": "🎆┣芸芸┫影视",
     "type": 3,
@@ -380,6 +386,14 @@
     "jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
 },
 {
+    "key": "良品短剧",
+    "name": "🎆┣良品┫短剧",
+    "type": 3,
+    "api": "csp_Wexduanjuvip",
+    "searchable": 1,
+    "changeable": 1
+},
+{
     "key": "文才弹幕",
     "name": "🎆┣文才┫影视",
     "type": 3,
@@ -396,12 +410,12 @@
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
 },
 {
-    "key": "良品短剧",
-    "name": "🎆┣良品┫短剧",
+    "key": "小苹果弹幕",
+    "name": "🎆┣苹果┫影视",
     "type": 3,
-    "api": "csp_Wexduanjuvip",
-    "searchable": 1,
-    "changeable": 1
+    "api": "csp_Xpg",
+    "ext": {"danmu": true},
+   "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
 },
 {
     "key": "无忧短剧",
