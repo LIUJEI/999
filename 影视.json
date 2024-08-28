@@ -344,6 +344,13 @@
     "api": "csp_FreeOK"
 },
 {
+	"key": "csp_paopao",
+	"name": "🫧菠菜┃1080P",
+	"type": 3,
+	"api": "csp_Pptv",
+	"ext": "https://yigeg.pro"
+},
+{
 	"key": "csp_瓜子",
 	"name": "🎆┣瓜子┫影视",
 	"api": "csp_Gz360",
