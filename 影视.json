@@ -123,8 +123,6 @@
     "key": "NMSDS",
     "name": "🎆┣芸芸┫切壹",
     "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
     "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id24",
     "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
 },
@@ -132,8 +130,6 @@
     "key": "SBSDS",
     "name": "🎆┣芸芸┫切贰",
     "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
     "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id25",
     "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
 },
@@ -141,8 +137,6 @@
     "key": "DMSDS",
     "name": "🎆┣芸芸┫切叁",
     "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
     "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id26",
     "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
 },
@@ -150,8 +144,6 @@
     "key": "WPSDS",
     "name": "🎆┣芸芸┫切肆",
     "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
     "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id27",
     "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
 },	
@@ -373,44 +365,38 @@
 },
 {
     "key": "New6v",
-    "name": "New6V｜磁力",
+    "name": "🎆┣六维┫磁力",
     "type": 3,
     "api": "csp_New6v",
     "ext": "https://www.xb6v.com"
 },
 {
     "key": "SeedHub",
-    "name": "SeedHub｜磁力",
+    "name": "🎆┣小白┫磁力",
     "type": 3,
     "api": "csp_SeedHub"
 },
 {
     "key": "美剧迷",
-    "name": "美剧迷｜磁力",
+    "name": "🎆┣剧迷┫磁力",
     "type": 3,
     "api": "csp_MeijuMi"        
 },
 {
     "key": "迅雷吧",
-    "name": "迅雷吧｜磁力",
+    "name": "🎆┣迅雷吧┫磁力",
     "type": 3,
     "api": "csp_Xunlei8"
 },
 {
     "key": "Mp4电影",
-    "name": "Mp4电影｜磁力",
+    "name": "🎆┣电影┫磁力",
     "type": 3,
     "api": "csp_Mp4Mov"
 },
 {
-    "key": "酷吧电影",
-    "name": "酷吧电影｜磁力",
-    "type": 3,
-    "api": "csp_KubaCL"
-},
-{
     "key": "美剧天堂",
-    "name": "美剧天堂｜磁力",
+    "name": "🎆┣天堂┫磁力",
     "type": 3,
     "api": "csp_MeijuTT"
 },
@@ -464,6 +450,12 @@
     "api": "csp_Nkdy",
     "jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
 },
+ {
+    "key": "csp_农民", 
+    "name": "🎆┣伯伯┫影视", 
+    "type": 3, 
+    "api": "csp_Nongm"
+}, 
 {
     "key": "韩小圈",
     "name": "🎆┣韩小圈┫APP",
