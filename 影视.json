@@ -120,16 +120,6 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/4kvm.json"
 },	
 {
-    "key": "繁荣",
-    "name": "🎆┣繁荣┫App",
-    "type": 3,
-    "api": "csp_Frong",
-    "playerType": 1,
-    "jar": "http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432",
-    "ext":
-"FMy4wLjF8aHR0cDovLzQzLjI0OC4xMjguMTM4OjYwODZ8YjE1ODQwZGF8MjR8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
-},
-{
     "key": "荐片",
     "name": "🎆┣荐片┫推荐",
     "type": 3,
@@ -403,7 +393,43 @@
     "searchable": 1,
     "changeable": 1
 },
- {
+{
+    "key": "NMSDS",
+    "name": "🎆┣芸芸┫切壹",
+    "type": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id24",
+    "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
+},
+{
+    "key": "SBSDS",
+    "name": "🎆┣芸芸┫切贰",
+    "type": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id25",
+    "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
+},
+{
+    "key": "DMSDS",
+    "name": "🎆┣芸芸┫切叁",
+    "type": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id26",
+    "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
+},
+{
+    "key": "WPSDS",
+    "name": "🎆┣芸芸┫切肆",
+    "type": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id27",
+    "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
+},
+{
     "key": "韩小圈",
     "name": "🎆┣韩小圈┫APP",
     "type": 3,
@@ -568,7 +594,7 @@
     "api":"csp_XYQHiker",
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/河马短剧.json"
 },		
-
+{"key": "丘丘","name": "🏧┣丘丘┫APP","type": 3,"api": "csp_AppYsV2","ext": " http://111.173.115.204:2211/api.php/app/"},
 {"key": "夜图","name": "🏧┣宝盒┫4KK","type": 3,"api": "csp_AppYsV2","ext": " http://cms-yt.lyyytv.cn/api.php/app/"},
 {"key": "君君","name": "🏧┣君君┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.85.203:1000/api.php/app/"},
 {"key": "感觉","name": "🏧┣新觉┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://43.248.100.147:9891/api.php/app/"},
@@ -581,8 +607,7 @@
 {"key": "星易","name": "🏧┣星影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.xingyiying.com/api.php/v1.vod"},
 {"key": "思古","name": "🏧┣思古┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://siguyy.cn/api.php/app/"},
 {"key": "零刻","name": "🏧┣零刻┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"},
-{"key": "影馆","name": "🏧┣影馆┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},        
-{"key": "酷咯","name": "🏧┣酷咯┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"},     
+{"key": "影馆","name": "🏧┣影馆┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},          
 {"key": "五五","name": "🏧┣五五┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://5setp.vip/api.php/app/"},
 {"key": "西瓜","name": "🏧┣西瓜┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://4k.953365.cn:8090/xgapp.php/v2/"},
 {"key": "少泽","name": "🏧┣少泽┫App","type": 3,"api": "csp_AppYsV2","ext": "https://yk.shaozeyy.com/api.php/app/"},
