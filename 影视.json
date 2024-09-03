@@ -120,34 +120,6 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/4kvm.json"
 },
 {
-    "key": "NMSDS",
-    "name": "🎆┣芸芸┫切壹",
-    "type": 1,
-    "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id24",
-    "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
-},
-{
-    "key": "SBSDS",
-    "name": "🎆┣芸芸┫切贰",
-    "type": 1,
-    "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id25",
-    "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
-},
-{
-    "key": "DMSDS",
-    "name": "🎆┣芸芸┫切叁",
-    "type": 1,
-    "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id26",
-    "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
-},
-{
-    "key": "WPSDS",
-    "name": "🎆┣芸芸┫切肆",
-    "type": 1,
-    "api": "http://43.242.202.173:3636/tvbox/api.php?key=687845758&id=id27",
-    "playUrl": "json:http://43.242.202.173:3636/tvbox/json.php/?key=687845758&url="
-},	
-{
     "key": "荐片",
     "name": "🎆┣荐片┫推荐",
     "type": 3,
@@ -203,12 +175,6 @@
     "type": 3,
     "api": "csp_AppZJ",
     "ext": "http://z.kzjtv.com/"
-},
-{
-    "key": "酷看影视",
-    "name": "🎆┣酷看┫影视",
-    "type": 3,
-    "api": "csp_Wexkukantv"
 },
 {
     "key": "快看影视",
@@ -352,12 +318,6 @@
     "api": "csp_FreeOK"
 },
 {
-    "key": "看看影视",
-    "name": "🎆┣看看┫影视",
-    "type": 3,
-    "api": "csp_WebIV"
-},
-{
     "key": "New6v",
     "name": "🎆┣六维┫磁力",
     "type": 3,
@@ -448,7 +408,8 @@
     "key": "csp_农民", 
     "name": "🎆┣伯伯┫影视", 
     "type": 3, 
-    "api": "csp_Nongm"
+    "api": "csp_Nongm",
+    "jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
 }, 
 {
     "key": "韩小圈",
