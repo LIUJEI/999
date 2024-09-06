@@ -564,9 +564,7 @@
     "name": "📛┣秒播┫短剧",
     "type": 3,
     "api": "csp_Wexduanjuvop",
-    "searchable": 1,
-    "changeable": 1,
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/wex.txt"
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/wex.txt;md5;1844bdd8027f68cd275aeb67c36472eb"
 },
 {
     "key": "Wexduanjuhema",
