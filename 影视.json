@@ -565,28 +565,36 @@
     "name": "📛┣秒播┫短剧",
     "type": 3,
     "api": "csp_Wexduanjuvop",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/wex.txt;md5;1844bdd8027f68cd275aeb67c36472eb"
+    "searchable": 1,
+    "changeable": 1,
+    "jar": "./JAR/wex.txt;md5;1844bdd8027f68cd275aeb67c36472eb"
 },
 {
     "key": "Wexduanjuhema",
     "name": "📛┣仙品┫短剧",
     "type": 3,
     "api": "csp_Wexduanjuhema",
-    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725375205132/wex.txt;md5;1844bdd8027f68cd275aeb67c36472eb"
+    "searchable": 1,
+    "changeable": 1,
+    "jar": "./JAR/wex.txt;md5;1844bdd8027f68cd275aeb67c36472eb"
 },
 {
     "key": "Wexduanju001",
-    "name": "📛┣极品🍉",
+    "name": "📛┣极品┫短剧",
     "type": 3,
     "api": "csp_Wexduanju001",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/ wex.txt"
+    "searchable": 1,
+    "changeable": 1,
+   "jar": "./JAR/wex.txt;md5;1844bdd8027f68cd275aeb67c36472eb"
 },
 {
     "key": "Wexduanjuvip",
-    "name": "📛┣精品🍉",
+    "name": "📛┣精品┫短剧",
     "type": 3,
     "api": "csp_Wexduanjuvip",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/ wex.txt"
+    "searchable": 1,
+    "changeable": 1,
+    "jar": "./JAR/wex.txt;md5;1844bdd8027f68cd275aeb67c36472eb"
 },		
 {"key": "丘丘","name": "🏧┣丘丘┫APP","type": 3,"api": "csp_AppYsV2","ext": " http://111.173.115.204:2211/api.php/app/"},
 {"key": "夜图","name": "🏧┣宝盒┫4KK","type": 3,"api": "csp_AppYsV2","ext": " http://cms-yt.lyyytv.cn/api.php/app/"},
