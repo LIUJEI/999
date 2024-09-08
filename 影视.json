@@ -1,9 +1,7 @@
 {
 
-  "spider": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/Lyun.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+  //"spider": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/Lyun.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
   
-   //"spider": "http://cdn.meowtv.cn/meow.php;md5;FF2275329F3C9C41C7B063649EFBF987",
-
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
 "sites":[
@@ -906,6 +904,8 @@
   {"name": "七新嗅探","hosts": ["api.52wyb.com"],"regex": ["m3u8?pt=m3u8"]},
   {"name": "夜市點擊","hosts": ["yeslivetv.com"],"script": ["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
   {"name": "毛驢點擊","hosts": ["www.maolvys.com"],"script": ["document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"]}],
+
+ "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
 
 "flags":["youku","优酷","优酷","优酷视频","qq","腾讯","腾讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱奇艺","m1905","xigua","letv","leshi","乐视","乐视","sohu","搜狐","搜狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒果TV","bilibili","哔哩","哔哩哔哩"],
 
