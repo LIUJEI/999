@@ -411,7 +411,171 @@
     "type": 3, 
     "api": "csp_Nongm",
     "jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
-}, 
+},
+ {
+      "key": "dbtj",
+      "name": "豆瓣┃推荐",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    
+    {
+      "key": "nkys",
+      "name": "耐看┃影视",
+      "type": 3,
+      "api": "csp_Nkdy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    
+    {
+      "key": "gzys",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "timeout": 30
+    },
+    {
+      "key": "ygys",
+      "name": "一个┃影视",
+      "type": 3,
+      "api": "csp_Pptv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "https://yigeg.pro"
+    },
+    {
+      "key": "free",
+      "name": "Free┃影视",
+      "type": 3,
+      "api": "csp_FreeOK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();"
+    },
+    {
+      "key": "czys",
+      "name": "厂长┃影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "https://czzy.top/"
+    },
+    {
+      "key": "atys",
+      "name": "奥特┃影视",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 15,
+      "ext": "https://auete.pro/"
+    },
+    
+    {
+      "key": "qyys",
+      "name": "奇优┃影视",
+      "type": 3,
+      "api": "csp_Qiyou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 1
+    },
+    {
+      "key": "rzys",
+      "name": "忍者┃影视",
+      "type": 3,
+      "api": "csp_AppRZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "http://rzys.xyz/"
+    },
+    
+    
+    
+    {
+      "key": "Qxys",
+      "name": "七新┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=qxys"
+    },
+    {
+      "key": "ynys",
+      "name": "鸭奈┃影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=ynys"
+    },
+    {
+      "key": "nfys",
+      "name": "奈飞┃影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=nfys"
+    },
+    {
+      "key": "tvys",
+      "name": "TVB ┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=tvyb"
+    },
+   
+    {
+      "key": "55ys",
+      "name": "五五┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=wwys"
+    },
+    {
+      "key": "sxys",
+      "name": "师兄┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=sxys"
+    },
+   
+    
+    
 {
     "key": "韩小圈",
     "name": "🎆┣韩小圈┫APP",
