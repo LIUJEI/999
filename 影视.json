@@ -377,6 +377,10 @@
     "name": "🎆┣耐看┫影视",
     "type": 3,
     "api": "csp_Nkdy",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "playerType": 2,
     "jar": "http://cdn.meowtv.cn/meow.php;md5;FF2275329F3C9C41C7B063649EFBF987"
 },
 {
