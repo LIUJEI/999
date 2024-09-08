@@ -354,6 +354,28 @@
     "api": "csp_MeijuTT"
 },
 {
+	"key": "csp_paopao",
+	"name": "🎆┣菠菜┫影视",
+	"type": 3,
+	"api": "csp_Pptv",
+	"ext": "https://yigeg.pro",
+    "jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
+},
+{
+	"key": "csp_瓜子",
+	"name": "🎆┣瓜子┫影视",
+	"api": "csp_Gz360",
+	"type": 3,
+	"jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
+},
+{
+    "key": "csp_pptv",
+    "name": "🎆┣泡泡┫影视",
+    "type": 3,
+    "api": "csp_Pptv",
+    "jar": "./JAR/OYWCN.txt;md5;89edf4358bcd12ad16d35bb8e3df19c3"
+},
+{
     "key": "云播",
     "name": "🎆┣云播┫影视",
     "type": 3,
@@ -368,26 +390,17 @@
     "jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
 },
 {
-    "key": "nkys",
+    "key": "csp_Nkdy",
     "name": "🎆┣耐看┫影视",
     "type": 3,
     "api": "csp_Nkdy",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "playerType": 2,
-    "jar": "http://cdn.meowtv.cn/meow.php;md5;FF2275329F3C9C41C7B063649EFBF987"
+    "jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
 },
 {
     "key": "gzys",
     "name": "🎆┣瓜子┫影视",
     "type": 3,
     "api": "csp_Gz360",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "playerType": 2,
-    "timeout": 30,
     "jar": "http://cdn.meowtv.cn/meow.php;md5;FF2275329F3C9C41C7B063649EFBF987"
 },
 {
@@ -395,10 +408,6 @@
     "name": "🎆┣菠菜┫影视",
     "type": 3,
     "api": "csp_Pptv",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "playerType": 2,
     "jar": "http://cdn.meowtv.cn/meow.php;md5;FF2275329F3C9C41C7B063649EFBF987",
     "ext": "https://yigeg.pro"
 },
@@ -411,26 +420,10 @@
     "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();"
 },
 {
-    "key": "czys",
-    "name": "🎆┣厂长┫影视",
-    "type": 3,
-    "api": "csp_Czsapp",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "playerType": 2,
-    "jar": "http://cdn.meowtv.cn/meow.php;md5;FF2275329F3C9C41C7B063649EFBF987",
-    "ext": "https://czzy.top/"
-},
-{
     "key": "atys",
     "name": "🎆┣奥特┫影视",
     "type": 3,
     "api": "csp_Auete",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "timeout": 15,
     "jar": "http://cdn.meowtv.cn/meow.php;md5;FF2275329F3C9C41C7B063649EFBF987",
     "ext": "https://auete.pro/"
 },  
@@ -439,10 +432,6 @@
     "name": "🎆┣奇优┫影视",
     "type": 3,
     "api": "csp_Qiyou",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "playerType": 1,
     "jar": "http://cdn.meowtv.cn/meow.php;md5;FF2275329F3C9C41C7B063649EFBF987"
 },
 {
@@ -450,10 +439,6 @@
     "name": "🎆┣忍者┫影视",
     "type": 3,
     "api": "csp_AppRZ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "playerType": 2,
     "jar": "http://cdn.meowtv.cn/meow.php;md5;FF2275329F3C9C41C7B063649EFBF987",
     "ext": "http://rzys.xyz/"
 },
