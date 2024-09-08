@@ -98,11 +98,11 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/南坊.json"
 },
 {
-    "key": "XBPQ_黑狐",
-    "name": "🎆┣黑狐┫影视",
+     "key": "Qxys",
+    "name": "🎆┣七新┫影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/黑狐影视.json"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/七新影视.json"
 },
 {
     "key": "XBPQ_98影视",
@@ -112,11 +112,11 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/98影视.json"
 },
 {
-    "key": "XBPQ_4kvm",
-    "name": "🎆┣高清┫大全",
+    "key": "sbys",
+    "name": "🎆┣白白┫影视",
     "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/4kvm.json"
+    "api": "csp_XYQHiker",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/白白影视.json"
 },
 {
     "key": "荐片",
