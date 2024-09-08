@@ -354,21 +354,6 @@
     "api": "csp_MeijuTT"
 },
 {
-	"key": "csp_paopao",
-	"name": "🎆┣菠菜┫影视",
-	"type": 3,
-	"api": "csp_Pptv",
-	"ext": "https://yigeg.pro",
-    "jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
-},
-{
-	"key": "csp_瓜子",
-	"name": "🎆┣瓜子┫影视",
-	"api": "csp_Gz360",
-	"type": 3,
-	"jar": "./JAR/xiaomi.txt;md5;5bb0cc3f10ccad8090cf2dc70f2ca9a1"
-},
-{
     "key": "csp_pptv",
     "name": "🎆┣泡泡┫影视",
     "type": 3,
