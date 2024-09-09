@@ -151,12 +151,6 @@
     "ext": "https://888.qkw1.cc/"
 },
 {
-    "key": "最新影视",
-    "name": "🎆┣最新┫影视",
-    "type": 3,
-    "api": "csp_Zx1080"
-},
-{
     "key": "笙歌影视",
     "name": "🎆┣笙歌┫影视",
     "type": 3,
@@ -167,12 +161,6 @@
     "name": "🎆┣愉悦┫影视",
     "type": 3,
     "api": "csp_Wexyuyueys"
-},
-{
-    "key": "桃子影视",
-    "name": "🎆┣桃子┫影视",
-    "type": 3,
-    "api": "csp_Taozi"
 },
 {
     "key": "追剧影视",
@@ -222,18 +210,6 @@
     "name": "🎆┣圣城┫影视",
     "type": 3,
     "api": "csp_SC1080"
-},
-{
-    "key": "明日影视",
-    "name": "🎆┣明日┫影视",
-    "type": 3,
-    "api": "csp_WexMingriys"
-},
-{
-    "key": "啾啾影视",
-    "name": "🎆┣啾啾┫影视",
-    "type": 3,
-    "api": "csp_Wexjiohub"
 },
 {
     "key": "星辰影视",
@@ -435,28 +411,12 @@
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"
 },
 {
-    "key": "文才弹幕",
-    "name": "🎆┣文才┫影视",
-    "type": 3,
-    "api": "csp_Jpys",
-    "ext": {"danmu": true},
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"
-},
-{
     "key": "一起看弹幕",
     "name": "🎆┣起看┫影视",
     "type": 3,
     "api": "csp_Yqk",
     "ext": {"danmu": true},
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"
-},
-{
-    "key": "小苹果弹幕",
-    "name": "🎆┣苹果┫影视",
-    "type": 3,
-    "api": "csp_Xpg",
-    "ext": {"danmu": true},
-   "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"
 },
 {
     "key": "无忧短剧",
@@ -577,24 +537,18 @@
 },
 
 {"key": "丘丘","name": "🏧┣丘丘┫APP","type": 3,"api": "csp_AppYsV2","ext": " http://111.173.115.204:2211/api.php/app/"},
-{"key": "夜图","name": "🏧┣宝盒┫4KK","type": 3,"api": "csp_AppYsV2","ext": " http://cms-yt.lyyytv.cn/api.php/app/"},
 {"key": "君君","name": "🏧┣君君┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.85.203:1000/api.php/app/"},
 {"key": "感觉","name": "🏧┣新觉┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://43.248.100.147:9891/api.php/app/"},
 {"key": "奴娜","name": "🏧┣奴娜┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.nntv.in/api.php/v1.vod"},
 {"key": "沐沐","name": "🏧┣沐沐┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://nnystv.cn/api.php/app/"},
 {"key": "龙门","name": "🏧┣龙门┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://movie.iqinu.com/api.php/v1.vod"},
 {"key": "剧兔","name": "🏧┣追剧┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.zjtu.one/api.php/app/"},
-{"key": "河狸","name": "🏧┣河狸┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.heli888.cc/api.php/app/"},
 {"key": "小马","name": "🏧┣小马┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://mas.szyyds.cn/api.php/app/"},
 {"key": "星易","name": "🏧┣星影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.xingyiying.com/api.php/v1.vod"},
 {"key": "思古","name": "🏧┣思古┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://siguyy.cn/api.php/app/"},
 {"key": "零刻","name": "🏧┣零刻┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"},
-{"key": "影馆","name": "🏧┣影馆┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},          
-{"key": "五五","name": "🏧┣五五┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://5setp.vip/api.php/app/"},
-{"key": "西瓜","name": "🏧┣西瓜┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://4k.953365.cn:8090/xgapp.php/v2/"},
 {"key": "少泽","name": "🏧┣少泽┫App","type": 3,"api": "csp_AppYsV2","ext": "https://yk.shaozeyy.com/api.php/app/"},
 {"key": "酷我","name": "🏧┣酷我┫App","type": 3,"api": "csp_AppYsV2","ext": "http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"},
-{"key": "看剧","name": "🏧┣爱看┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.ikanju.cc/mogai_api.php/v1.vod"},
 {"key": "北川","name": "🏧┣北川┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.bczhuiju.com/api.php/v1.vod"},
 {"key": "雷神","name": "🏧┣雷神┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://39.98.32.241:6688/api.php/zjv3.vod"},
 {"key": "追忆","name": "🏧┣追忆┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://110.42.7.101:1122/api.php/app/"},
@@ -616,17 +570,13 @@
 }, 
 {"key": "鸣人资源","name": "🌀┣鸣人┫采集","type": 1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list"},
 {"key": "优质资源","name": "🌀┣优质┃采集","type": 0,"api": "https://api.1080zyku.com/inc/ldg_api.php"},
-{"key": "喵派对影","name": "🌀┣喵趣┃采集","type": 1,"api": "https://www.lezy.lol/api.php/provide/vod/"},
 {"key": "影猫资源","name": "🌀┣影猫┃快播","type": 1,"api": "http://ysm.tkbot.fun/api.php/provide/vod/"},
 {"key": "何以资源","name": "🌀┣何以┃快播","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/"},
 {"key": "猫咪资源","name": "🌀┣猫咪┫采集","type": 1,"api": "http://zy.xiaomaomi.cc/api.php/provide/vod"},
-{"key": "九零资源","name": "🌀┣九零┫采集","type": 1,"api": "https://oknnews.com/api.php/provide/vod/"},
 {"key": "影图资源","name": "🌀┣影图┫采集","type": 1,"api": "https://cj.vodimg.top/api.php/provide/vod/"},
-{"key": "策驰资源","name": "🌀┣策驰┫采集","type": 1,"api": "https://www.39kan.com/api.php/provide/vod/"},
 {"key": "努努资源","name": "🌀┣努努┫采集","type": 1,"api": "https://www.nuuub.com/api.php/provide/vod/"},
 {"key": "星星资源","name": "🌀┣星星┫采集","type": 1,"api": "http://vip.smzj6.vip/api.php/provide/vod/"},
 {"key": "农民资源","name": "🌀┣农民┫采集","type": 1,"api": "https://www.xncnews.com/api.php/provide/vod/"},
-{"key": "追风资源","name": "🌀┣追风┫采集","type": 1,"api": "http://www.zfsp.cc/api.php/provide/vod/"},
 {"key": "五一资源","name": "🌀┣五一┫采集","type": 1,"api": "http://www.51zhuiju.cc/api.php/provide/vod/"},
 {"key": "追剧资源","name": "🌀┣看剧┫采集","type": 1,"api": "https://www.zhuijuju.net/api.php/provide/vod/"},
 {"key": "无忧资源","name": "🌀┣无忧┫采集","type": 1,"api": "https://www.wyvod.com/api.php/provide/vod/"},   
