@@ -363,11 +363,6 @@
     "type": 3,
     "api": "csp_MeijuTT"
 },
-{"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_SC1080","name":"⛪圣城","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
-{"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
-{"key":"csp_Djtt","name":"🌈短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {
     "key": "freeok",
     "name": "🎆┣小米┫独家",
@@ -415,6 +410,51 @@
     "changeable": 0,
     "api": "csp_SaoHuo",
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/08015.jar"
+},
+{
+    "key":"csp_YCyz",
+    "name":"☀原创",
+    "type":3,
+    "api":"csp_YCyz",
+    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
+},
+{
+    "key":"csp_SC1080",
+    "name":"⛪圣城",
+    "type":3,
+    "api":"csp_SC1080",
+    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
+},
+{
+    "key":"csp_Zxzj",
+    "name":"🏚️在线",
+    "type":3,
+    "api":"csp_Zxzj",
+    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
+    "ext":"https://www.zxzja.com/"
+},
+{
+    "key":"csp_Auete",
+    "name":"🐼奥特",
+    "type":3,
+    "api":"csp_Auete",
+    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
+    "ext":"https://auete.pro/"
+},
+{
+    "key":"csp_Djtt",
+    "name":"🌈短剧",
+    "type":3,
+    "api":"csp_Djtt",
+    "searchable":1,
+    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
+},
+{
+    "key":"csp_Jiaozi",
+    "name":"🥣饺子",
+    "type":3,
+    "api":"csp_Jiaozi",
+    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
 },
 {
     "key":"dr_卫士",
