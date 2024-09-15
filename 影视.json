@@ -554,17 +554,6 @@
 {"key": "皇冠影视","name": "🌀┣皇冠┫快播","type": 1,"api": "https://hong.hgyx.vip/api.php/provide/vod/"},
 {"key": "爱坤资源","name": "🌀┣爱坤┫采集","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json"},
 {
-    "key":"有声小说吧",
-    "name":"有声小说吧",
-    "type":3,
-    "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
-    "playerType":"2",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":0,
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/有声小说吧.js"
-},
-{
     "key":"酷奇MV",
     "name":"🎸酷奇MV",
     "type":3,
@@ -583,15 +572,7 @@
     "副标题":"target=\"play\">&&<",
     "搜索模式":"1",
     "搜索url":"https://www.kuqimv.com/search.php?key={wd}"}
-},	
-{
-    "key": "Yinyuetai",
-    "name": "🎧音悦┃MV",
-    "type": 3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/音乐.js",
-    "searchable": 1,
-    "changeable": 0 
-},        
+},	      
 {
     "key":"music",
     "name": "🎵酷狗┃音乐",
