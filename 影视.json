@@ -194,44 +194,35 @@
     "api": "csp_Nongm"
 },
 {
-    "key": "纯享影视",
-    "name": "🎆┣纯享┫影视",
-    "type": 3,
-    "api": "csp_WexF4kvm"
-},
-{
-    "key": "两个磁力",
+    "key": "比特影视",
     "name": "🎆┣鼻涕┫影视",
     "type": 3,
-    "api": "csp_Wexbttwo"
+    "api": "csp_Bttwo"
 },
-{
-    "key": "骚火影视",
-    "name": "🎆┣火火┫影视",
-    "type": 3,
-    "api": "csp_Wexsaohuo"
-},
+
 {
     "key": "视频库",
     "name": "🎆┣视频┫影库",
     "type": 3,
     "api": "csp_WebVidHub",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0,
     "ext": "https://vidhub1.cc"
 },
 {
     "key": "素白白",
     "name": "🎆┣素白┫影视",
     "type": 3,
-    "api": "csp_Subaibai"
+    "api": "csp_Subaibai",
+    "searchable": 1,
+    "changeable": 1
 },
 {
     "key": "爱看影视",
     "name": "爱看｜影视",
     "type": 3,
-    "api": "csp_Ikan",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
+    "api": "csp_Ikan"
 },
 {
     "key": "机器人",
@@ -244,14 +235,7 @@
     "key": "厂长资源",
     "name": "🎆┣厂长┫资源",
     "type": 3,
-    "api": "csp_Czsapp",
-    "ext": "https://www.czys.pro/"
-},
-{
-    "key": "在线之家",
-    "name": "🎆┣在线┫之家",
-    "type": 3,
-    "api": "csp_Wexzxzj"
+    "api": "csp_Czzy"
 },
 {
     "key": "达达龟",
@@ -264,12 +248,6 @@
     "name": "🎆┣低端┫影视",
     "type": 3,
     "api": "csp_Ddys"
-},
-{
-    "key": "腐剧视频",
-    "name": "🎆┣腐剧┫视频",
-    "type": 3,
-    "api": "csp_WexFujutv"
 },
 {
     "key": "New6v",
