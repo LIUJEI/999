@@ -363,6 +363,11 @@
     "type": 3,
     "api": "csp_MeijuTT"
 },
+{"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_SC1080","name":"⛪圣城","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
+{"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
+{"key":"csp_Djtt","name":"🌈短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {
     "key": "freeok",
     "name": "🎆┣小米┫独家",
@@ -394,7 +399,6 @@
     "api": "csp_Nkdy",
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/08015.jar"
 },
-
 {
     "key": "csp_paopao",
     "name": "🎆┣菠菜┫影视",
@@ -455,27 +459,9 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
 },
 
-{
-            "key": "追剧猫",
-            "name": "🏧┣剧猫┫APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jingxiang.lingutv.cn/api.php/app/"
-        },
-        {
-            "key": "酷影视",
-            "name": "🏧┣酷影┫APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.tvkuys.xyz/api.php/app/"
-        },
-{"key": "丘丘","name": "🏧┣丘丘┫APP","type": 3,"api": "csp_AppYsV2","ext": " http://111.173.115.204:2211/api.php/app/"},
+{"key": "剧猫","name": "🏧┣剧猫┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://jingxiang.lingutv.cn/api.php/app/"},
+{"key": "酷影","name": "🏧┣酷影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"},
+{"key": "丘丘","name": "🏧┣丘丘┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://111.173.115.204:2211/api.php/app/"},
 {"key": "君君","name": "🏧┣君君┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.85.203:1000/api.php/app/"},
 {"key": "感觉","name": "🏧┣新觉┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://43.248.100.147:9891/api.php/app/"},
 {"key": "奴娜","name": "🏧┣奴娜┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.nntv.in/api.php/v1.vod"},
@@ -526,7 +512,38 @@
 {"key": "墨白影视","name": "🌀┣墨白┫快播","type": 1,"api": "https://nm.xxxc137.top/api.php/provide/vod/"},
 {"key": "风启影视","name": "🌀┣风启┫快播","type": 1,"api": "https://15ds.cn/api.php/provide/vod/"},
 {"key": "皇冠影视","name": "🌀┣皇冠┫快播","type": 1,"api": "https://hong.hgyx.vip/api.php/provide/vod/"},
-{"key": "爱坤资源","name": "🌀┣爱坤┫采集","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json"},	
+{"key": "爱坤资源","name": "🌀┣爱坤┫采集","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json"},
+{
+    "key":"有声小说吧",
+    "name":"有声小说吧",
+    "type":3,
+    "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
+    "playerType":"2",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":0,
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/有声小说吧.js"
+},
+{
+    "key":"酷奇MV",
+    "name":"🎸酷奇MV",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":{
+    "主页url":"https://www.kuqimv.com",
+    "直接播放":"1",
+    "短视频":"1",
+    "分类":"华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10",
+    "分类url":"https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z",
+    "数组":"<li>&&</li>",
+    "标题":"title=\"&&\"",
+    "副标题":"target=\"play\">&&<",
+    "搜索模式":"1",
+    "搜索url":"https://www.kuqimv.com/search.php?key={wd}"}
+},	
 {
     "key": "Yinyuetai",
     "name": "🎧音悦┃MV",
@@ -557,7 +574,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "jar": "http://52pan.top:81/api/v3/file/get/170325/0928.jar?sign=HEawELyUvljhHCgfGefYOZ6DHvaGLMWouC0tIwMkd9E%3D%3A0;md5;02c40490ea14c433b66fcc0ce2f2ed94",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili%E7%9F%AD%E5%89%A7.json"
 },
 {
@@ -574,6 +591,26 @@
     "changeable": 0,
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili音乐.json",
     "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+},
+{
+    "key":"相声小品",
+    "name":"🅱️相声小品",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixs.json"
+},
+{
+    "key":"戏曲",
+    "name":"🅱️戏曲精选",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json"
 },	
 {
     "key": "少儿",
@@ -583,7 +620,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext":"http://154.37.152.74:8888/down/6MvxNpUIehuR.json"
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/少儿教育.json"
 },
 {
     "key": "小学课堂",
@@ -593,7 +630,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext":"http://154.37.152.74:8888/down/ezKtccJEjyJ5.json"
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/小学课堂.json"
 },
 {
     "key": "初中课堂",
@@ -603,7 +640,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext":"http://154.37.152.74:8888/down/PTuMeAeaa8ih.json"
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/初中课堂.json"
 },
 {
     "key": "高中课堂",
@@ -613,7 +650,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext":"http://154.37.152.74:8888/down/O624gIcKpfQW.json"
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/高中课堂.json"
 },
 {
     "key":"小灯塔科学",
