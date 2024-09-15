@@ -119,6 +119,34 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/白白影视.json"
 },
 {
+    "key": "忍者影视",
+    "name": "忍者｜APP",
+    "type": 3,
+    "api": "csp_AppRZ",
+    "ext": "http://rzys.xyz/"
+},
+{
+    "key": "看客影视",
+    "name": "看客｜影视",
+    "type": 3,
+    "api": "csp_Kanke"
+},
+{
+    "key": "瓜子｜影视",
+    "name": "瓜子｜影视",
+    "type": 3,
+    "api": "csp_Gz360"
+},
+{
+    "key": "南瓜影视",
+    "name": "南瓜｜APP",
+    "type": 3,
+    "api": "csp_Nangua",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
     "key": "兄弟影视",
     "name": "🎆┣兄弟┫影视",
     "type": 3,
@@ -156,22 +184,10 @@
     "api": "csp_AppDaMi"
 },
 {
-    "key": "圣城影视",
-    "name": "🎆┣圣城┫影视",
-    "type": 3,
-    "api": "csp_SC1080"
-},
-{
-    "key": "星辰影视",
-    "name": "🎆┣星辰┫影视",
-    "type": 3,
-    "api": "csp_WexXingchen"
-},
-{
     "key": "农民影视",
     "name": "🎆┣农民┫影视",
     "type": 3,
-    "api": "csp_WexNmys"
+    "api": "csp_Nongm"
 },
 {
     "key": "纯享影视",
@@ -203,6 +219,15 @@
     "name": "🎆┣素白┫影视",
     "type": 3,
     "api": "csp_Subaibai"
+},
+{
+    "key": "爱看影视",
+    "name": "爱看｜影视",
+    "type": 3,
+    "api": "csp_Ikan",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
 },
 {
     "key": "机器人",
