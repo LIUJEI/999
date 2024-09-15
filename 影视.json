@@ -548,16 +548,17 @@
 {
     "key": "csp_Bili短剧",
     "name": "🅱️短剧┃哔哩",
-     "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://52pan.top:81/api/v3/file/get/174941/%E5%90%BE%E7%88%B1%E7%9F%AD%E5%89%A7.M3U?sign=xHZDL6fFTsTEMjRQoY4LahABR_9uRyVPW3L_6zEcu7g%3D%3A0"
+    "type": 3,
+    "api": "csp_Bili",
+    "style": {
+    "type": "rect",
+    "ratio": 1.597
+    },
+    "searchable": 1,
+    "quickSearch": 0,
+    "changeable": 0,
+    "jar": "http://52pan.top:81/api/v3/file/get/170325/0928.jar?sign=HEawELyUvljhHCgfGefYOZ6DHvaGLMWouC0tIwMkd9E%3D%3A0;md5;02c40490ea14c433b66fcc0ce2f2ed94",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili%E7%9F%AD%E5%89%A7.json"
 },
 {
     "key": "MV",
