@@ -614,7 +614,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili%E7%9F%AD%E5%89%A7.json"
 },
 {
@@ -637,7 +637,7 @@
     "name":"🅱️相声小品",
     "type":3,
     "api":"csp_Bili",
-    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixs.json"
 },
 {
@@ -645,7 +645,7 @@
     "name":"🅱️戏曲精选",
     "type":3,
     "api":"csp_Bili",
-    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json"
 },	
 {
@@ -653,39 +653,39 @@
     "name": "🅰️少儿┃合集",
     "type": 3,
     "api": "csp_Bili",
-    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/少儿教育.json"
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
+    "ext":"http://154.37.152.74:8888/down/6MvxNpUIehuR.json"
 },
 {
     "key": "小学课堂",
     "name": "🅰️小学┃课堂",
     "type": 3,
     "api": "csp_Bili",
-   "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/小学课堂.json"
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
+    "ext":"http://154.37.152.74:8888/down/ezKtccJEjyJ5.json"
 },
 {
     "key": "初中课堂",
     "name": "🅰️初中┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/初中课堂.json"
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
+    "ext":"http://154.37.152.74:8888/down/PTuMeAeaa8ih.json"
 },
 {
     "key": "高中课堂",
     "name": "🅰️高中┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/高中课堂.json"
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
+    "ext":"http://154.37.152.74:8888/down/O624gIcKpfQW.json"
 },
 {
     "key":"小灯塔科学",
     "name":"🌏科学┃小灯塔",
     "type":3,
     "api":"csp_Bili",
-    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://notabug.org/liuyun/H--2024/raw/master/json/小灯塔科学.json"
 },
 {
@@ -693,7 +693,7 @@
     "name":"🌏地理┃小灯塔",
     "type":3,
     "api":"csp_Bili",
-    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://notabug.org/liuyun/H--2024/raw/master/json/小灯塔地理.json"
 },
 {
@@ -701,7 +701,7 @@
     "name":"🌏百科┃小灯塔",
     "type":3,
     "api":"csp_Bili",
-    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://notabug.org/liuyun/H--2024/raw/master/json/小灯塔百科.json"
 },
 {
@@ -709,7 +709,7 @@
     "name":"🌏国学┃小灯塔",
     "type":3,
     "api":"csp_Bili",
-    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://notabug.org/liuyun/H--2024/raw/master/json/小灯塔国学.json"
 },
 {
