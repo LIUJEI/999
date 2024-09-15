@@ -185,27 +185,35 @@
     "key": "农民影视",
     "name": "🎆┣农民┫影视",
     "type": 3,
-    "api": "csp_Nongm"
+    "api": "csp_Nongm",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
 },
 {
     "key": "比特影视",
-    "name": "🎆┣鼻涕┫影视",
+    "name": "比特｜影视",
     "type": 3,
-    "api": "csp_Bttwo"
+    "api": "csp_Bttwo",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
 },
-
+{
+    "key": "FreeOK",
+    "name": "️️Free｜影视",
+    "type": 3,
+    "api": "csp_FreeOK",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
 {
     "key": "视频库",
     "name": "🎆┣视频┫影库",
     "type": 3,
     "api": "csp_WebVidHub",
     "ext": "https://vidhub1.cc"
-},
-{
-    "key": "爱看影视",
-    "name": "爱看｜影视",
-    "type": 3,
-    "api": "csp_Ikan"
 },
 {
     "key": "机器人",
@@ -359,6 +367,18 @@
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"
 },
 {
+    "key": "在线短剧",
+    "name": "📛┣在线┫短剧",
+    "type": 3,
+    "api": "csp_Duanju",
+    "searchable": 1,
+    "changeable": 0,
+    "style": {
+        "type": "rect",
+        "ratio": 1.433
+    }
+},
+{
     "key": "无忧短剧",
     "name": "📛┣无忧┫短剧",
     "type": 3,
@@ -474,6 +494,16 @@
     "type":3,
     "api":"csp_XYQHiker",
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/河马短剧.json"
+},
+{
+    "key": "短剧屋",
+    "name": "📛┣剧屋┫短剧",
+    "type": 3,
+    "api": "csp_XYQHiker",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/短剧屋.json"
 },
 
 {"key": "丘丘","name": "🏧┣丘丘┫APP","type": 3,"api": "csp_AppYsV2","ext": " http://111.173.115.204:2211/api.php/app/"},
