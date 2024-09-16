@@ -462,26 +462,11 @@
     "ext":"https://www.zxzja.com/"
 },
 {
-    "key":"csp_Auete",
-    "name":"🎆┣奥特┫影视",
-    "type":3,
-    "api":"csp_Auete",
-    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
-    "ext":"https://auete.pro/"
-},
-{
     "key":"csp_Djtt",
     "name":"🎆┣短剧┫APP",
     "type":3,
     "api":"csp_Djtt",
     "searchable":1,
-    "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
-},
-{
-    "key":"csp_Jiaozi",
-    "name":"🎆┣饺子┫影视",
-    "type":3,
-    "api":"csp_Jiaozi",
     "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
 },
 {
@@ -506,13 +491,6 @@
     "ext": "http://mdxgh.tpddns.cn:9999/dzlib/闪雷电.js"
 },
 {
-    "key": "hipy_js_烧火影视[优]",
-    "name": "🎆┣烧火┫影视",
-    "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/烧火影视[优].js"
-},
-{
     "key": "hipy_js_时光影院",
     "name": "🎆┣时光┫影院",
     "type": 3,
@@ -525,13 +503,6 @@
     "type": 3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "http://mdxgh.tpddns.cn:9999/dzlib/天启.js"
-},
-{
-    "key": "hipy_js_天天影视",
-    "name": "🎆┣天天┫影视",
-    "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/天天影视.js"
 },
 {
     "key": "hipy_js_影视控",
