@@ -384,14 +384,6 @@
     "filterable": 1
 },
 {
-    "key": "素白白",
-    "name": "素白白｜影视",
-    "type": 3,
-    "api": "csp_Subaibai",
-    "searchable": 1,
-    "changeable": 1
-},
-{
     "key": "机器人",
     "name": "机器人｜影视",
     "type": 3,
@@ -401,7 +393,7 @@
     "filterable": 1
 },
 {
-    "key": "freeok",
+    "key": "freeok1",
     "name": "🎆┣小米┫独家",
     "type": 3,
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/08015.jar",
