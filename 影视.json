@@ -932,13 +932,30 @@
     {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}],
 
 "lives": [{
-    "name": "live",
-    "url": "https://pan.shangui.cc/f/10bzTw/v%EF%BC%88%E5%8A%A0%E5%AF%86%E7%A0%81%EF%BC%891.txt",
-    "type": 0,
-    "playerType": 1,
-    "ua": "okhttp/3.12.13",
-    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://epg.112114.xyz/logo/{name}.png"}],
+            "name": "直播1",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
+            "playerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "直播2",
+            "type": 0,
+            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "直播3",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/Gather",
+            "playerType": 1
+        },
+        {
+            "name": "直播4",
+            "type": 0,
+            "url": "http://mmitv.top/pltv/merization.php?id=list&user=t0k1b5&token=17af41bb&text=diypbox",
+            "playerType": 1
+        }],
 
 "flags": [
         "youku",
