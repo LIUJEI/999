@@ -204,7 +204,6 @@
     "主演": "主演:&&</div>",
     "简介": "<p>&&</p>"}
 },
-
 {
     "key": "忍者影视",
     "name": "🎆┣忍者┫APP",
@@ -281,15 +280,6 @@
     "name": "🎆┣比特┫影视",
     "type": 3,
     "api": "csp_Bttwo",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-{
-    "key": "FreeOK",
-    "name": "️️🎆┣芸芸┫影视",
-    "type": 3,
-    "api": "csp_FreeOK",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -419,157 +409,142 @@
     "api":"csp_Jiaozi",
     "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
 },
+{
+    "key": "hipy_js_荐片[优]",
+    "name": "🎆┣影视┫荐片",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/荐片[优].js"
+},
+{
+    "key": "hipy_js_泡泡影院",
+    "name": "🎆┣泡泡┫影院",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/泡泡影院.js"
+},
+{
+    "key": "hipy_js_闪雷电",
+    "name": "🎆┣雷电┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/闪雷电.js"
+},
+{
+    "key": "hipy_js_烧火影视[优]",
+    "name": "🎆┣烧火┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/烧火影视[优].js"
+},
  {
-      "key": "hipy_js_荐片[优]",
-      "name": "荐片[优](drpy_t3)",
-      "type": 3,
-      "api": "./dzlib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./dzlib/荐片[优].js"
-    },
+    "key": "hipy_js_时光影院",
+    "name": "🎆┣时光┫影院",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/时光影院.js"
+},
 {
-      "key": "hipy_js_泡泡影院",
-      "name": "泡泡影院(drpy_t3)",
-      "type": 3,
-      "api": "./dzlib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./dzlib/泡泡影院.js"
-    },
+    "key": "hipy_js_天启",
+    "name": "🎆┣天启┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/天启.js"
+},
 {
-      "key": "hipy_js_闪雷电",
-      "name": "闪雷电(drpy_t3)",
-      "type": 3,
-      "api": "./dzlib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./dzlib/闪雷电.js"
-    },
+    "key": "hipy_js_天天影视",
+    "name": "🎆┣天天┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/天天影视.js"
+},
 {
-      "key": "hipy_js_烧火影视[优]",
-      "name": "烧火影视[优](drpy_t3)",
-      "type": 3,
-      "api": "./dzlib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./dzlib/烧火影视[优].js"
-    },
- {
-      "key": "hipy_js_时光影院",
-      "name": "时光影院(drpy_t3)",
-      "type": 3,
-      "api": "./dzlib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./dzlib/时光影院.js"
-    },
+    "key": "hipy_js_影视工厂",
+    "name": "🎆┣影视┫工厂",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/影视工厂.js"
+},
 {
-      "key": "hipy_js_天启",
-      "name": "天启(drpy_t3)",
-      "type": 3,
-      "api": "./dzlib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./dzlib/天启.js"
-    },
+    "key": "hipy_js_影视控",
+    "name": "🎆┣影视┫控古",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/影视控.js"
+},
 {
-      "key": "hipy_js_天天影视",
-      "name": "天天影视(drpy_t3)",
-      "type": 3,
-      "api": "./dzlib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./dzlib/天天影视.js"
-    },
-     {
-      "key": "hipy_js_影视工厂",
-      "name": "影视工厂(drpy_t3)",
-      "type": 3,
-      "api": "./dzlib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./dzlib/影视工厂.js"
-    },
-    {
-      "key": "hipy_js_影视控",
-      "name": "影视控(drpy_t3)",
-      "type": 3,
-      "api": "./dzlib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./dzlib/影视控.js"
-    },
-{
-      "key": "hipy_js_好趣网[播]",
-      "name": "好趣网[播](drpy_t3)",
-      "type": 3,
-      "api": "./dzlib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./dzlib/好趣网[播].js"
-    },
+    "key": "hipy_js_好趣网[播]",
+    "name": "🎆┣好趣┫网播",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/好趣网[播].js"
+},
 {
     "key": "hipy_js_文才2[资]",
-    "name": "文才2[资](drpy_t3)",
+    "name": "🎆┣文才┫影视",
     "type": 3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "http://mdxgh.tpddns.cn:9999/dzlib/文才2[资].js"
 },
 {
     "key": "hipy_js_无忧影视",
-    "name": "无忧影视(drpy_t3)",
+    "name": "🎆┣无忧┫影视",
     "type": 3,
-    "api": "./dzlib/drpy2.min.js",
-    "ext": "./dzlib/无忧影视.js"
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/无忧影视.js"
 },
 {
     "key": "hipy_js_西瓜影院",
-    "name": "西瓜影院(drpy_t3)",
+    "name": "🎆┣西瓜┫影院",
     "type": 3,
-    "api": "./dzlib/drpy2.min.js",
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "order_num": 0,
-    "ext": "./dzlib/西瓜影院.js"
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/西瓜影院.js"
 },
 {
     "key": "hipy_js_白嫖者联盟",
-    "name": "白嫖者联盟(drpy_t3)",
+    "name": "🎆┣白嫖┫影视",
     "type": 3,
-    "api": "./dzlib/drpy2.min.js",
-    "ext": "./dzlib/白嫖者联盟.js"
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/白嫖者联盟.js"
 },
 {
-      "key": "hipy_js_一起看",
-      "name": "一起看(drpy_t3)",
-      "type": 3,
-      "api": "./dzlib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./dzlib/一起看.js"
-    },
-
+    "key": "hipy_js_一起看",
+    "name": "🎆┣起看┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/一起看.js"
+},
+{
+    "key": "hipy_js_cally66",
+    "name": "🎆┣芸芸┫影视(t1)",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/cally66.js"
+},
+{
+    "key": "hipy_js_GO影视",
+    "name": "🎆┣芸芸┫影视(t2)",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/GO影视.js"
+},
+{
+    "key": "hipy_js_iFun",
+    "name": "🎆┣芸芸┫影视(t3)",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/iFun.js"
+},
+{
+    "key": "FreeOK",
+    "name": "️️🎆┣芸芸┫影视(t4)",
+    "type": 3,
+    "api": "csp_FreeOK",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
 {
     "key": "New6v",
     "name": "🎆┣六维┫磁力",
