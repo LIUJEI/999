@@ -419,6 +419,135 @@
     "api":"csp_Jiaozi",
     "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
 },
+ {
+      "key": "hipy_js_荐片[优]",
+      "name": "荐片[优](drpy_t3)",
+      "type": 3,
+      "api": "./dzlib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./dzlib/荐片[优].js"
+    },
+{
+      "key": "hipy_js_泡泡影院",
+      "name": "泡泡影院(drpy_t3)",
+      "type": 3,
+      "api": "./dzlib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./dzlib/泡泡影院.js"
+    },
+{
+      "key": "hipy_js_闪雷电",
+      "name": "闪雷电(drpy_t3)",
+      "type": 3,
+      "api": "./dzlib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./dzlib/闪雷电.js"
+    },
+{
+      "key": "hipy_js_烧火影视[优]",
+      "name": "烧火影视[优](drpy_t3)",
+      "type": 3,
+      "api": "./dzlib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./dzlib/烧火影视[优].js"
+    },
+ {
+      "key": "hipy_js_时光影院",
+      "name": "时光影院(drpy_t3)",
+      "type": 3,
+      "api": "./dzlib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./dzlib/时光影院.js"
+    },
+{
+      "key": "hipy_js_天启",
+      "name": "天启(drpy_t3)",
+      "type": 3,
+      "api": "./dzlib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./dzlib/天启.js"
+    },
+{
+      "key": "hipy_js_天天影视",
+      "name": "天天影视(drpy_t3)",
+      "type": 3,
+      "api": "./dzlib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./dzlib/天天影视.js"
+    },
+{
+      "key": "hipy_js_好趣网[播]",
+      "name": "好趣网[播](drpy_t3)",
+      "type": 3,
+      "api": "./dzlib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./dzlib/好趣网[播].js"
+    },
+{
+    "key": "hipy_js_文才2[资]",
+    "name": "文才2[资](drpy_t3)",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/文才2[资].js"
+},
+{
+    "key": "hipy_js_无忧影视",
+    "name": "无忧影视(drpy_t3)",
+    "type": 3,
+    "api": "./dzlib/drpy2.min.js",
+    "ext": "./dzlib/无忧影视.js"
+},
+{
+    "key": "hipy_js_西瓜影院",
+    "name": "西瓜影院(drpy_t3)",
+    "type": 3,
+    "api": "./dzlib/drpy2.min.js",
+    "order_num": 0,
+    "ext": "./dzlib/西瓜影院.js"
+},
+{
+    "key": "hipy_js_白嫖者联盟",
+    "name": "白嫖者联盟(drpy_t3)",
+    "type": 3,
+    "api": "./dzlib/drpy2.min.js",
+    "ext": "./dzlib/白嫖者联盟.js"
+},
+{
+      "key": "hipy_js_一起看",
+      "name": "一起看(drpy_t3)",
+      "type": 3,
+      "api": "./dzlib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./dzlib/一起看.js"
+    },
+
 {
     "key": "New6v",
     "name": "🎆┣六维┫磁力",
@@ -692,6 +821,23 @@
     "api":"csp_Bili",
     "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔国学.json"
+},
+{
+    "key":"戏曲",
+    "name":"🅱️戏曲精选",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json"
+},
+{
+    "key": "hipy_js_一曲肝肠断",
+    "name": "🅱️一曲肝肠断",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/一曲肝肠断.js"
 },
 {
     "key": "ConfigCenter",
