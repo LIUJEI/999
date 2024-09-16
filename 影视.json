@@ -496,6 +496,28 @@
       "order_num": 0,
       "ext": "./dzlib/天天影视.js"
     },
+     {
+      "key": "hipy_js_影视工厂",
+      "name": "影视工厂(drpy_t3)",
+      "type": 3,
+      "api": "./dzlib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./dzlib/影视工厂.js"
+    },
+    {
+      "key": "hipy_js_影视控",
+      "name": "影视控(drpy_t3)",
+      "type": 3,
+      "api": "./dzlib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./dzlib/影视控.js"
+    },
 {
       "key": "hipy_js_好趣网[播]",
       "name": "好趣网[播](drpy_t3)",
