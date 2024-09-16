@@ -339,7 +339,7 @@
 },    
 {
     "key": "FreeOK",
-    "name": "️️Free｜影视",
+    "name": "🎆┣芸芸┫影视(t1)",
     "type": 3,
     "api": "csp_FreeOK",
     "searchable": 1,
@@ -546,13 +546,6 @@
     "type": 3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "http://mdxgh.tpddns.cn:9999/dzlib/一起看.js"
-},
-{
-    "key": "hipy_js_cally66",
-    "name": "🎆┣芸芸┫影视(t1)",
-    "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/cally66.js"
 },
 {
     "key": "hipy_js_GO影视",
