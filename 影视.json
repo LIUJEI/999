@@ -708,22 +708,6 @@
     "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
 },
 {
-    "key":"相声小品",
-    "name":"🅱️相声小品",
-    "type":3,
-    "api":"csp_Bili",
-    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixs.json"
-},
-{
-    "key":"戏曲",
-    "name":"🅱️戏曲精选",
-    "type":3,
-    "api":"csp_Bili",
-    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json"
-},	
-{
     "key":  "少儿",
     "name": "🅰️少儿┃合集",
     "type": 3,
@@ -788,15 +772,22 @@
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔国学.json"
 },
 {
+    "key":"相声小品",
+    "name":"🅱️相声小品",
+    "type":3,
+    "api":"csp_Bili",
+    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixs.json"
+},
+{
     "key":"戏曲",
     "name":"🅱️戏曲精选",
     "type":3,
     "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":1,
+    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json"
 },
+
 {
     "key": "hipy_js_一曲肝肠断",
     "name": "🅱️一曲肝肠断",
