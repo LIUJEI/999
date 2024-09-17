@@ -618,6 +618,7 @@
     "name": "🅰️少儿┃合集",
     "type": 3,
     "api": "csp_Bili",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/少儿合集.json"
 },
 {
@@ -625,6 +626,7 @@
     "name": "🅰️小学┃课堂",
     "type": 3,
     "api": "csp_Bili",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小学课堂.json"
 },
 {
@@ -632,6 +634,7 @@
     "name": "🅰️初中┃课堂",
     "type": 3,
     "api": "csp_Bili",
+    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/初中课堂.json"
 },
 {
@@ -639,6 +642,7 @@
     "name": "🅰️高中┃课堂",
     "type": 3,
     "api": "csp_Bili",
+    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/高中课堂.json"
 },
 {
@@ -646,6 +650,7 @@
     "name":"🌏科学┃小灯塔",
     "type":3,
     "api":"csp_Bili",
+    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔科学.json"
 },
 {
@@ -653,6 +658,7 @@
     "name":"🌏地理┃小灯塔",
     "type":3,
     "api":"csp_Bili",
+    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔地理.json"
 },
 {
@@ -660,6 +666,7 @@
     "name":"🌏百科┃小灯塔",
     "type":3,
     "api":"csp_Bili",
+    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔百科.json"
 },
 {
@@ -667,6 +674,7 @@
     "name":"🌏国学┃小灯塔",
     "type":3,
     "api":"csp_Bili",
+    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔国学.json"
 },
 {
