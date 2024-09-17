@@ -497,20 +497,6 @@
     "api": "csp_XYQHiker",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/白白影视.json"
 },
-{
-    "key": "毒舌电影",
-    "name": "🌕┣毒舌┫电影",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/毒舌电影.json"
-},
-{
-    "key": "03影院",
-    "name": "🌕┣影院┫备用",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/03影院.json"
-},
 {"key": "剧猫","name": "🏧┣剧猫┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://jingxiang.lingutv.cn/api.php/app/"},
 {"key": "酷影","name": "🏧┣酷影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key": "丘丘","name": "🏧┣丘丘┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://111.173.115.204:2211/api.php/app/"},
@@ -618,7 +604,6 @@
     "name": "🅰️少儿┃合集",
     "type": 3,
     "api": "csp_Bili",
-    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/少儿合集.json"
 },
 {
@@ -626,7 +611,6 @@
     "name": "🅰️小学┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小学课堂.json"
 },
 {
@@ -634,7 +618,6 @@
     "name": "🅰️初中┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/初中课堂.json"
 },
 {
@@ -642,7 +625,6 @@
     "name": "🅰️高中┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/高中课堂.json"
 },
 {
@@ -650,7 +632,6 @@
     "name":"🌏科学┃小灯塔",
     "type":3,
     "api":"csp_Bili",
-    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔科学.json"
 },
 {
@@ -658,7 +639,6 @@
     "name":"🌏地理┃小灯塔",
     "type":3,
     "api":"csp_Bili",
-    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔地理.json"
 },
 {
@@ -666,7 +646,6 @@
     "name":"🌏百科┃小灯塔",
     "type":3,
     "api":"csp_Bili",
-    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔百科.json"
 },
 {
@@ -674,7 +653,6 @@
     "name":"🌏国学┃小灯塔",
     "type":3,
     "api":"csp_Bili",
-    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔国学.json"
 },
 {
