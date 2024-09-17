@@ -540,7 +540,7 @@
 {"key": "墨白影视","name": "🌀┣墨白┫快播","type": 1,"api": "https://nm.xxxc137.top/api.php/provide/vod/"},
 {"key": "黑墙影视","name": "🌀┣黑墙┫快播","type": 1,"api": "https://blackwallvideo.online/api.php/provide/vod/"},
 {"key": "小目标资","name": "🌀┣目标┫快播","type": 1,"api": "https://tv.xmb.app/api.php/provide/vod/"},
-{"key": "刺桐影视","name": "🌀┣刺桐┫┃快播","type": 1,"api": "http://pg.cttv.vip/api.php/provide/vod/"}, 
+{"key": "刺桐影视","name": "🌀┣刺桐┫快播","type": 1,"api": "http://pg.cttv.vip/api.php/provide/vod/"}, 
 {"key": "鸣人资源","name": "🌀┣鸣人┫采集","type": 1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list"},
 {"key": "优质资源","name": "🌀┣优质┫采集","type": 0,"api": "https://api.1080zyku.com/inc/ldg_api.php"},
 {"key": "何以资源","name": "🌀┣何以┫快播","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/"},
@@ -596,7 +596,8 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili%E7%9F%AD%E5%89%A7.json"
+     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili短剧.json",
+    "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt"
 },
 {
     "key": "MV",
@@ -610,7 +611,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili音乐.json"
 },
 {
     "key":  "少儿",
