@@ -262,18 +262,60 @@
     "api": "csp_Ddys"
 },
 {
+    "key":"骚火影视",
+    "name":"💡骚火┃影视",
+    "type":3,
+    "api":"csp_Wexsaohuo"
+},
+{
+    "key":"圣城影视",
+    "name":"💡圣城┃影视",
+    "type":3,
+    "api":"csp_SC1080"
+},
+{
+    "key":"素白白",
+    "name":"💡白白┃影视",
+    "type":3,
+    "api":"csp_Subaibai",
+    "searchable":1,
+    "changeable":1
+},
+{
+    "key":"腐剧视频",
+    "name":"💡剧剧┃影视",
+    "type":3,
+    "api":"csp_WexFujutv",
+    "searchable":1,
+    "changeable":1
+},
+{
+    "key":"两个磁力",
+    "name":"💡两个┃影视",
+    "type":3,
+    "api":"csp_Wexbttwo",
+    "searchable":1,
+    "changeable":1
+},
+{
     "key": "视频库",
     "name": "🎆┣视频┫影库",
-    "type": 3,
-    "api": "csp_WebVidHub",
-    "ext": "https://vidhub1.cc"
+    "type":3,
+    "api":"csp_WebVidHub",
+    "searchable":1,
+    "quickSearch":0,
+    "filterable":0,
+    "ext":"https://vidhub1.cc"
 },
 {
     "key": "机器人",
     "name": "🎆┣爱看┫机器",
-    "type": 3,
-    "api": "csp_Ikanbot",
-    "ext": "https://v.aikanbot.com"
+    "type":3,
+    "api":"csp_Ikanbot",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1,
+    "ext":"https://v.aikanbot.com"
 },
 {
     "key": "忍者影视",
@@ -288,6 +330,13 @@
     "name": "🎆┣看客┫影视",
     "type": 3,
     "api": "csp_Kanke",
+    "jar":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar"
+},
+{
+    "key": "爱看影视",
+    "name": "爱看｜影视",
+    "type": 3,
+    "api": "csp_Ikan",
     "jar":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar"
 },
 {
