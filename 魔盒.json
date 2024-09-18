@@ -641,25 +641,7 @@
 	"简介": "评书合集",
 	"分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
 	"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"}
-},
-{
-    "key": "Yinyuetai",
-    "name": "🎧音悦┃MV",
-    "type": 3,
-    "api": "https://gitee.com/dongchenys/liu/raw/master/js/yinyuetai.js",
-    "searchable": 1,
-    "changeable": 0
-      
-},        
-{
-    "key": "Iktv",
-    "name": "🎵KTV┃K歌",
-    "type": 3,
-    "api": "csp_Iktv",
-    "searchable": 1,
-    "changeable": 0,
-    "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/ktv.jar"
-},
+},      
 {
     "key":"music",
     "name": "🎵酷狗┃音乐",
@@ -685,7 +667,6 @@
     "name": "💻短剧┃分享",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -713,7 +694,6 @@
     "name": "💻短剧┃爽网",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -739,7 +719,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "ext": "https://cloud.lxweb.cn/f/kpNqhp/Bili.json"
+    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/Bili.json"
 },
 {
     "key": "MV",
@@ -753,7 +733,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "ext":"https://cloud.lxweb.cn/f/MRWJHG/MTV.json"
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/MTV.json"
 },	
 {
   "key": "cofig",
