@@ -23,7 +23,7 @@
     "主页url": "http://www.7xdy.com/",
     "简介": "<span class=\"detail-content\" style=*>&&</span>",
     "影片状态": "状态：&&</p>",
-    "副标题": "✨琉芸蓝光✨+class=\"jidi\"><span>&&</span>",
+    "副标题":"✨琉芸蓝光✨+text-right\">&&</span>",
     "搜索url": "/search.php;post;searchword={wd}",
     "线路数组": "<h3&&/h3>",
     "线路标题": "琉芸专享✨八大平台✨+src=*>&&<",
