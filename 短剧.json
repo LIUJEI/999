@@ -418,7 +418,52 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili短剧.json",
     "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
 },
+{
+    "key":"短剧tv",
+    "name":"🎆┣抖音┫短剧",
+    "type":3,
+    "api":"csp_XBPQ",
+    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
+    "ext":{
+    "简介":"祝您观影愉快",
+    "搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
+    "线路标题":"<h3*>&&</h3>",
+    "线路数组":"\"more text-muted pull-right\">&&</ul>",
+    "播放数组":"\"more text-muted pull-right\">&&</ul>",
+    "播放链接":"http+://www.duanjutv.cc+href='&&'",
+    "分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m",
+    "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"}  
+},
 
+{
+    "key":"星空影视2",
+    "name":"⭐星空福利",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext":{
+    "首页":"网红短剧",
+    "简介":"刘公子给您该片简介：+col-pd\">&&",
+    "线路数组":"#playlist&&",
+    "副标题":"公子专属",
+    "播放数组":"stui-content__playlist clearfix&&",
+    "跳转播放链接":"varurlDecode(var player_*url\":\"&&\")",
+    "搜索url":"https://www.nbhuiding.com/search/{wd}----------{pg}---.html",
+    "分类url":"https://www.nbhuiding.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html[https://www.nbhuiding.com/list/{cateId}.html]",
+    "分类":"网红短剧$34#国产剧$13#其他剧$22#动作片$6#喜剧片$7#爱情片$8#科幻片$9#大陆综艺$25#午夜剧场$33"}
+}, 
+{
+    "key":" 一起看",
+    "name":"🎬一起看",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{
+    "分类url":"http://www.lxsgsy.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=",
+    "分类":"电影&电视剧&综艺&动漫&短剧",
+    "分类值":"1&2&3&4&30"}
+},
 {
   "key": "cofig",
   "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
