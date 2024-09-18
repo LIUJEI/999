@@ -13,13 +13,6 @@
     "searchable": 0
 },
 {
-    "key": "预告",
-    "name": "豆瓣｜预告",
-    "type": 3,
-    "api": "csp_YGP",
-    "searchable": 0
-},
-{
     "key": "无忧短剧",
     "name": "📛┣无忧┫短剧",
     "type": 3,
@@ -48,20 +41,6 @@
     "type": 3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/星芽短剧.js"
-},
-{
-    "key":"短剧天堂",
-    "name":"📛┣天堂┫短剧",
-    "type":3,
-    "api":"csp_XBPQ",  
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/短剧天堂.json"
-},
-{
-    "key": "hipy_js_短剧天堂",
-    "name": "📛┣天堂┫短剧",
-    "type": 3,
-    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/短剧天堂.js"
 },
 {
     "key": "蓝莓短剧",
@@ -169,7 +148,7 @@
     "分类url":"https://duanju8.cc/type/{cateId}/page/{catePg}.html"} 
 },
 {
-    "key":"短剧天堂",
+    "key":"短剧天堂1",
     "name":"🎆┣短剧┫天堂",
     "type":3,
     "api":"csp_XBPQ",
@@ -192,15 +171,6 @@
     "简介":"祝您观影愉快",
     "分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生",
     "分类url":"http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"}
-},
-{
-    "key":"csp_XBPQ_胖嘟嘟",
-    "name":"🎆┣胖嘟┫短剧",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext":{
-    "分类":"全部$qb#言情$yq#古代$dg#都市$ds",
-    "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
 },
 {
     "key": "短剧分享",
@@ -305,15 +275,6 @@
     "changeable": 1
 },
 {
-    "key": "神仙影视",
-    "name": "🎆┣神仙┫短剧",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-    "分类": "短剧$5"}
-},
-{
     "key": "L芸闪电",
     "name": "🍇┃L芸01┃短剧",
     "type": 1,
@@ -330,14 +291,6 @@
     "categories": ["爽文短剧","现代都市","年代穿越","古装仙侠","成长逆袭"] 
 },
 {
-    "key": "L芸闪电",
-    "name": "🍇┃L芸03┃短剧",
-    "type": 1,
-    "api": "https://shandianzy.com/api.php/provide/vod/",
-    "playurl": "https://www.shankubf.com/m3u8/?url=",
-    "categories": [ "女频恋爱", "反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影"] 
-},	
-{
     "key": "L芸优质",
     "name": "🍇┃L芸04┃短剧",
     "type": 0,
@@ -353,7 +306,6 @@
     "playurl": "https://hhjiexi.com/play/?url=",
     "categories": [ "短剧" ] 
 },
-
 {
     "key": "L芸飞速",
     "name": "🍇┃L芸06┃短剧 ",
@@ -553,12 +505,14 @@
     "style": {
     "type": "rect",
     "ratio": 1.597
-      },
+    },
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "ext": "https://cloud.lxweb.cn/f/kpNqhp/Bili.json"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili短剧.json",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
 },
+
 {
   "key": "cofig",
   "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
