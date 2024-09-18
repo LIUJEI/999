@@ -488,6 +488,7 @@
     "name": "🎆┣电影┫先生",
     "type": 3,
     "api": "csp_XBPQ",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/电影先生.json"
 },
 {
@@ -495,6 +496,7 @@
     "name": "🎆┣优优┫影视",
     "type": 3,
     "api": "csp_XBPQ",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/UU影视.json"
 },
 {
@@ -502,6 +504,7 @@
     "name": "🎆┣南坊┫影视",
     "type": 3,
 	"api": "csp_XBPQ",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/南坊.json"
 },
 {
@@ -509,6 +512,7 @@
     "name": "🎆┣七新┫影视",
     "type": 3,
     "api": "csp_XBPQ",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/七新影视.json"
 },
 {
@@ -516,6 +520,7 @@
     "name": "🎆┣酒吧┫影视",
     "type": 3,
     "api": "csp_XBPQ",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/98影视.json"
 },
 {
@@ -523,6 +528,7 @@
     "name": "🎆┣白白┫影视",
     "type": 3,
     "api": "csp_XYQHiker",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/白白影视.json"
 },
 {"key": "剧猫","name": "🏧┣剧猫┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://jingxiang.lingutv.cn/api.php/app/"},
