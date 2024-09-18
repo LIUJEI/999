@@ -185,15 +185,7 @@
       "changeable": 1
 },
 {
-    "key": "L芸闪电",
-    "name": "🍇┃L芸01┃短剧",
-    "type": 1,
-    "api": "https://shandianzy.com/api.php/provide/vod/",
-    "playurl": "https://www.shankubf.com/m3u8/?url=",
-    "categories": [ "女频恋爱", "反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影"] 
-},
-{
-    "key": "星芽短剧",
+    "key": "星芽短剧0",
     "name": "♨️星芽®短剧",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
@@ -206,6 +198,14 @@
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "https://weixine.net/js/lanmei.js"
 },	
+{
+    "key": "L芸闪电",
+    "name": "🍇┃L芸01┃短剧",
+    "type": 1,
+    "api": "https://shandianzy.com/api.php/provide/vod/",
+    "playurl": "https://www.shankubf.com/m3u8/?url=",
+    "categories": [ "女频恋爱", "反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影"] 
+},
 {
     "key": "L芸360",
     "name": "🍇┃L芸02┃短剧 ",
