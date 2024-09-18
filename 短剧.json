@@ -140,31 +140,13 @@
 },
 {
     "key": "你好帅",
-    "name": "🚛好帅┃短剧",
+    "name": "📛┣好帅┫短剧",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
       "分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html",
       "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan",
       "播放数组": "<div class=\"sort-item\"&&</div>"}
-},
-{
-      "key": "Wexduanjuvop",
-      "name": "🍉短剧┃秒播🍉",
-      "type": 3,
-      "api": "csp_Wexduanjuvop",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726501597789/wex.txt",
-      "searchable": 1,
-      "changeable": 1
-},
-{
-      "key": "Wexduanjuhema",
-      "name": "🍉短剧┃仙品🍉",
-      "type": 3,
-      "api": "csp_Wexduanjuhema",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726501597789/wex.txt",
-      "searchable": 1,
-      "changeable": 1
 },
 {
       "key": "Wexduanju001",
