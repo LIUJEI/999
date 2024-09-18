@@ -105,7 +105,7 @@
     "key": "星芽短剧",
     "name": "♨️星芽®短剧",
     "type": 3,
-    "jar": "https://weixine.net/ok.jar",
+    "jar": "https://weixine.net/ok.jar;md5;69c0dc9473ef7184b564d79884406f7a",
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "https://weixine.net/js/xingya.js"
 },
@@ -113,7 +113,7 @@
     "key": "蓝莓短剧",
     "name": "♨️蓝莓®短剧",
     "type": 3,
-    "jar": "https://weixine.net/ok.jar",
+    "jar": "https://weixine.netok.jar;md5;69c0dc9473ef7184b564d79884406f7a",
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "https://weixine.net/js/lanmei.js"
 },
