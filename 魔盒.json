@@ -67,6 +67,18 @@
     "分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}
 },
 {
+    "key": "iysdq",
+    "name": "正版🍁影院蓝光",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+    "分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "国产剧$21#电影$1#综艺$3#香港剧$22#台湾剧$23#动漫$4"}
+},
+{
     "key": "全看影视",
     "name": "正版🍁全看影视",
     "type": 3,
