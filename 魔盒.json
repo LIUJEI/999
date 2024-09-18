@@ -40,6 +40,7 @@
     "filterable": 1,
     "ext": {
     "影片地区": "大陆",
+    "副标题":"✨琉芸蓝光✨+text-right\">&&</span>",
     "影片年代": "<div class=\"module-info-tag\">&&</div>",
     "影片状态": "备注：&&</div>",
     "影片类型": "module-info-tag\">&&立即播放",
@@ -58,6 +59,7 @@
     "主页url":"http://www.98dyb.com/",
     "简介":"【琉芸提醒】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=*>&&</span>",
     "影片状态":"状态：&&</p>",
+    "副标题":"✨琉芸蓝光✨+text-right\">&&</span>",
     "搜索url":"/search.php;post;searchword={wd}",
     "线路数组":"<h3&&/h3>",
     "线路标题":"琉芸专享✨+src=*>&&<",
@@ -74,6 +76,7 @@
     "filterable": 1,
     "ext": {
     "嗅探词": ".m3u8?#bdric-cdn-tos.1ljx.com#.m3u8#.mp4",
+    "副标题":"✨琉芸蓝光✨+text-right\">&&</span>",
     "简介": "<div class=\"stui-content__desc col-pd clearfix\"&&</div>",
     "线路数组": "<div class=\"stui-pannel__head clearfix\"&&</div>",
     "线路标题": "琉芸专享✨+class=\"title\">&&</h3>",
@@ -94,7 +97,7 @@
   "分类值": "new-movie&tv-drama&hot-month&domestic-drama&american-drama&korean-drama&high-movie&cartoon-movie&hongkong-movie&anime-drama",
   "分类url": "https://www.subaibaiys.com/{cateId}/page/{catePg}",
   "数组": "<li>&&</li>",
-  "副标题": "✨琉芸蓝光✨+class=\"jidi\"><span>&&</span>",
+  "副标题":"✨琉芸蓝光✨+text-right\">&&</span>",
   "搜索模式": "1",
   "搜索url": "/search?q={wd}",
   "搜索数组": "<li>&&</li>",
