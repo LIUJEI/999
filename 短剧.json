@@ -13,13 +13,27 @@
     "searchable": 0
 },
 {
+    "key": "在线短剧",
+    "name": "📛┣在线┫短剧",
+    "type": 3,
+    "api": "csp_Duanju",
+    "searchable": 1,
+    "changeable": 0,
+    "style": {
+        "type": "rect",
+        "ratio": 1.433},
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"
+},
+{
     "key": "无忧短剧",
     "name": "📛┣无忧┫短剧",
     "type": 3,
     "api": "csp_Duanj",
     "searchable": 1,
     "changeable": 0,
-    "style": {"type": "rect","ratio": 1.433},
+    "style": {
+        "type": "rect",
+        "ratio": 1.433},
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"
 },
 {
@@ -36,18 +50,50 @@
     "api": "csp_AppXY"
 },
 {
-    "key": "hipy_js_星芽短剧app",
-    "name": "📛┣星芽┫短剧",
+    "key": "星芽短剧",
+    "name": "♨️星芽®短剧",
     "type": 3,
-    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/星芽短剧.js"
+    "jar": "https://weixine.net/ok.jar;md5;69c0dc9473ef7184b564d79884406f7a",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "https://weixine.net/js/xingya.js"
 },
 {
     "key": "蓝莓短剧",
     "name": "♨️蓝莓®短剧",
     "type": 3,
-    "api": "https://weixine.net//js/lib/drpy2.min.js",
-    "ext": "https://weixine.net//js/lanmei.js"
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "https://weixine.net/js/lanmei.js"
+},
+{
+    "key": "hipy_js_短剧天堂",
+    "name": "📛┣天堂┫短剧",
+    "type": 3,
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/短剧天堂.js"
+},
+{
+    "key": "csp_XYQHiker_爱你短剧",
+    "name":"📛┣爱你┫短剧",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/爱你短剧.json"
+},
+{
+    "key": "csp_XYQHiker_河马短剧",
+    "name":"📛┣河马┫短剧",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/河马短剧.json"
+},
+{
+    "key": "短剧屋",
+    "name": "📛┣剧屋┫短剧",
+    "type": 3,
+    "api": "csp_XYQHiker",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/短剧屋.json"
 },
 {
     "key":"短剧吧",
@@ -109,170 +155,50 @@
     "简介": "<p>&&</p>"}
 },
 {
-    "key": "csp_XYQHiker_爱你短剧",
-    "name":"📛┣爱你┫短剧",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/爱你短剧.json"
-},
-{
-    "key": "csp_XYQHiker_河马短剧",
-    "name":"📛┣河马┫短剧",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/河马短剧.json"
-},		
-{
-    "key":"短剧tv",
-    "name":"🎆┣抖音┫短剧",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext":{
-    "简介":"祝您观影愉快",
-    "搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
-    "线路标题":"<h3*>&&</h3>",
-    "线路数组":"\"more text-muted pull-right\">&&</ul>",
-    "播放数组":"\"more text-muted pull-right\">&&</ul>",
-    "播放链接":"http+://www.duanjutv.cc+href='&&'",
-    "分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m",
-    "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"}  
-},
-{
-    "key":"短剧吧",
-    "name":"🎆┣短剧┫吧网",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext":{
-    "简介":"祝您观影愉快",
-    "分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
-    "分类url":"https://duanju8.cc/type/{cateId}/page/{catePg}.html"} 
-},
-{
-    "key":"短剧天堂1",
-    "name":"🎆┣短剧┫天堂",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext":{
-    "简介":"祝您观影愉快",
-    "搜索url":"https://duanjutt.tv/vodsearch/{wd}-----------{pg}---.html",
-    "分类url":"https://duanjutt.tv/vodshow/{cateId}--------{catePg}---.html",
-    "免嗅": "0",
-    "嗅探词": ".mp4#.m3u8#.flv",
-    "分类":"逆袭$1#甜宠$2#虐恋$3#穿越$4#重生$5",
-    "分类数组":"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>",
-    "分类ID":"/vodtype/&&.html"}
-},
-{
-    "key":"短剧网",
-    "name":"🎆┣网香┫短剧",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext":{
-    "简介":"祝您观影愉快",
-    "分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生",
-    "分类url":"http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"}
-},
-{
-    "key": "短剧分享",
-    "name": "🎆┣短剧┫分享",
+    "key": "你好帅",
+    "name": "🚛好帅┃短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
     "ext": {
-    "站名": "短剧分享",
-    "主页url": "http://mp5.hz.cz/",
-    "导演": "导演：&&</div>",
-    "主演": "主演：&&</div>",
-    "影片状态": "备注：&&</div>",
-    "影片类型": "video-info-aux\">&&立即播放",
-    "搜索模式": "1",
-    "搜索url": "http://mp5.hz.cz/index.php/vod/search.html?wd={wd}",
-    "搜索数组": "module-item-pic\">&&</div>",
-    "搜索标题": "alt=\"&&\"",
-    "搜索副标题": "",
-    "搜索图片": "data-src=\"&&\"",
-    "搜索链接": "href=\"&&\"",
-    "线路数组": "data-dropdown-value=&&</div>",
-    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-    "分类url": "http://mp5.hz.cz/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "短剧一FF$1#短剧二YZ$2#短剧三XL$3#短剧四1080$4"}
+      "分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html",
+      "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan",
+      "播放数组": "<div class=\"sort-item\"&&</div>"}
 },
 {
-    "key": "duanju001",
-    "name": "🎆┣短剧┫爽网",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-    "分类url": "https://www.duanju001.com/show/duanju-{area}-{by}------{catePg}---{year}.html",
-    "分类": "短剧首页$1#短剧列表$2#排行榜$3#",
-    "分类值": "duanju&",
-    "副标题": "<div class=\"v-item-bottom\">&&</div>",
-    "嗅探词": "m3u8#.m3u8#.mp4#mp4#/obj/",
-    "导演": "导演:&&</div>",
-    "主演": "主演:&&</div>",
-    "简介": "<p>&&</p>"}
+      "key": "Wexduanjuvop",
+      "name": "🍉短剧┃秒播🍉",
+      "type": 3,
+      "api": "csp_Wexduanjuvop",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726501597789/wex.txt",
+      "searchable": 1,
+      "changeable": 1
 },
 {
-    "key": "精品短剧",
-    "name": "🎆┣精品┫短剧",
-    "type": 3,
-    "api": "csp_Wexduanjuvip",
-    "searchable": 1,
-    "changeable": 1
+      "key": "Wexduanjuhema",
+      "name": "🍉短剧┃仙品🍉",
+      "type": 3,
+      "api": "csp_Wexduanjuhema",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726501597789/wex.txt",
+      "searchable": 1,
+      "changeable": 1
 },
 {
-    "key": "星芽短剧",
-    "name": "🎆┣星芽┫短剧",
-    "type": 3,
-    "api": "csp_AppXY",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 0
+      "key": "Wexduanju001",
+      "name": "🍉短剧┃极品🍉",
+      "type": 3,
+      "api": "csp_Wexduanju001",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726501597789/wex.txt",
+      "searchable": 1,
+      "changeable": 1
 },
 {
-    "key": "秒播短剧",
-    "name": "🎆┣秒播┫短剧",
-    "type": 3,
-    "api": "csp_Wexduanjuvop",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "仙品短剧",
-    "name": "🎆┣仙品┫短剧",
-    "type": 3,
-    "api": "csp_Wexduanjuhema",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "极品短剧",
-    "name": "🎆┣极品┫短剧",
-    "type": 3,
-    "api": "csp_Wexduanjuvmp",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "精品短剧",
-    "name": "🎆┣精品┫短剧",
-    "type": 3,
-    "api": "csp_Wexvipduanju",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "良品短剧",
-    "name": "🎆┣良品┫短剧",
-    "type": 3,
-    "api": "csp_Wexduanjuvip",
-    "searchable": 1,
-    "changeable": 1
+      "key": "Wexduanjuvip",
+      "name": "🍉短剧┃精品🍉",
+      "type": 3,
+      "api": "csp_Wexduanjuvip",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726501597789/wex.txt",
+      "searchable": 1,
+      "changeable": 1
 },
 {
     "key": "L芸闪电",
