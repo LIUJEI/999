@@ -40,7 +40,7 @@
     "filterable": 1,
     "ext": {
     "影片地区": "大陆",
-    "副标题":"✨琉芸蓝光✨+text-right\">&&</span>",
+    "副标题":"✨琉芸蓝光✨+class=\"jidi\"><span>&&</span>",
     "影片年代": "<div class=\"module-info-tag\">&&</div>",
     "影片状态": "备注：&&</div>",
     "影片类型": "module-info-tag\">&&立即播放",
@@ -97,7 +97,7 @@
   "分类值": "new-movie&tv-drama&hot-month&domestic-drama&american-drama&korean-drama&high-movie&cartoon-movie&hongkong-movie&anime-drama",
   "分类url": "https://www.subaibaiys.com/{cateId}/page/{catePg}",
   "数组": "<li>&&</li>",
-  "副标题":"✨琉芸蓝光✨+text-right\">&&</span>",
+  "副标题":"✨琉芸蓝光✨+class=\"jidi\"><span>&&</span>",
   "搜索模式": "1",
   "搜索url": "/search?q={wd}",
   "搜索数组": "<li>&&</li>",
