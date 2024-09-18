@@ -1,6 +1,5 @@
 {
   "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;f825a0ce4269de14fdeab22d9418472e",
-  "spider": "https://weixine.net//ok.jar;md5;69c0dc9473ef7184b564d79884406f7a",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
@@ -48,21 +47,6 @@
     "name": "📛┣星芽┫APP",
     "type": 3,
     "api": "csp_AppXY"
-},
-{
-    "key": "星芽短剧",
-    "name": "♨️星芽®短剧",
-    "type": 3,
-    "jar": "https://weixine.net/ok.jar;md5;69c0dc9473ef7184b564d79884406f7a",
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "https://weixine.net/js/xingya.js"
-},
-{
-    "key": "蓝莓短剧",
-    "name": "♨️蓝莓®短剧",
-    "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "https://weixine.net/js/lanmei.js"
 },
 {
     "key": "hipy_js_短剧天堂",
@@ -207,6 +191,20 @@
     "api": "https://shandianzy.com/api.php/provide/vod/",
     "playurl": "https://www.shankubf.com/m3u8/?url=",
     "categories": [ "女频恋爱", "反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影"] 
+},
+{
+    "key": "星芽短剧",
+    "name": "♨️星芽®短剧",
+    "type": 3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "https://weixine.net/js/xingya.js"
+},
+{
+    "key": "蓝莓短剧",
+    "name": "♨️蓝莓®短剧",
+    "type": 3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "https://weixine.net/js/lanmei.js"
 },	
 {
     "key": "L芸360",
