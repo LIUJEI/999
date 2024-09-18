@@ -20,17 +20,16 @@
     "type":3,
     "api":"csp_XBPQ",
     "ext": {
+    "作者": "",
+    "站名": "七新影视",
     "主页url": "http://www.7xdy.com/",
     "简介": "<span class=\"detail-content\" style=*>&&</span>",
-    "导演":"",
-    "主演":"主演：&&</a>",   
-    "搜索url": "/search.php;post;searchword={wd}",
     "影片状态": "状态：&&</p>",
-    "影片类型":"video-tag-icon\">&&立即播放",
-    "线路标题":"🌹琉✿芸🌹八大平台一网打尽+src=*>&&<",
+    "搜索url": "/search.php;post;searchword={wd}",
     "线路数组": "<h3&&/h3>",
+    "线路标题": "琉芸专享✨八大平台一网打尽+src=*>&&<",
     "分类url": "http://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
-    "分类":"🏮劉氏-影業$guochanju#电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}
+    "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}
 },
 {
     "key":"csp_盒子",
