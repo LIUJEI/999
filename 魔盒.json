@@ -61,7 +61,7 @@
 },
 {
     "key": "全看影视",
-    "name": "全看影视",
+    "name": "正版🍁全看影视",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable": 1,
@@ -77,7 +77,7 @@
 },
 {
     "key": "素白白影视",
-    "name": "🧿素白┃蓝光",
+    "name": "正版🍁素白蓝光",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable": 1,
@@ -112,7 +112,7 @@
 },
 {
     "key": "泥巴影院",
-    "name": "4⃣泥巴┃海外┃速播",
+    "name": "正版🍁泥巴影院",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable": 1,
@@ -127,21 +127,8 @@
     "分类url": "https://nbys.app/genre/{cateId}-{area}-{year}-{catePg}/by/{by}.html"}
 },
 {
-    "key": "樱花动漫",
-    "name": "5⃣️樱花┃动漫┃大全",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-    "简介": "请勿相信影片中的广告，以免上当受骗。+<span class=\"sketch content&&</div>",
-    "分类url": "https://www.aidm3.com/type/{cateId}-{catePg}.html",
-    "分类": "国产动漫$guochandongman#日本动漫$ribendongman#欧美动漫$oumeidongman#动漫电影$dongmandianying"}
-},
-{
     "key": "Gofree",
-    "name": "🧿喵迅┃蓝光",
+    "name": "正版🍁喵迅蓝光",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable": 1,
@@ -161,7 +148,7 @@
 },
  {
     "key": "电影驿站",
-    "name": "🧿驿站┃蓝光",
+    "name": "正版🍁驿站蓝光",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable": 1,
@@ -180,7 +167,7 @@
 },
 {
     "key":"csp_星辰",
-    "name":"正版☪星辰影视",
+    "name":"正版🍁星辰影视",
     "type":3,
     "api":"csp_XBPQ",
     "ext": {
@@ -209,7 +196,7 @@
 },
 {
     "key":"茶狐杯",
-    "name":"🎦茶狐杯",
+    "name":"正版🍁茶狐杯院",
     "type":3,
     "api":"csp_XBPQ",
     "ext": {
@@ -223,7 +210,7 @@
 },
 {
     "key": "星空影视",
-    "name": "星空影视",
+    "name": "正版🍁星空影视",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable": 1,
@@ -235,7 +222,7 @@
 },
 {
     "key": "麦田影视",
-    "name": "麦田影视",
+    "name": "正版🍁麦田影视",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable": 1,
@@ -585,6 +572,19 @@
     "播放列表":"<a&&/a>",
     "分类url":"http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a",
     "分类":"🏮劉氏-影業$13#电影$1#电视剧$2#综艺$3#动漫$4"}
+},
+{
+    "key": "樱花动漫",
+    "name": "正版🍁樱花动漫",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+    "简介": "请勿相信影片中的广告，以免上当受骗。+<span class=\"sketch content&&</div>",
+    "分类url": "https://www.aidm3.com/type/{cateId}-{catePg}.html",
+    "分类": "国产动漫$guochandongman#日本动漫$ribendongman#欧美动漫$oumeidongman#动漫电影$dongmandianying"}
 },
 {
 	"key": "相声",
