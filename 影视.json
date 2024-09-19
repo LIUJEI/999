@@ -351,13 +351,10 @@
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
 },
 {
-    "key": "看看影视",
-    "name": "🎆┣看看┫影视",
+    "key": "韩小圈",
+    "name": "🎆┣韩圈┫APP",
     "type": 3,
-    "api": "csp_WebIV",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0
+    "api": "csp_HanXiaoQuan"
 },
 {
     "key": "视频库",
@@ -378,45 +375,6 @@
     "quickSearch": 1,
     "filterable": 1
 },
-
-{
-    "key": "freeok1",
-    "name": "🎆┣小米┫独家",
-    "type": 3,
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/08015.jar",
-    "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-    "api": "csp_FreeOK"
-},
-{
-    "key": "云播",
-    "name": "🎆┣云播┫影视",
-    "type": 3,
-    "api": "csp_Tvyb",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/08015.jar"
-},
-{
-    "key": "csp_Nkdy",
-    "name": "🎆┣耐看┫影视",
-    "type": 3,
-    "api": "csp_Nkdy",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/08015.jar"
-},
-{
-    "key": "csp_paopao",
-    "name": "🎆┣菠菜┫影视",
-    "type": 3,
-    "changeable": 0,
-    "api": "csp_Pptv",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/08015.jar",
-    "ext": "https://yigeg.pro"
-},
- {
-    "key": "qyys",
-    "name": "奇优┃影视",
-    "type": 3,
-    "api": "csp_Qiyou",
-    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-},
 {
     "key": "mmys",
     "name": "萌米┃影视",
@@ -426,11 +384,40 @@
     "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
 },
 {
-    "key":"csp_YCyz",
-    "name":"🎆┣原创┫自营",
-    "type":3,
-    "api":"csp_YCyz",
+    "key": "pgys",
+    "name": "苹果┃影视",
+    "type": 3,
+    "api": "csp_LiteApple",
+    "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
+},
+{
+    "key": "nkys",
+    "name": "耐看┃影视",
+    "type": 3,
+    "api": "csp_Nkdy",
     "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+},
+{
+    "key": "qyys",
+    "name": "奇优┃影视",
+    "type": 3,
+    "api": "csp_Qiyou",
+    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+},
+{
+    "key": "rzys",
+    "name": "忍者┃影视",
+    "type": 3,
+    "api": "csp_AppRZ",
+    "ext": "http://rzys.xyz/",
+    "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
+},
+{
+    "key": "nmys",
+    "name": "农民┃影视",
+    "type": 3,
+    "api": "csp_Nongm",
+    "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
 },
 {
     "key":"csp_Zxzj",
@@ -439,6 +426,44 @@
     "api":"csp_Zxzj",
     "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533",
     "ext":"https://www.zxzja.com/"
+},
+{
+    "key": "shys",
+    "name": "骚火┃影视",
+    "type": 3,
+    "api": "csp_SaoHuo",
+    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+},
+{
+    "key": "gzys",
+    "name": "瓜子┃影视",
+    "type": 3,
+    "api": "csp_Gz360",
+    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+},
+{
+    "key": "ygys",
+    "name": "🎆┣菠菜┫影视",
+    "type": 3,
+    "api": "csp_Pptv",
+    "ext": "https://yigeg.pro",
+    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+},
+{
+    "key": "free",
+    "name": "🎆┣喵佬┫独家",
+    "type": 3,
+    "api": "csp_FreeOK",
+    "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
+    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+},
+{
+    "key": "czys",
+    "name": "厂长┃影视",
+    "type": 3,
+    "api": "csp_Czsapp",
+    "ext": "https://czzy.top/",
+    "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
 },
 {
     "key": "hipy_js_泡泡影院",
