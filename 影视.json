@@ -247,12 +247,6 @@
     "api": "csp_Kuaikan"
 },
 {
-    "key": "看看影视",
-    "name": "🎆┣看看┫影视",
-    "type": 3,
-    "api": "csp_WebIV"
-},
-{
     "key": "天天影视",
     "name": "🎆┣天天┫影视",
     "type": 3,
@@ -304,9 +298,7 @@
     "key":"素白白",
     "name":"🎆┣白白┫影视",
     "type":3,
-    "api":"csp_Subaibai",
-    "searchable":1,
-    "changeable":1
+    "api": "csp_Subaibai"
 },
 {
     "key":"腐剧视频",
@@ -359,7 +351,15 @@
     "type": 3,
     "api": "csp_Czzy"
 },
-
+{
+    "key": "看看影视",
+    "name": "🎆┣看看┫影视",
+    "type": 3,
+    "api": "csp_WebIV",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
 {
     "key": "视频库",
     "name": "🎆┣视频┫影库",
@@ -374,11 +374,10 @@
     "key": "机器人",
     "name": "🎆┣爱看┫机器",
     "type":3,
-    "api":"csp_Ikanbot",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "ext":"https://v.aikanbot.com"
+    "api": "csp_Ikanbot",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
 },
 
 {
