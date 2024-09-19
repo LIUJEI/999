@@ -578,7 +578,7 @@
     "quickSearch": 0,
     "changeable": 0,
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili短剧.json",
-    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
 },
 {
     "key": "MV",
@@ -593,7 +593,7 @@
     "quickSearch": 0,
     "changeable": 0,
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili音乐.json",
-    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
 },
 {
     "key":  "少儿",
@@ -601,7 +601,7 @@
     "type": 3,
     "api": "csp_Bili",
     "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/少儿合集.json",
-    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
 },
 {
     "key": "小学课堂",
@@ -609,7 +609,7 @@
     "type": 3,
     "api": "csp_Bili",
     "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小学课堂.json",
-    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/refs/heads/main/Bili.jar"
 },
 {
     "key": "初中课堂",
@@ -617,7 +617,7 @@
     "type": 3,
     "api": "csp_Bili",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/初中课堂.json",
-    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/refs/heads/main/Bili.jar"
 },
 {
     "key": "高中课堂",
@@ -625,7 +625,7 @@
     "type": 3,
     "api": "csp_Bili",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/高中课堂.json",
-    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/refs/heads/main/Bili.jar"
 },
 {
     "key":"小灯塔科学",
