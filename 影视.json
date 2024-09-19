@@ -283,12 +283,6 @@
     "api":"csp_FengGo"
 },
 {
-    "key":"素白白",
-    "name":"🎆┣白白┫影视",
-    "type":3,
-    "api": "csp_Subaibai"
-},
-{
     "key": "忍者影视",
     "name": "🎆┣忍者┫APP",
     "type": 3,
@@ -350,6 +344,13 @@
     "name":"🎆┣腐剧┫影视",
     "type":3,
     "api":"csp_WexFujutv",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
+},
+{
+    "key":"素白白",
+    "name":"🎆┣白白┫影视",
+    "type":3,
+    "api": "csp_Subaibai",
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
 },
 {
