@@ -342,7 +342,7 @@
 },
 {
     "key": "mmys",
-    "name": "萌米┃影视",
+    "name": "🎆┣萌米┫影视",
     "type": 3,
     "api": "csp_AppTT",
     "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
@@ -350,28 +350,28 @@
 },
 {
     "key": "pgys",
-    "name": "苹果┃影视",
+    "name": "🎆┣苹果┫影视",
     "type": 3,
     "api": "csp_LiteApple",
     "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
 },
 {
     "key": "nkys",
-    "name": "耐看┃影视",
+    "name": "🎆┣耐看┫影视",
     "type": 3,
     "api": "csp_Nkdy",
     "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
 },
 {
     "key": "qyys",
-    "name": "奇优┃影视",
+    "name": "🎆┣奇优┫影视",
     "type": 3,
     "api": "csp_Qiyou",
     "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
 },
 {
     "key": "rzys",
-    "name": "忍者┃影视",
+    "name": "🎆┣忍者┫影视",
     "type": 3,
     "api": "csp_AppRZ",
     "ext": "http://rzys.xyz/",
@@ -379,16 +379,9 @@
 },
 {
     "key": "shys",
-    "name": "骚火┃影视",
+    "name": "🎆┣骚火┫影视",
     "type": 3,
     "api": "csp_SaoHuo",
-    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-},
-{
-    "key": "gzys",
-    "name": "瓜子┃影视",
-    "type": 3,
-    "api": "csp_Gz360",
     "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
 },
 {
@@ -409,7 +402,7 @@
 },
 {
     "key": "czys",
-    "name": "厂长┃影视",
+    "name": "🎆┣厂长┫影视",
     "type": 3,
     "api": "csp_Czsapp",
     "ext": "https://czzy.top/",
@@ -443,49 +436,12 @@
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "http://mdxgh.tpddns.cn:9999/dzlib/闪雷电.js"
 },
-{
-    "key": "New6v",
-    "name": "🎆┣六维┫磁力",
-    "type": 3,
-    "api": "csp_New6v",
-    "ext": "https://www.xb6v.com"
-},
-{
-    "key": "SeedHub",
-    "name": "🎆┣小白┫磁力",
-    "type": 3,
-    "api": "csp_SeedHub"
-},
-{
-    "key": "美剧迷",
-    "name": "🎆┣剧迷┫磁力",
-    "type": 3,
-    "api": "csp_MeijuMi"        
-},
-{
-    "key": "迅雷吧",
-    "name": "🎆┣迅雷┫磁力",
-    "type": 3,
-    "api": "csp_Xunlei8"
-},
-{
-    "key": "Mp4电影",
-    "name": "🎆┣电影┫磁力",
-    "type": 3,
-    "api": "csp_Mp4Mov"
-},
-{
-    "key": "美剧天堂",
-    "name": "🎆┣天堂┫磁力",
-    "type": 3,
-    "api": "csp_MeijuTT"
-},
+
 {
     "key": "XBPQ_电影先生",
     "name": "🎆┣电影┫先生",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/电影先生.json"
 },
 {
@@ -493,7 +449,6 @@
     "name": "🎆┣优优┫影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/UU影视.json"
 },
 {
@@ -501,7 +456,6 @@
     "name": "🎆┣南坊┫影视",
     "type": 3,
 	"api": "csp_XBPQ",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/南坊.json"
 },
 {
@@ -509,7 +463,6 @@
     "name": "🎆┣七新┫影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/七新影视.json"
 },
 {
@@ -517,7 +470,6 @@
     "name": "🎆┣酒吧┫影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/98影视.json"
 },
 {
@@ -694,13 +646,49 @@
     "api":"csp_Bili",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json"
 },
-
 {
     "key": "hipy_js_一曲肝肠断",
     "name": "🅱️一曲肝肠断",
     "type": 3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "http://mdxgh.tpddns.cn:9999/dzlib/一曲肝肠断.js"
+},
+{
+    "key": "New6v",
+    "name": "🎆┣六维┫磁力",
+    "type": 3,
+    "api": "csp_New6v",
+    "ext": "https://www.xb6v.com"
+},
+{
+    "key": "SeedHub",
+    "name": "🎆┣小白┫磁力",
+    "type": 3,
+    "api": "csp_SeedHub"
+},
+{
+    "key": "美剧迷",
+    "name": "🎆┣剧迷┫磁力",
+    "type": 3,
+    "api": "csp_MeijuMi"        
+},
+{
+    "key": "迅雷吧",
+    "name": "🎆┣迅雷┫磁力",
+    "type": 3,
+    "api": "csp_Xunlei8"
+},
+{
+    "key": "Mp4电影",
+    "name": "🎆┣电影┫磁力",
+    "type": 3,
+    "api": "csp_Mp4Mov"
+},
+{
+    "key": "美剧天堂",
+    "name": "🎆┣天堂┫磁力",
+    "type": 3,
+    "api": "csp_MeijuTT"
 },
 {
     "key": "ConfigCenter",
