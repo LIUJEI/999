@@ -323,34 +323,6 @@
     "api": "csp_Czzy"
 },
 {
-    "key":"骚火影视",
-    "name":"🎆┣骚火┫影视",
-    "type":3,
-    "api":"csp_Wexsaohuo",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
-},
-{
-    "key":"圣城影视",
-    "name":"🎆┣圣城┫影视",
-    "type":3,
-    "api":"csp_SC1080",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
-},
-{
-    "key":"腐剧视频",
-    "name":"🎆┣腐剧┫影视",
-    "type":3,
-    "api":"csp_WexFujutv",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
-},
-{
-    "key":"素白白",
-    "name":"🎆┣白白┫影视",
-    "type":3,
-    "api": "csp_Subaibai",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
-},
-{
     "key": "韩小圈",
     "name": "🎆┣韩圈┫APP",
     "type": 3,
@@ -413,21 +385,6 @@
     "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
 },
 {
-    "key": "nmys",
-    "name": "农民┃影视",
-    "type": 3,
-    "api": "csp_Nongm",
-    "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
-},
-{
-    "key":"csp_Zxzj",
-    "name":"🎆┣在线┫影视",
-    "type":3,
-    "api":"csp_Zxzj",
-    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533",
-    "ext":"https://www.zxzja.com/"
-},
-{
     "key": "shys",
     "name": "骚火┃影视",
     "type": 3,
@@ -464,6 +421,20 @@
     "api": "csp_Czsapp",
     "ext": "https://czzy.top/",
     "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
+},
+{
+    "key":"圣城影视",
+    "name":"🎆┣圣城┫影视",
+    "type":3,
+    "api":"csp_SC1080",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
+},
+{
+    "key":"腐剧视频",
+    "name":"🎆┣腐剧┫影视",
+    "type":3,
+    "api":"csp_WexFujutv",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
 },
 {
     "key": "hipy_js_泡泡影院",
