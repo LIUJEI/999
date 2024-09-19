@@ -1,7 +1,7 @@
 {
 
   //"spider": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/ou.jar",
-  "spider": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/spider.jar",
+  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
@@ -211,13 +211,15 @@
     "name": "🎆┣荐片┫推荐",
     "type": 3,
     "api": "csp_JianPian",
-    "ext": "http://api2.rinhome.com"
+    "ext": "http://api2.rinhome.com",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
 },
 {
     "key": "csp_SP360",
     "name": "🎆┣三六┫影视",
     "type": 3,
-    "api": "csp_SP360"
+    "api": "csp_SP360",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
 },
 {
     "key": "忍者影视",
