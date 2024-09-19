@@ -592,70 +592,80 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili音乐.json"
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili音乐.json",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
 },
 {
     "key":  "少儿",
     "name": "🅰️少儿┃合集",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/少儿合集.json"
+    "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/少儿合集.json",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
 },
 {
     "key": "小学课堂",
     "name": "🅰️小学┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小学课堂.json"
+    "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小学课堂.json",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
 },
 {
     "key": "初中课堂",
     "name": "🅰️初中┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/初中课堂.json"
+    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/初中课堂.json",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
 },
 {
     "key": "高中课堂",
     "name": "🅰️高中┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/高中课堂.json"
+    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/高中课堂.json",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
 },
 {
     "key":"小灯塔科学",
     "name":"🌏科学┃小灯塔",
     "type":3,
     "api":"csp_Bili",
-    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔科学.json"
+    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔科学.json",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
 },
 {
     "key":"小灯塔地理",
     "name":"🌏地理┃小灯塔",
     "type":3,
     "api":"csp_Bili",
-    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔地理.json"
+    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔地理.json",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
 },
 {
     "key":"小灯塔百科",
     "name":"🌏百科┃小灯塔",
     "type":3,
     "api":"csp_Bili",
-    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔百科.json"
+    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔百科.json",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
 },
 {
     "key":"小灯塔国学",
     "name":"🌏国学┃小灯塔",
     "type":3,
     "api":"csp_Bili",
-    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔国学.json"
+    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔国学.json",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
 },
 {
     "key":"戏曲",
     "name":"🅱️戏曲精选",
     "type":3,
     "api":"csp_Bili",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json"
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
 },
 {
     "key": "hipy_js_一曲肝肠断",
