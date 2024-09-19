@@ -277,18 +277,6 @@
     "api": "csp_Ddys"
 },
 {
-    "key":"骚火影视",
-    "name":"🎆┣骚火┫影视",
-    "type":3,
-    "api":"csp_Wexsaohuo"
-},
-{
-    "key":"圣城影视",
-    "name":"🎆┣圣城┫影视",
-    "type":3,
-    "api":"csp_SC1080"
-},
-{
     "key":"疯狗影视",
     "name":"🎆┣疯狗┫影视",
     "type":3,
@@ -299,14 +287,6 @@
     "name":"🎆┣白白┫影视",
     "type":3,
     "api": "csp_Subaibai"
-},
-{
-    "key":"腐剧视频",
-    "name":"🎆┣剧剧┫影视",
-    "type":3,
-    "api":"csp_WexFujutv",
-    "searchable":1,
-    "changeable":1
 },
 {
     "key": "忍者影视",
@@ -350,6 +330,27 @@
     "name": "🎆┣厂长┫资源",
     "type": 3,
     "api": "csp_Czzy"
+},
+{
+    "key":"骚火影视",
+    "name":"🎆┣骚火┫影视",
+    "type":3,
+    "api":"csp_Wexsaohuo",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
+},
+{
+    "key":"圣城影视",
+    "name":"🎆┣圣城┫影视",
+    "type":3,
+    "api":"csp_SC1080",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
+},
+{
+    "key":"腐剧视频",
+    "name":"🎆┣腐剧┫影视",
+    "type":3,
+    "api":"csp_WexFujutv",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
 },
 {
     "key": "看看影视",
