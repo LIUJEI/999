@@ -1,7 +1,7 @@
 {
 
-  "spider": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/ou.jar",
-  //"spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+  //"spider": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/ou.jar",
+  "spider": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/refs/heads/main/spider.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
@@ -73,8 +73,7 @@
     "changeable": 0,
     "style": {
         "type": "rect",
-        "ratio": 1.433},
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"
+        "ratio": 1.433}
 },
 {
     "key": "无忧短剧",
@@ -85,8 +84,7 @@
     "changeable": 0,
     "style": {
         "type": "rect",
-        "ratio": 1.433},
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"
+        "ratio": 1.433}
 },
 {
     "key": "hipy_js_短剧TV网",
@@ -113,7 +111,6 @@
     "name":"📛┣爱你┫短剧",
     "type":3,
     "api":"csp_XYQHiker",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/爱你短剧.json"
 },
 {
@@ -121,7 +118,6 @@
     "name":"📛┣河马┫短剧",
     "type":3,
     "api":"csp_XYQHiker",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/河马短剧.json"
 },
 {
@@ -132,7 +128,6 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/短剧屋.json"
 },
 {
@@ -140,7 +135,6 @@
     "name":"📛┣吧网┫短剧",
     "type":3,
     "api":"csp_XBPQ", 
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",  
     "ext":{
     "简介":"祝您观影愉快",
     "分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
@@ -151,7 +145,6 @@
     "name":"📛┣网香┫短剧",
     "type":3,
     "api":"csp_XBPQ", 
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar", 
     "ext":{
     "简介":"祝您观影愉快",
     "分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生",
@@ -162,7 +155,6 @@
     "name": "📛┣分享┫短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext": {
     "站名": "短剧分享",
     "主页url": "http://mp5.hz.cz/",
@@ -187,7 +179,6 @@
     "name": "📛┣爽网┫短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext": {
     "分类url": "https://www.duanju001.com/show/duanju-{area}-{by}------{catePg}---{year}.html",
     "分类": "短剧首页$1#短剧列表$2#排行榜$3#",
@@ -203,13 +194,11 @@
     "name": "♨️┣好帅®短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar",
     "ext": {
     "分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html",
     "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan",
     "播放数组": "<div class=\"sort-item\"&&</div>"}
 },
-//{"key": "星芽短剧","name": "♨️星芽®短剧","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/xingya.js"},
 {
     "key": "蓝莓短剧",
     "name": "♨️蓝莓®短剧",
@@ -231,6 +220,55 @@
     "api": "csp_SP360"
 },
 {
+    "key": "忍者影视",
+    "name": "🎆┣忍者┫APP",
+    "type": 3,
+    "api": "csp_AppRZ",
+    "ext": "http://rzys.xyz/"
+},
+{
+    "key": "看客影视",
+    "name": "🎆┣看客┫影视",
+    "type": 3,
+    "api": "csp_Kanke"
+},
+{
+    "key": "爱看影视",
+    "name": "🎆┣爱看┫影视",
+    "type": 3,
+    "api": "csp_Ikan"
+},
+{
+    "key": "瓜子｜影视",
+    "name": "🎆┣瓜子┫影视",
+    "type": 3,
+    "api": "csp_Gz360"
+},
+{
+    "key": "饺子影视",
+    "name": "🎆┣饺子┫影视",
+    "type": 3,
+    "api": "csp_Jiaozi"
+},
+{
+    "key": "兄弟影视",
+    "name": "🎆┣兄弟┫影视",
+    "type": 3,
+    "api": "csp_Xdys"
+},
+{
+    "key": "厂长资源",
+    "name": "🎆┣厂长┫资源",
+    "type": 3,
+    "api": "csp_Czzy"
+},
+{
+    "key": "大米星球",
+    "name": "🎆┣大米┫星球",
+    "type": 3,
+    "api": "csp_AppDaMi"
+},
+{
     "key": "南瓜影视",
     "name": "🎆┣南瓜┫APP",
     "type": 3,
@@ -250,6 +288,12 @@
     "api": "csp_Kuaikan"
 },
 {
+    "key": "看看影视",
+    "name": "🎆┣看看┫影视",
+    "type": 3,
+    "api": "csp_WebIV"
+},
+{
     "key": "天天影视",
     "name": "🎆┣天天┫影视",
     "type": 3,
@@ -262,19 +306,10 @@
     "api": "csp_AppRB"
 },
 {
-    "key": "大米星球",
-    "name": "🎆┣大米┫星球",
-    "type": 3,
-    "api": "csp_AppDaMi"
-},
-{
     "key": "农民影视",
     "name": "🎆┣农民┫影视",
     "type": 3,
-    "api": "csp_WexNmys",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
+    "api": "csp_WexNmys"
 },
 {
     "key": "达达龟",
@@ -342,49 +377,7 @@
     "changeable":1,
     "ext":"https://v.aikanbot.com"
 },
-{
-    "key": "忍者影视",
-    "name": "🎆┣忍者┫APP",
-    "type": 3,
-    "api": "csp_AppRZ",
-    "ext": "http://rzys.xyz/",
-    "jar":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar"
-},
-{
-    "key": "看客影视",
-    "name": "🎆┣看客┫影视",
-    "type": 3,
-    "api": "csp_Kanke",
-    "jar":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar"
-},
-{
-    "key": "爱看影视",
-    "name": "🎆┣爱看┫影视",
-    "type": 3,
-    "api": "csp_Ikan",
-    "jar":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar"
-},
-{
-    "key": "瓜子｜影视",
-    "name": "🎆┣瓜子┫影视",
-    "type": 3,
-    "api": "csp_Gz360",
-    "jar":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar"
-},
-{
-    "key": "兄弟影视",
-    "name": "🎆┣兄弟┫影视",
-    "type": 3,
-    "api": "csp_Xdys",
-    "jar":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar"
-},
-{
-    "key": "厂长资源",
-    "name": "🎆┣厂长┫资源",
-    "type": 3,
-    "api": "csp_Czzy",
-    "jar":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/spder.jar"
-},
+
 {
     "key": "freeok1",
     "name": "🎆┣小米┫独家",
