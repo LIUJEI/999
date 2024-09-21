@@ -451,47 +451,56 @@
     "ext": "http://www.meowtv.cn/js/meow.php?file=xcys"
 },
 {
-    "key": "XBPQ_电影先生",
-    "name": "🎆┣电影┫先生",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/电影先生.json"
+    "key":"drpy_js_看了么",
+    "name":"影视 | 看了么[js]",
+    "type":3,
+    "api":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.js",
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/看了么.js"
 },
 {
-    "key": "✨YY影视✨",
-    "name": "🎆┣优优┫影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/UU影视.json"
+    "key":"drpy_js_量子影视",
+    "name":"影视 | 量子影视[js]",
+    "type":3,
+    "api":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.js",
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/js/量子影视.js"
 },
 {
-    "key": "XBPQ_南坊",
-    "name": "🎆┣南坊┫影视",
-    "type": 3,
-	"api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/南坊.json"
+    "key":"drpy_js_B站影视",
+    "name":"影视 | B站影视[js]",
+    "type":3,
+    "api":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.js",
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/js/B站影视.js"
 },
 {
-     "key": "Qxys",
-    "name": "🎆┣七新┫影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/七新影视.json"
+    "key":"drpy_js_凌云影视",
+    "name":"影视 | 凌云影视[js]",
+    "type":3,
+    "api":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.js",
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/js/凌云影视.js"
 },
 {
-    "key": "XBPQ_98影视",
-    "name": "🎆┣酒吧┫影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/98影视.json"
+    "key":"drpy_js_567电影院",
+    "name":"影视 | 567电影院[js]",
+    "type":3,
+    "api":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.js",
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/js/567电影院.js"
 },
 {
-    "key": "sbys",
-    "name": "🎆┣白白┫影视",
-    "type": 3,
-    "api": "csp_XYQHiker",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/白白影视.json"
+    "key":"drpy_js_尘落影视",
+    "name":"影视 | 尘落影视[js]",
+    "type":3,
+    "api":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.js",
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/js/尘落影视.js"
 },
+{
+    "key":"drpy_js_中国人线上看",
+    "name":"影视 | 中国人线上看[js]",
+    "type":3,
+    "api":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.js",
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/js/中国人.js"
+},
+
+
 {"key": "剧猫","name": "🏧┣剧猫┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://jingxiang.lingutv.cn/api.php/app/"},
 {"key": "酷影","name": "🏧┣酷影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key": "丘丘","name": "🏧┣丘丘┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://111.173.115.204:2211/api.php/app/"},
