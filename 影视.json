@@ -499,7 +499,7 @@
 	"quickSearch": 1,
 	"filterable": 1,
 	"order_num": 0,
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/家庭影视.js"
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/家庭影视.js"
 },
 {
 	"key": "hipy_js_8号影院",
@@ -737,11 +737,7 @@
 	"name": "🆚┣厂长┫资源",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"order_num": 0,
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/厂长资源.js"
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/厂长资源.js"
 },
 {"key": "剧猫","name": "🏧┣剧猫┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://jingxiang.lingutv.cn/api.php/app/"},
 {"key": "酷影","name": "🏧┣酷影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"},
