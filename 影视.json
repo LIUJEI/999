@@ -6,7 +6,7 @@
 "sites":[
 {
     "key": "js-豆瓣",
-    "name": "🎬┣中秋┫快乐",
+    "name": "🎬┣豆瓣┫推荐",
     "type": 3,
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/douban.js"
@@ -850,7 +850,7 @@
 },
 {
     "key":"本地",
-    "name": "🇨🇳┣☪琉✿芸┫【更新时间:09.20】",
+    "name": "🇨🇳┣☪琉✿芸┫【更新时间:09.22】",
     "type":3,
     "api":"csp_LocalFile"
 }],
