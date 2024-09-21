@@ -420,7 +420,7 @@
     "key": "mays",
     "name": "🆚┣米爱┫影视",
     "type": 3,
-    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "http://www.meowtv.cn/js/meow.php?file=mays"
 },
 {
@@ -441,28 +441,28 @@
     "key":"drpy_js_看了么",
     "name":"🆚┣看么┫影视",
     "type":3,
-    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/看了么.js"
 },
 {
     "key":"drpy_js_量子影视",
     "name":"🆚┣量子┫影视",
     "type":3,
-    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/量子影视.js"
 },
 {
     "key":"drpy_js_凌云影视",
     "name":"🆚┣凌云┫影视",
     "type":3,
-    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/凌云影视.js"
 },
 {
     "key":"drpy_js_567电影院",
     "name":"🆚┣电影┫院线",
     "type":3,
-    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/567电影院.js"
 },
 {
@@ -722,12 +722,12 @@
 	"key": "hipy_js_厂长资源",
 	"name": "🆚┣厂长┫资源",
 	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
 	"order_num": 0,
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/厂长资源.js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/厂长资源.js"
 },
 {"key": "剧猫","name": "🏧┣剧猫┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://jingxiang.lingutv.cn/api.php/app/"},
 {"key": "酷影","name": "🏧┣酷影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"},
