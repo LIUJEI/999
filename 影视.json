@@ -409,29 +409,29 @@
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
 },
 {
-    "key": "hipy_js_泡泡影院",
-    "name": "🎆┣泡泡┫影院",
-    "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/泡泡影院.js"
-},
-{
     "key": "hipy_js_闪雷电",
-    "name": "🎆┣雷电┫影视",
+    "name": "🆚┣雷电┫影视",
     "type": 3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "http://mdxgh.tpddns.cn:9999/dzlib/闪雷电.js"
 },
 {
     "key": "mays",
-    "name": "🎆┣米爱┫影视",
+    "name": "🆚┣米爱┫影视",
     "type": 3,
     "api": "http://www.meowtv.cn/js/drpy2.min.js",
     "ext": "http://www.meowtv.cn/js/meow.php?file=mays"
 },
 {
+    "key": "hipy_js_泡泡影院",
+    "name": "🆚┣泡泡┫影院",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/泡泡影院.js"
+},
+{
     "key": "xcys",
-    "name": "🎆┣星辰┫影视",
+    "name": "🆚┣星辰┫影视",
     "type": 3,
     "api": "http://www.meowtv.cn/js/drpy2.min.js",
     "ext": "http://www.meowtv.cn/js/meow.php?file=xcys"
@@ -448,25 +448,25 @@
     "name":"🆚┣量子┫影视",
     "type":3,
     "api": "http://www.meowtv.cn/js/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/量子影视.js"
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/量子影视.js"
 },
 {
     "key":"drpy_js_凌云影视",
-    "name":"影视 | 凌云影视[js]",
+    "name":"🆚┣凌云┫影视",
     "type":3,
     "api": "http://www.meowtv.cn/js/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/凌云影视.js"
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/凌云影视.js"
 },
 {
     "key":"drpy_js_567电影院",
-    "name":"影视 | 567电影院[js]",
+    "name":"🆚┣电影┫院线",
     "type":3,
     "api": "http://www.meowtv.cn/js/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/567电影院.js"
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/567电影院.js"
 },
 {
 	"key": "hipy_js_电影先生",
-	"name": "电影先生(drpy_t3)",
+	"name": "🆚┣电影┫先生",
 	"type": 3,
 	"api": "http://www.meowtv.cn/js/drpy2.min.js",
 	"searchable": 1,
@@ -477,7 +477,7 @@
 },
 {
 	"key": "hipy_js_家庭影视",
-	"name": "家庭影视(drpy_t3)",
+	"name": "🆚┣家庭┫影视",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -488,7 +488,7 @@
 },
 {
 	"key": "hipy_js_8号影院",
-	"name": "8号影院(drpy_t3)",
+	"name": "🆚┣捌号┫影院(drpy_t3)",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -499,7 +499,7 @@
 },
 {
 	"key": "hipy_js_爱优影视[自动]",
-	"name": "爱优影视[自动](drpy_t3)",
+	"name": "🆚┣爱优┫影视",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -510,7 +510,7 @@
 },
 {
 	"key": "hipy_js_白嫖者联盟",
-	"name": "白嫖者联盟(drpy_t3)",
+	"name": "🆚┣白嫖┫联盟",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -521,7 +521,7 @@
 },
 {
 	"key": "hipy_js_宝片视频",
-	"name": "宝片视频(drpy_t3)",
+	"name": "🆚┣宝片┫视频",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -532,7 +532,7 @@
 },
 {
 	"key": "hipy_js_北川影视",
-	"name": "北川影视(drpy_t3)",
+	"name": "🆚┣北川┫影视",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -543,7 +543,7 @@
 },
 {
 	"key": "hipy_js_畅梦影视[优]",
-	"name": "畅梦影视[优](drpy_t3)",
+	"name": "🆚┣畅梦┫影视",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -554,7 +554,7 @@
 },
 {
 	"key": "hipy_js_臭蛋蛋",
-	"name": "臭蛋蛋(drpy_t3)",
+	"name": "🆚┣臭蛋┫影视",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -565,7 +565,7 @@
 },
 {
 	"key": "hipy_js_刺猬影视",
-	"name": "刺猬影视(drpy_t3)",
+	"name": "🆚┣刺猬┫影视",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -576,7 +576,7 @@
 },
 {
 	"key": "hipy_js_冠建影视",
-	"name": "冠建影视(drpy_t3)",
+	"name": "🆚┣冠建┫影视",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -587,7 +587,7 @@
 },
 {
 	"key": "hipy_js_魔方影视",
-	"name": "魔方影视(drpy_t3)",
+	"name": "🆚┣魔方┫影视",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -598,7 +598,7 @@
 },
 {
 	"key": "hipy_js_暖光影视",
-	"name": "暖光影视(drpy_t3)",
+	"name": "🆚┣暖光┫影视",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -609,7 +609,7 @@
 },
 {
 	"key": "hipy_js_素白白[优]",
-	"name": "素白白[优](drpy_t3)",
+	"name": "🆚┣素白┫影视",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -620,7 +620,7 @@
 },
 {
 	"key": "hipy_js_文才2[资]",
-	"name": "文才2[资](drpy_t3)",
+	"name": "🆚┣文才┫影视",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -631,7 +631,7 @@
 },
 {
 	"key": "hipy_js_无忧影视",
-	"name": "无忧影视(drpy_t3)",
+	"name": "🆚┣无忧┫影视",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -642,7 +642,7 @@
 },
 {
 	"key": "hipy_js_西瓜影院",
-	"name": "西瓜影院(drpy_t3)",
+	"name": "🆚┣西瓜┫影院",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -653,7 +653,7 @@
 },
 {
 	"key": "hipy_js_小鱼影视",
-	"name": "小鱼影视(drpy_t3)",
+	"name": "🆚┣小鱼┫影视",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"searchable": 1,
@@ -664,7 +664,7 @@
 },
 {
 	"key": "hipy_js_星空影院",
-	"name": "星空影院(drpy_t3)",
+	"name": "🆚┣星空┫影院",
 	"type": 3,
 	"api": "http://www.meowtv.cn/js/drpy2.min.js",
 	"searchable": 1,
@@ -675,7 +675,7 @@
 },
 {
 	"key": "hipy_js_旋风视频",
-	"name": "旋风视频(drpy_t3)",
+	"name": "🆚┣旋风┫视频",
 	"type": 3,
 	"api": "http://www.meowtv.cn/js/drpy2.min.js",
 	"searchable": 1,
@@ -686,7 +686,7 @@
 },
 {
 	"key": "hipy_js_一起看",
-	"name": "一起看(drpy_t3)",
+	"name": "🆚┣一起看┫影视",
 	"type": 3,
 	"api": "http://www.meowtv.cn/js/drpy2.min.js",
 	"searchable": 1,
@@ -697,7 +697,7 @@
 },
 {
 	"key": "hipy_js_影视大全",
-	"name": "影视大全(drpy_t3)",
+	"name": "🆚┣影视┫大全",
 	"type": 3,
 	"api": "http://www.meowtv.cn/js/drpy2.min.js",
 	"searchable": 1,
@@ -708,7 +708,7 @@
 },
 {
 	"key": "hipy_js_悠悠影视",
-	"name": "悠悠影视(drpy_t3)",
+	"name": "🆚┣悠悠┫影视",
 	"type": 3,
 	"api": "http://www.meowtv.cn/js/drpy2.min.js",
 	"searchable": 1,
@@ -719,7 +719,7 @@
 },
 {
 	"key": "hipy_js_厂长资源",
-	"name": "厂长资源(drpy_t3)",
+	"name": "🆚┣厂长┫资源",
 	"type": 3,
 	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"searchable": 1,
