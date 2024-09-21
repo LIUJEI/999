@@ -426,14 +426,14 @@
 	"key": "js_荐片",
 	"name": "🆚┣荐片┫影视",
 	"type": 3,
-	"api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
+	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/荐片[优].js"
 },	
 {
 	"key": "js_nangua",
 	"name": "🆚┣南瓜┫秒播",
 	"type": 3,
-	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
+	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/南瓜影视[优].js"
 },
 {
@@ -468,21 +468,21 @@
 	"key": "js_Lib",
 	"name": "🆚┣利奥┫影视",
 	"type": 3,
-	"api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
+	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/LIBVIO[优].js"
 },
 {
 	"key": "js_Czsapp",
 	"name": "🆚┣厂长┫影视",
 	"type": 3,
-	"api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
+	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/厂长资源(可搜索).js"
 },
 {
 	"key": "js_ddys",
 	"name": "🆚┣低端┫影视",
 	"type": 3,
-	"api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
+	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/低端.js"
 },				
 {
