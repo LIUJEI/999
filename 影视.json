@@ -462,21 +462,21 @@
     "name":"影视 | 量子影视[js]",
     "type":3,
     "api": "http://www.meowtv.cn/js/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/量子影视.js"
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/量子影视.js"
 },
 {
     "key":"drpy_js_B站影视",
     "name":"影视 | B站影视[js]",
     "type":3,
     "api": "http://www.meowtv.cn/js/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/B站影视.js"
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/B站影视.js"
 },
 {
     "key":"drpy_js_凌云影视",
     "name":"影视 | 凌云影视[js]",
     "type":3,
     "api": "http://www.meowtv.cn/js/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/凌云影视.js"
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/凌云影视.js"
 },
 {
     "key":"drpy_js_567电影院",
@@ -490,14 +490,14 @@
     "name":"影视 | 尘落影视[js]",
     "type":3,
     "api": "http://www.meowtv.cn/js/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/js/尘落影视.js"
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/尘落影视.js"
 },
 {
     "key":"drpy_js_中国人线上看",
     "name":"影视 | 中国人线上看[js]",
     "type":3,
     "api": "http://www.meowtv.cn/js/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/js/中国人.js"
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/中国人.js"
 },
 
 
