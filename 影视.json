@@ -466,15 +466,14 @@
     "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/567电影院.js"
 },
 {
-	"key": "hipy_js_电影先生",
-	"name": "🆚┣电影┫先生",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"order_num": 0,
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/电影先生.js"
+    "key": "jpys",
+    "name": "🆚┣荐片┫影视",
+    "type": 3,
+    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/荐片.js"
 },
 {
 	"key": "hipy_js_家庭影视",
