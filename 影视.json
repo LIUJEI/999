@@ -310,12 +310,6 @@
     "api": "csp_Xdys"
 },
 {
-    "key": "厂长资源",
-    "name": "🎆┣厂长┫资源",
-    "type": 3,
-    "api": "csp_Czzy"
-},
-{
     "key": "韩小圈",
     "name": "🎆┣韩圈┫APP",
     "type": 3,
@@ -401,14 +395,6 @@
     "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
 },
 {
-    "key": "czys",
-    "name": "🎆┣厂长┫影视",
-    "type": 3,
-    "api": "csp_Czsapp",
-    "ext": "https://czzy.top/",
-    "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
-},
-{
     "key":"圣城影视",
     "name":"🎆┣圣城┫影视",
     "type":3,
@@ -454,153 +440,294 @@
     "key":"drpy_js_看了么",
     "name":"影视 | 看了么[js]",
     "type":3,
-    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/看了么.js"
 },
 {
     "key":"drpy_js_量子影视",
     "name":"影视 | 量子影视[js]",
     "type":3,
-    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/量子影视.js"
 },
 {
     "key":"drpy_js_凌云影视",
     "name":"影视 | 凌云影视[js]",
     "type":3,
-    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/凌云影视.js"
 },
 {
     "key":"drpy_js_567电影院",
     "name":"影视 | 567电影院[js]",
     "type":3,
-    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/567电影院.js"
 },
 {
 	"key": "hipy_js_电影先生",
 	"name": "电影先生(drpy_t3)",
 	"type": 3,
-	"api": "./drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
 	"order_num": 0,
-	"ext": "./drpy_js/电影先生.js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/电影先生.js"
 },
 {
 	"key": "hipy_js_家庭影视",
 	"name": "家庭影视(drpy_t3)",
 	"type": 3,
-	"api": "./drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
 	"order_num": 0,
-	"ext": "./drpy_js/家庭影视.js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/家庭影视.js"
+},
+{
+	"key": "hipy_js_米爱影视",
+	"name": "米爱影视(drpy_t3)",
+	"type": 3,
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/米爱影视.js"
 },
 {
 	"key": "hipy_js_8号影院",
 	"name": "8号影院(drpy_t3)",
 	"type": 3,
-	"api": "./drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
 	"order_num": 0,
-	"ext": "./drpy_js/8号影院.js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/8号影院.js"
 },
 {
 	"key": "hipy_js_爱优影视[自动]",
 	"name": "爱优影视[自动](drpy_t3)",
 	"type": 3,
-	"api": "./drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
 	"order_num": 0,
-	"ext": "./drpy_js/爱优影视[自动].js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/爱优影视[自动].js"
 },
 {
 	"key": "hipy_js_白嫖者联盟",
 	"name": "白嫖者联盟(drpy_t3)",
 	"type": 3,
-	"api": "./drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
 	"order_num": 0,
-	"ext": "./drpy_js/白嫖者联盟.js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/白嫖者联盟.js"
 },
 {
 	"key": "hipy_js_宝片视频",
 	"name": "宝片视频(drpy_t3)",
 	"type": 3,
-	"api": "./drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
 	"order_num": 0,
-	"ext": "./drpy_js/宝片视频.js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/宝片视频.js"
 },
 {
 	"key": "hipy_js_北川影视",
 	"name": "北川影视(drpy_t3)",
 	"type": 3,
-	"api": "./drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
 	"order_num": 0,
-	"ext": "./drpy_js/北川影视.js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/北川影视.js"
 },
 {
 	"key": "hipy_js_畅梦影视[优]",
 	"name": "畅梦影视[优](drpy_t3)",
 	"type": 3,
-	"api": "./drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
 	"order_num": 0,
-	"ext": "./drpy_js/畅梦影视[优].js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/畅梦影视[优].js"
 },
 {
 	"key": "hipy_js_臭蛋蛋",
 	"name": "臭蛋蛋(drpy_t3)",
 	"type": 3,
-	"api": "./drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
 	"order_num": 0,
-	"ext": "./drpy_js/臭蛋蛋.js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/臭蛋蛋.js"
 },
 {
 	"key": "hipy_js_刺猬影视",
 	"name": "刺猬影视(drpy_t3)",
 	"type": 3,
-	"api": "./drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
 	"order_num": 0,
-	"ext": "./drpy_js/刺猬影视.js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/刺猬影视.js"
 },
 {
 	"key": "hipy_js_冠建影视",
 	"name": "冠建影视(drpy_t3)",
 	"type": 3,
-	"api": "./drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
 	"order_num": 0,
-	"ext": "./drpy_js/冠建影视.js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/冠建影视.js"
 },
-
-
+{
+	"key": "hipy_js_魔方影视",
+	"name": "魔方影视(drpy_t3)",
+	"type": 3,
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/魔方影视.js"
+},
+{
+	"key": "hipy_js_暖光影视",
+	"name": "暖光影视(drpy_t3)",
+	"type": 3,
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/暖光影视.js"
+},
+{
+	"key": "hipy_js_素白白[优]",
+	"name": "素白白[优](drpy_t3)",
+	"type": 3,
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "./drpy_js/素白白[优].js"
+},
+{
+	"key": "hipy_js_文才2[资]",
+	"name": "文才2[资](drpy_t3)",
+	"type": 3,
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/文才2[资].js"
+},
+{
+	"key": "hipy_js_无忧影视",
+	"name": "无忧影视(drpy_t3)",
+	"type": 3,
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/无忧影视.js"
+},
+{
+	"key": "hipy_js_西瓜影院",
+	"name": "西瓜影院(drpy_t3)",
+	"type": 3,
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/西瓜影院.js"
+},
+{
+	"key": "hipy_js_小鱼影视",
+	"name": "小鱼影视(drpy_t3)",
+	"type": 3,
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/小鱼影视.js"
+},
+{
+	"key": "hipy_js_星空影院",
+	"name": "星空影院(drpy_t3)",
+	"type": 3,
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/星空影院.js"
+},
+{
+	"key": "hipy_js_旋风视频",
+	"name": "旋风视频(drpy_t3)",
+	"type": 3,
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/旋风视频.js"
+},
+{
+	"key": "hipy_js_一起看",
+	"name": "一起看(drpy_t3)",
+	"type": 3,
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/一起看.js"
+},
+{
+	"key": "hipy_js_影视大全",
+	"name": "影视大全(drpy_t3)",
+	"type": 3,
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/影视大全.js"
+},
+{
+	"key": "hipy_js_悠悠影视",
+	"name": "悠悠影视(drpy_t3)",
+	"type": 3,
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/悠悠影视.js"
+},
 {"key": "剧猫","name": "🏧┣剧猫┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://jingxiang.lingutv.cn/api.php/app/"},
 {"key": "酷影","name": "🏧┣酷影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key": "丘丘","name": "🏧┣丘丘┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://111.173.115.204:2211/api.php/app/"},
