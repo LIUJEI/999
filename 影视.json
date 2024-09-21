@@ -118,10 +118,10 @@
     "api": "csp_Kanke"
 },
 {
-    "key": "爱看影视",
-    "name": "🎆┣爱看┫影视",
+    "key": "厂长资源",
+    "name": "🎆┣厂长┫资源",
     "type": 3,
-    "api": "csp_Ikan"
+    "api": "csp_Czzy"
 },
 {
     "key": "瓜子｜影视",
@@ -426,10 +426,13 @@
 },
 {
     "key": "jpys",
-    "name": "🆚┣荐片┫影视",
-    "type": 3,
-    "api": "http://www.meowtv.cn/js/drpy2.min.js",
-    "ext": "http://www.meowtv.cn/js/meow.php?file=jpys"
+      "name": "荐片┃影视",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=jpys"
 },
 {
     "key": "hipy_js_闪雷电",
@@ -530,13 +533,6 @@
 	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/畅梦影视[优].js"
 },
 {
-	"key": "hipy_js_臭蛋蛋",
-	"name": "🆚┣臭蛋┫影视",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/臭蛋蛋.js"
-},
-{
 	"key": "hipy_js_刺猬影视",
 	"name": "🆚┣刺猬┫影视",
 	"type": 3,
@@ -633,13 +629,6 @@
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/悠悠影视.js"
-},
-{
-	"key": "hipy_js_厂长资源",
-	"name": "🆚┣厂长┫资源",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/厂长资源.js"
 },
 {
 	"key": "hipy_js_家庭影视",
