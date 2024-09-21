@@ -150,14 +150,6 @@
     "api": "csp_Xdys"
 },
 {
-    "key": "素白白",
-    "name": "🎆┣素白┫影视",
-    "type": 3,
-    "api": "csp_Subaibai",
-    "searchable": 1,
-    "changeable": 1
-},
-{
     "key": "韩小圈",
     "name": "🎆┣韩圈┫APP",
     "type": 3,
@@ -254,6 +246,13 @@
     "name":"🎆┣腐剧┫影视",
     "type":3,
     "api":"csp_WexFujutv",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
+},
+{
+    "key": "素白白",
+    "name": "🎆┣素白┫影视",
+    "type": 3,
+    "api": "csp_Subaibai",
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
 },
 {
@@ -747,6 +746,21 @@
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
 },
 {
+    "key":"戏曲",
+    "name":"🅱️戏曲精选",
+    "type":3,
+    "api":"csp_Bili",
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+},
+{
+    "key": "hipy_js_一曲肝肠断",
+    "name": "🅱️一曲肝肠断",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/一曲肝肠断.js"
+},
+{
     "key":"小灯塔科学",
     "name":"🌏科学┃小灯塔",
     "type":3,
@@ -777,21 +791,6 @@
     "api":"csp_Bili",
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔国学.json",
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
-},
-{
-    "key":"戏曲",
-    "name":"🅱️戏曲精选",
-    "type":3,
-    "api":"csp_Bili",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
-},
-{
-    "key": "hipy_js_一曲肝肠断",
-    "name": "🅱️一曲肝肠断",
-    "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/一曲肝肠断.js"
 },
 {
     "key": "New6v",
