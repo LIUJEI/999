@@ -19,21 +19,54 @@
     "playerType":2,
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/豆瓣预告.json"
 },
-
 {
-    "key": "荐片",
-    "name": "🎆┣荐片┫推荐",
+    "key": "XBPQ_电影先生",
+    "name": "🎆┣电影┫先生",
     "type": 3,
-    "api": "csp_JianPian",
-    "ext": "http://api2.rinhome.com",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/电影先生.json"
 },
 {
-    "key": "csp_SP360",
-    "name": "🎆┣三六┫影视",
+    "key": "✨YY影视✨",
+    "name": "🎆┣优优┫影视",
     "type": 3,
-    "api": "csp_SP360",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/UU影视.json"
+},
+{
+    "key": "XBPQ_南坊",
+    "name": "🎆┣南坊┫影视",
+    "type": 3,
+	"api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/南坊.json"
+},
+{
+     "key": "Qxys",
+    "name": "🎆┣七新┫影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/七新影视.json"
+},
+{
+    "key": "XBPQ_98影视",
+    "name": "🎆┣酒吧┫影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/98影视.json"
+},
+{
+    "key": "sbys",
+    "name": "🎆┣白白┫影视",
+    "type": 3,
+    "api": "csp_XYQHiker",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/白白影视.json"
+},
+{
+    "key": "Qxys",
+    "name": "🎆┣七新┫影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/七新影视.json"
 },
 {
     "key": "大米星球",
