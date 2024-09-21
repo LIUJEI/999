@@ -40,7 +40,7 @@
 	"api": "csp_XBPQ",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/南坊.json"
 },
- {
+{
     "key": "tvys",
     "name": "💮┣云播┫影视",
     "type": 3,
@@ -49,6 +49,14 @@
     "quickSearch": 1,
     "filterable": 1,
     "ext": "http://www.meowtv.cn/xp/meow.php?file=tvyb"
+},
+{
+    "key": "荐片",
+    "name": "🎆┣荐片┫推荐",
+    "type": 3,
+    "api": "csp_JianPian",
+    "ext": "http://api2.rinhome.com",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
 },
 {
     "key": "大米星球",
@@ -140,6 +148,14 @@
     "name": "🎆┣兄弟┫影视",
     "type": 3,
     "api": "csp_Xdys"
+},
+{
+    "key": "素白白",
+    "name": "🎆┣素白┫影视",
+    "type": 3,
+    "api": "csp_Subaibai",
+    "searchable": 1,
+    "changeable": 1
 },
 {
     "key": "韩小圈",
@@ -425,16 +441,6 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
 },
 {
-    "key": "jpys",
-      "name": "荐片┃影视",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=jpys"
-},
-{
     "key": "hipy_js_闪雷电",
     "name": "🆚┣雷电┫影视",
     "type": 3,
@@ -629,13 +635,6 @@
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
 	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/悠悠影视.js"
-},
-{
-	"key": "hipy_js_家庭影视",
-	"name": "🆚┣家庭┫影视",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/家庭影视.js"
 },
 {"key": "剧猫","name": "🏧┣剧猫┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://jingxiang.lingutv.cn/api.php/app/"},
 {"key": "酷影","name": "🏧┣酷影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"},
