@@ -24,16 +24,14 @@
     "name": "💮┣南坊┫影视",
     "type": 3,
 	"api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/南坊.json",
-    "jar":"https://git.acwing.com/iduoduo/orange/-/raw/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/南坊.json"
 },
 {
     "key": "Qxys",
     "name": "💮┣七新┫影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/七新影视.json",
-    "jar":"https://git.acwing.com/iduoduo/orange/-/raw/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/七新影视.json"
 },
 {
     "key": "csp_XBPQ_茶杯狐",
@@ -48,8 +46,7 @@
     "name": "💮┣优优┫影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/UU影视.json",
-    "jar":"https://git.acwing.com/iduoduo/orange/-/raw/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/UU影视.json"
 },
 {
     "key": "大米星球",
