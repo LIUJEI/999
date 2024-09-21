@@ -1,4 +1,6 @@
 {
+    "站名":"茶狐杯",
+    "主页url":"https://www.5jcd.com/",
     "数组": "class=\"myui-vodlist__box&&</li>",
     "图片": "data-original=\"&&\"",
     "标题": "title=\"&&\"",
@@ -12,12 +14,6 @@
     "播放标题": "琉芸专享✨+>&&</a>",
     "播放链接": "href=\"&&\"",
     "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
-    "搜索数组": "class=\"active  clearfix&&</a>",
-    "搜索图片": "data-original=\"&&\"",
-    "搜索标题": "title=\"&&\"",
-    "搜索副标题": "pic-text text-right\">&&</span>",
-    "搜索链接": "href=\"&&\"",
-    "搜索url": "http://cupfoxappp.com/vodsearch/{wd}-------------.html",
-    "分类url": "http://cupfoxappp.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+    "分类url":"https://www.5jcd.com/show_/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ax",
     "分类": "电影$1#连续剧$2#综艺$3#动漫$4#国产剧$13#内地综艺$22#动作片$6#喜剧片$7#科幻片$9#海外动漫$34"
 }
