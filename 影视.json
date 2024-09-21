@@ -35,20 +35,17 @@
 },
 {
     "key": "XBPQ_南坊",
-    "name": "💮┣南坊┫影视",
+    "name": "💮┣南坊💮┣影视",
     "type": 3,
 	"api": "csp_XBPQ",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/南坊.json"
 },
 {
-    "key": "tvys",
-    "name": "💮┣云播┫影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "http://www.meowtv.cn/xp/meow.php?file=tvyb"
+	"key": "csp_XBPQ_茶杯狐",
+	"name": "💮┣茶杯💮┣聚合",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/茶杯.json"
 },
 {
     "key": "荐片",
@@ -443,14 +440,16 @@
 	"key": "js_荐片",
 	"name": "荐片影视",
 	"type": 3,
-	"api": "./TV/drpy2.min.js",
-	"ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/荐片[优].js",
-	"playerType": 1,
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1
+	"api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
+	"ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/荐片[优].js"
 },	
-
+{
+	"key": "js_nangua",
+	"name": "南瓜秒播",
+	"type": 3,
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/南瓜影视[优].js"
+},
 {
     "key": "hipy_js_闪雷电",
     "name": "🆚┣雷电┫影视",
@@ -479,6 +478,41 @@
     "api": "http://www.meowtv.cn/js/drpy2.min.js",
     "ext": "http://www.meowtv.cn/js/meow.php?file=xcys"
 },
+{
+	"key": "js_Lib",
+	"name": "利奥影视",
+	"type": 3,
+	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/LIBVIO[优].js"
+},
+{
+	"key": "js_Czsapp",
+	"name": "🆚┣厂长┫影视",
+	"type": 3,
+	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/厂长资源(可搜索).js"
+},
+{
+	"key": "hipy_js_央视大全",
+	"name": "央视大全",
+	"type": 3,
+	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/大全央视[央].js"
+},
+{
+	"key": "js_ddys",
+	"name": "低端影视",
+	"type": 3,
+	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/低端.js"
+},
+{
+	"key": "js_烧火电影",
+	"name": "烧火影视",
+	"type": 3,
+	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/烧火影视[优].js"
+},				
 {
     "key":"drpy_js_看了么",
     "name":"🆚┣看么┫影视",
