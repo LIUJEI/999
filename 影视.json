@@ -717,6 +717,17 @@
 	"order_num": 0,
 	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/悠悠影视.js"
 },
+{
+	"key": "hipy_js_厂长资源",
+	"name": "厂长资源(drpy_t3)",
+	"type": 3,
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"order_num": 0,
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/厂长资源.js"
+},
 {"key": "剧猫","name": "🏧┣剧猫┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://jingxiang.lingutv.cn/api.php/app/"},
 {"key": "酷影","name": "🏧┣酷影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key": "丘丘","name": "🏧┣丘丘┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://111.173.115.204:2211/api.php/app/"},
