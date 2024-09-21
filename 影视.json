@@ -38,8 +38,7 @@
     "name": "💮┣茶杯┫聚合",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/茶杯.json",
-    "jar":"https://git.acwing.com/iduoduo/orange/-/raw/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/茶杯.json"
 },
 {
     "key": "✨YY影视✨",
@@ -708,7 +707,7 @@
     "quickSearch": 0,
     "changeable": 0,
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili短剧.json",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/refs/heads/main/Bili.jar"
 },
 {
     "key": "MV",
@@ -723,7 +722,7 @@
     "quickSearch": 0,
     "changeable": 0,
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili音乐.json",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/refs/heads/main/Bili.jar"
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
 },
 {
     "key":"戏曲",
