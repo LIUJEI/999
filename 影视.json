@@ -440,15 +440,15 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
 },
 {
-	 "key": "js_荐片",
-	 "name": "荐片影视",
-	 "type": 3,
-	 "api":"https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/drpy2.min.js",
-	 "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/荐片[优].js",
-	 "playerType": 1,
-	 "searchable": 1,
-	 "quickSearch": 1,
-	 "filterable": 1
+	"key": "js_荐片",
+	"name": "荐片影视",
+	"type": 3,
+	"api":"https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/refs/heads/main/drpy2.min.js",
+	"ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/荐片[优].js",
+	"playerType": 1,
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1
 },	
 
 {
@@ -483,14 +483,14 @@
     "key":"drpy_js_看了么",
     "name":"🆚┣看么┫影视",
     "type":3,
-    "api":"https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/drpy2.min.js",
+    "api":"https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/refs/heads/main/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/看了么.js"
 },
 {
     "key":"drpy_js_量子影视",
     "name":"🆚┣量子┫影视",
     "type":3,
-    "api":"https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/drpy2.min.js",
+    "api":"https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/refs/heads/main/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/量子影视.js"
 },
 {
