@@ -14,7 +14,7 @@
     "api":"csp_XBPQ",
     "playerType":2,
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/豆瓣预告.json",
-    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
 },
 {"key": "墨白影视","name": "🌠┣墨白┫快播","type": 1,"api": "https://nm.xxxc137.top/api.php/provide/vod/"},
 {"key": "黑墙影视","name": "🌠┣黑墙┫快播","type": 1,"api": "https://blackwallvideo.online/api.php/provide/vod/"},
@@ -938,7 +938,8 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "spider": "http://m1839732.cf.caoni.ru/1/meow.php;md5;A413D6A6A5378A02256F703CB6C530AB",
+  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+  //"spider": "http://m1839732.cf.caoni.ru/1/meow.php;md5;A413D6A6A5378A02256F703CB6C530AB",
   "wallpaper": "http://tool.teyonds.com/api",
   "doh": [
     {
