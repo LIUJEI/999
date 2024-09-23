@@ -48,6 +48,13 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/UU影视.json"
 },
 {
+    "key": "全网影视",
+    "name": "全网｜影视",
+    "type": 3,
+    "api": "csp_Quanwk",
+    "ext": "https://fm666.qkw1.cc"
+},
+{
     "key": "大米星球",
     "name": "🎆┣大米┫星球",
     "type": 3,
@@ -109,6 +116,13 @@
     "api":"csp_FengGo"
 },
 {
+    "key": "忍者影视",
+    "name": "🎆┣忍者┫APP",
+    "type": 3,
+    "api": "csp_AppRZ",
+    "ext": "http://rzys.xyz/"
+},
+{
     "key": "看客影视",
     "name": "🎆┣看客┫影视",
     "type": 3,
@@ -137,6 +151,12 @@
     "name": "🎆┣韩圈┫APP",
     "type": 3,
     "api": "csp_HanXiaoQuan"
+},
+{
+    "key": "比特影视",
+    "name": "🎆┣比特┫影视",
+    "type": 3,
+    "api": "csp_Bttwo"
 },
 {
     "key": "视频库",
@@ -178,14 +198,6 @@
     "type": 3,
     "api": "csp_Nkdy",
     "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-},
-{
-    "key": "rzys",
-    "name": "🎆┣忍者┫影视",
-    "type": 3,
-    "api": "csp_AppRZ",
-    "ext": "http://rzys.xyz/",
-    "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
 },
 {
     "key": "qyys",
