@@ -193,7 +193,7 @@
 }, 
     {
       "key": "rbys",
-      "name": "热播┃影视",
+      "name": "♨️┣热播┫影视",
       "type": 3,
       "api": "csp_AppTT",
       "searchable": 1,
@@ -206,7 +206,7 @@
     },
     {
       "key": "ngys",
-      "name": "南瓜┃影视",
+      "name": "♨️┣南瓜┃影视",
       "type": 3,
       "api": "csp_NanGua",
       "searchable": 1,
@@ -216,7 +216,7 @@
     },
     {
       "key": "mmys",
-      "name": "萌米┃影视",
+      "name": "♨️┣萌米┃影视",
       "type": 3,
       "api": "csp_AppTT",
       "searchable": 1,
@@ -229,7 +229,7 @@
     },
     {
       "key": "pgys",
-      "name": "苹果┃影视",
+      "name": "♨️┣苹果┃影视",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -239,7 +239,7 @@
     },
     {
       "key": "kkys",
-      "name": "可可┃影视",
+      "name": "♨️┣可可┃影视",
       "type": 3,
       "api": "csp_Keke",
       "searchable": 1,
@@ -250,7 +250,7 @@
     },
     {
       "key": "nkys",
-      "name": "耐看┃影视",
+      "name": "♨️┣耐看┃影视",
       "type": 3,
       "api": "csp_Nkdy",
       "searchable": 1,
@@ -261,7 +261,7 @@
     },
     {
       "key": "shys",
-      "name": "骚火┃影视",
+      "name": "♨️┣骚火┃影视",
       "type": 3,
       "api": "csp_SaoHuo",
       "searchable": 1,
@@ -271,7 +271,7 @@
     },
     {
       "key": "gzys",
-      "name": "瓜子┃影视",
+      "name": "♨️┣瓜子┃影视",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -283,7 +283,7 @@
     },
     {
       "key": "ygys",
-      "name": "一个┃影视",
+      "name": "♨️┣一个┃影视",
       "type": 3,
       "api": "csp_Pptv",
       "searchable": 1,
@@ -295,7 +295,7 @@
     },
     {
       "key": "free",
-      "name": "Free┃影视",
+      "name": "♨️┣Free┃影视",
       "type": 3,
       "api": "csp_FreeOK",
       "searchable": 1,
@@ -306,7 +306,7 @@
     },
     {
       "key": "czys",
-      "name": "厂长┃影视",
+      "name": "♨️┣厂长┃影视",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -318,7 +318,7 @@
     },
     {
       "key": "atys",
-      "name": "奥特┃影视",
+      "name": "♨️┣奥特┃影视",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -330,7 +330,7 @@
     },
     {
       "key": "qyys",
-      "name": "奇优┃影视",
+      "name": "♨️┣奇优┃影视",
       "type": 3,
       "api": "csp_Qiyou",
       "searchable": 1,
@@ -341,7 +341,7 @@
     },
     {
       "key": "rzys",
-      "name": "忍者┃影视",
+      "name": "♨️┣忍者┃影视",
       "type": 3,
       "api": "csp_AppRZ",
       "searchable": 1,
@@ -353,7 +353,7 @@
     },
     {
       "key": "nmys",
-      "name": "农民┃影视",
+      "name": "♨️┣农民┃影视",
       "type": 3,
       "api": "csp_Nongm",
       "searchable": 1,
@@ -363,7 +363,7 @@
     },
     {
       "key": "Kkys",
-      "name": "快看┃影视",
+      "name": "♨️┣快看┃影视",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -373,7 +373,7 @@
     },
     {
       "key": "dmxq",
-      "name": "大米┃影视",
+      "name": "♨️┣大米┃影视",
       "type": 3,
       "api": "csp_AppDaMi",
       "searchable": 1,
@@ -383,7 +383,7 @@
     },
     {
       "key": "sbys",
-      "name": "素白┃影视",
+      "name": "♨️┣素白┃影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -394,7 +394,7 @@
     },
     {
       "key": "Qxys",
-      "name": "七新┃影视",
+      "name": "♨️┣七新┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -404,7 +404,7 @@
     },
     {
       "key": "ynys",
-      "name": "鸭奈┃影视",
+      "name": "♨️┣鸭奈┃影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -415,7 +415,7 @@
     },
     {
       "key": "nfys",
-      "name": "奈飞┃影视",
+      "name": "♨️┣奈飞┃影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -426,7 +426,7 @@
     },
     {
       "key": "tvys",
-      "name": "TVB ┃影视",
+      "name": "♨️┣TVB ┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -436,7 +436,7 @@
     },
     {
       "key": "Hhys",
-      "name": "黑狐┃影视",
+      "name": "♨️┣黑狐┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -446,7 +446,7 @@
     },
     {
       "key": "55ys",
-      "name": "五五┃影视",
+      "name": "♨️┣五五┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -456,7 +456,7 @@
     },
     {
       "key": "sxys",
-      "name": "师兄┃影视",
+      "name": "♨️┣师兄┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -466,7 +466,7 @@
     },
     {
       "key": "xsys",
-      "name": "先生┃影视",
+      "name": "♨️┣先生┃影视",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -476,7 +476,7 @@
     },
     {
       "key": "mays",
-      "name": "米爱┃影视",
+      "name": "♨️┣米爱┃影视",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -486,7 +486,7 @@
     },
     {
       "key": "xcys",
-      "name": "星辰┃影视",
+      "name": "♨️┣星辰┃影视",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -496,7 +496,7 @@
     },
     {
       "key": "jpys",
-      "name": "荐片┃影视",
+      "name": "♨️┣荐片┃影视",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -506,7 +506,7 @@
     },
     {
       "key": "zzys",
-      "name": "子子┃影视",
+      "name": "♨️┣子子┃影视",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -516,7 +516,7 @@
     },
     {
       "key": "ssys",
-      "name": "三三┃视频",
+      "name": "♨️┣三三┃视频",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -525,7 +525,7 @@
     },
     {
       "key": "qysp",
-      "name": "奇艺┃视频",
+      "name": "♨️┣奇艺┃视频",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -535,7 +535,7 @@
     },
     {
       "key": "txsp",
-      "name": "腾讯┃视频",
+      "name": "♨️┣腾讯┃视频",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -545,7 +545,7 @@
     },
     {
       "key": "yksp",
-      "name": "优酷┃视频",
+      "name": "♨️┣优酷┃视频",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -555,7 +555,7 @@
     },
     {
       "key": "mgsp",
-      "name": "芒果┃视频",
+      "name": "♨️┣芒果┃视频",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -565,13 +565,23 @@
     },
     {
       "key": "sgys",
-      "name": "搜狗┃视频",
+      "name": "♨️┣搜狗┃视频",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp"
+    },
+    {
+      "key": "xydj",
+      "name": "♨️┣星芽┃短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
     },
     {
       "key": "ygcl",
@@ -603,16 +613,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-    {
-      "key": "xydj",
-      "name": "星芽┃短剧",
-      "type": 3,
-      "api": "csp_AppXY",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
     },
     {
       "key": "dmbs",
