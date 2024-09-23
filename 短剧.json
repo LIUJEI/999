@@ -179,7 +179,8 @@
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "https://weixine.net/js/lanmei.js"
-},	
+},
+
 {
     "key": "L芸闪电",
     "name": "🍇┃L芸01┃短剧",
@@ -197,6 +198,13 @@
     "categories": ["爽文短剧","现代都市","年代穿越","古装仙侠","成长逆袭"] 
 },
 {
+  "key": "黑墙影视",
+  "name": "🍇┃L芸03┃短剧",
+  "type": 1,
+  "api": "https://blackwallvideo.online/api.php/provide/vod/",
+  "categories": ["短剧", "女频短剧", "反转爽文","古装短剧","穿越短剧","悬疑短剧","其他短剧"] 
+},
+{
     "key": "L芸优质",
     "name": "🍇┃L芸04┃短剧",
     "type": 0,
@@ -211,6 +219,13 @@
     "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
     "playurl": "https://hhjiexi.com/play/?url=",
     "categories": [ "短剧" ] 
+},
+{
+  "key": "小目标资",
+  "name": "🍇┃L芸06┃短剧",
+  "type": 1,
+  "api": "https://tv.xmb.app/api.php/provide/vod/",
+  "categories": [ "短剧" ] 
 },
 {   
     "key": "L芸最大",
