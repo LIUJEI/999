@@ -50,12 +50,6 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/短剧TV网.js"
 },
 {
-    "key": "星芽短剧",
-    "name": "📛┣星芽┫APP",
-    "type": 3,
-    "api": "csp_AppXY"
-},
-{
     "key": "hipy_js_短剧天堂",
     "name": "📛┣天堂┫短剧",
     "type": 3,
@@ -177,8 +171,7 @@
     "key": "星芽短剧0",
     "name": "♨️星芽®短剧",
     "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "https://weixine.net/js/xingya.js"
+    "api": "csp_AppXY"
 },
 {
     "key": "蓝莓短剧",
