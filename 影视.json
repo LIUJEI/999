@@ -856,9 +856,15 @@
     "api":"csp_LocalFile"
 }],
 
-"parses":[   
+"parses":[ 
+      
 {
-    "name": "🌐聚合",
+    "name": "🌐Webs聚合",
+    "type": 3,
+    "url": "Web"
+},
+{
+    "name": "🌐Json聚合",
     "type": 3,
     "url": "Demo"
 },
