@@ -148,6 +148,35 @@
       "播放数组": "<div class=\"sort-item\"&&</div>"}
 },
 {
+    "key":"短剧tv",
+    "name":"🎆┣抖音┫短剧",
+    "type":3,
+    "api":"csp_XBPQ",
+    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
+    "ext":{
+    "简介":"祝您观影愉快",
+    "搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
+    "线路标题":"<h3*>&&</h3>",
+    "线路数组":"\"more text-muted pull-right\">&&</ul>",
+    "播放数组":"\"more text-muted pull-right\">&&</ul>",
+    "播放链接":"http+://www.duanjutv.cc+href='&&'",
+    "分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m",
+    "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"}  
+},
+{
+    "key":" 一起看",
+    "name":"🎆┣起看┫短剧",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{
+    "分类url":"http://www.lxsgsy.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=",
+    "分类":"电影&电视剧&综艺&动漫&短剧",
+    "分类值":"1&2&3&4&30"}
+},
+{
     "key": "星芽短剧0",
     "name": "♨️星芽®短剧",
     "type": 3,
@@ -254,44 +283,16 @@
   "categories": [ "爽文短剧", "古装片"]
 },
 {
-    "key":"短剧tv",
-    "name":"🎆┣抖音┫短剧",
-    "type":3,
-    "api":"csp_XBPQ",
-    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
-    "ext":{
-    "简介":"祝您观影愉快",
-    "搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
-    "线路标题":"<h3*>&&</h3>",
-    "线路数组":"\"more text-muted pull-right\">&&</ul>",
-    "播放数组":"\"more text-muted pull-right\">&&</ul>",
-    "播放链接":"http+://www.duanjutv.cc+href='&&'",
-    "分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m",
-    "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"}  
-},
-{
-    "key":" 一起看",
-    "name":"🎆┣起看┫短剧",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":{
-    "分类url":"http://www.lxsgsy.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=",
-    "分类":"电影&电视剧&综艺&动漫&短剧",
-    "分类值":"1&2&3&4&30"}
-},
-{
-    "key": "csp_何以",
-    "name": "🅱️何以┃短剧",
-    "type": 1,
-    "api": "https://www.heyik.cn/api.php/provide/vod/",
-    "categories": ["短剧"]
+    "key": "ygys",
+    "name": "🅱️菠菜®短剧",
+    "type": 3,
+    "api": "csp_Pptv",
+    "ext": "https://yigeg.pro",
+    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
 },
 {
     "key": "csp_Bili短剧",
-    "name": "🅱️短剧┃哔哩",
+    "name": "🅱️短剧®哔哩",
     "type": 3,
     "api": "csp_Bili",
     "style": {
@@ -304,7 +305,24 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili短剧.json",
     "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
 },
-
+{
+  "key": "大米星球",
+  "name": "♨️大米®短剧",
+  "type": 3,
+  "api": "csp_AppDaMi",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
+  "key": "机器人",
+  "name": "♨️机器人®短剧",
+  "type": 3,
+  "api": "csp_Ikanbot",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
 {
   "key":"JP",
   "name":"🏅金牌",
