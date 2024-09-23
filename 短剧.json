@@ -180,6 +180,45 @@
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "https://weixine.net/js/lanmei.js"
 },
+{
+  "key": "鸣人资源",
+  "name": "🌠┣鸣人┫采集",
+  "type": 1,
+  "api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+  "categories": ["其他短剧","虐恋短剧","逆袭短剧","神豪短剧","穿越短剧","悬疑短剧","复仇短剧","甜宠短剧","强者短剧","重生短剧","古装短剧"] 
+},
+{
+  "key": "鸭鸭资源",
+  "name": "🌠┣鸭鸭┫采集",
+  "type": 1,
+  "api": "https://yayazy2.com/api.php/provide/vod/",  
+  "playurl": "https://jx.yayazy.cc/m3u8/?url=",
+  "categories": ["爽文短剧","女频短剧","反转短剧","古装短剧","年代短剧","脑洞短剧","现代都市","演唱会"] 
+},
+{
+  "key": "快车资源",
+  "name": "🌠┣快车┫采集",
+  "type": 1,
+  "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+  "playurl": "https://jiexi.kczyapi.com/m3u8/?url=",
+  "categories": [ "爽文短剧","女频恋爱", "反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市"] 
+},
+{
+  "key": "索尼资源",
+  "name": "🌠┣索尼┫采集",
+  "type": 1,
+  "api": "https://suoniapi.com/api.php/provide/vod/",
+  "playurl": "https://www.snplayer.com/?url=",
+  "categories": [ "爽文短剧","女频恋爱", "反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市"] 
+},
+{
+  "key": "暴风资源",
+  "name": "🌠┣暴风┫采集",
+  "type": 1,
+  "api": "https://bfzyapi.com/api.php/provide/vod/",
+  "playurl": "https://vip.vipuuvip.com/?url=",
+  "categories": ["重生民国","年代穿越","反转爽文","女恋总裁","都市脑洞","古装仙侠","现代言情","闪婚离婚","短剧大全"] 
+},
 
 {
     "key": "L芸闪电",
@@ -187,7 +226,7 @@
     "type": 1,
     "api": "https://shandianzy.com/api.php/provide/vod/",
     "playurl": "https://www.shankubf.com/m3u8/?url=",
-    "categories": [ "女频恋爱", "反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影"] 
+    "categories": [ "国产剧","女频恋爱", "反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","演唱会"] 
 },
 {
     "key": "L芸360",
@@ -244,29 +283,22 @@
     "categories": ["短剧"] 
 },
 {
-    "key": "忍者影视",
-    "name": " 🍇┃L芸14┃短剧",
-    "type": 3,
-    "api": "csp_AppRZ",
-    "categories": ["短剧"],
-    "ext": "http://rzys.xyz/"
+  "key": "快看采集",
+  "name": "️🌠┣快看┫采集",
+  "type": 1,
+  "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
+  "playurl": "https://kkzyplayer.com/player/?url=",
+  "categories": [ "热门短剧", "网络电影"]
 },
 {
-    "key": "小马",
-    "name": "🍇┃L芸20┃短剧",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "https://mas.szyyds.cn/api.php/app/",
-    "categories": ["短剧"]
+  "key": "csp_xml_ikun",
+  "name": "🌠┣爱坤┫采集",
+  "type": 1,
+  "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+  "playurl": "https://www.ikdmjx.com/?url=",
+  "categories": [ "爽文短剧", "古装片"]
 },
-{
-    "key": "思古",
-    "name": "🍇┃L芸24┃短剧",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "https://siguyy.cn/api.php/app/",
-    "categories": ["短剧"]
-},
+
 {
     "key": "csp_何以",
     "name": "🅱️何以┃短剧",
