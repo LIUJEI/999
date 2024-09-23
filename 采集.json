@@ -13,7 +13,8 @@
     "type":3,
     "api":"csp_XBPQ",
     "playerType":2,
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/豆瓣预告.json"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/豆瓣预告.json",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
 },
 {"key": "墨白影视","name": "🌠┣墨白┫快播","type": 1,"api": "https://nm.xxxc137.top/api.php/provide/vod/"},
 {"key": "黑墙影视","name": "🌠┣黑墙┫快播","type": 1,"api": "https://blackwallvideo.online/api.php/provide/vod/"},
@@ -191,9 +192,9 @@
   "api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list",
   "playurl": "https://jx.huishij.com/yun/?url="
 }, 
-    {
+{
       "key": "rbys",
-      "name": "♨️┣热播┫影视",
+      "name": "♨️┣热播┃影视",
       "type": 3,
       "api": "csp_AppTT",
       "searchable": 1,
@@ -203,8 +204,8 @@
       "timeout": 15,
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
       "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
-    },
-    {
+},
+{
       "key": "ngys",
       "name": "♨️┣南瓜┃影视",
       "type": 3,
@@ -213,8 +214,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": 2
-    },
-    {
+},
+{
       "key": "mmys",
       "name": "♨️┣萌米┃影视",
       "type": 3,
@@ -226,8 +227,8 @@
       "timeout": 15,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
       "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
-    },
-    {
+},
+{
       "key": "pgys",
       "name": "♨️┣苹果┃影视",
       "type": 3,
@@ -236,8 +237,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
-    },
-    {
+},
+{
       "key": "kkys",
       "name": "♨️┣可可┃影视",
       "type": 3,
@@ -247,8 +248,8 @@
       "filterable": 1,
       "playerType": 2,
       "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
-    },
-    {
+},
+{
       "key": "nkys",
       "name": "♨️┣耐看┃影视",
       "type": 3,
@@ -258,8 +259,8 @@
       "filterable": 1,
       "playerType": 2,
       "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-    },
-    {
+},
+{
       "key": "shys",
       "name": "♨️┣骚火┃影视",
       "type": 3,
@@ -268,8 +269,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-    },
-    {
+},
+{
       "key": "gzys",
       "name": "♨️┣瓜子┃影视",
       "type": 3,
@@ -280,8 +281,8 @@
       "playerType": 2,
       "timeout": 30,
       "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-    },
-    {
+},
+{
       "key": "ygys",
       "name": "♨️┣一个┃影视",
       "type": 3,
@@ -292,8 +293,8 @@
       "playerType": 2,
       "ext": "https://yigeg.pro",
       "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-    },
-    {
+},
+{
       "key": "free",
       "name": "♨️┣Free┃影视",
       "type": 3,
@@ -303,8 +304,8 @@
       "filterable": 1,
       "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
       "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-    },
-    {
+},
+{
       "key": "czys",
       "name": "♨️┣厂长┃影视",
       "type": 3,
@@ -315,8 +316,8 @@
       "playerType": 2,
       "ext": "https://czzy.top/",
       "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
-    },
-    {
+},
+{
       "key": "atys",
       "name": "♨️┣奥特┃影视",
       "type": 3,
@@ -327,8 +328,8 @@
       "timeout": 15,
       "ext": "https://auete.pro/",
       "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
-    },
-    {
+},
+{
       "key": "qyys",
       "name": "♨️┣奇优┃影视",
       "type": 3,
@@ -338,8 +339,8 @@
       "changeable": 1,
       "playerType": 1,
       "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-    },
-    {
+},
+{
       "key": "rzys",
       "name": "♨️┣忍者┃影视",
       "type": 3,
@@ -350,8 +351,8 @@
       "playerType": 2,
       "ext": "http://rzys.xyz/",
       "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
-    },
-    {
+},
+{
       "key": "nmys",
       "name": "♨️┣农民┃影视",
       "type": 3,
@@ -360,8 +361,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
-    },
-    {
+},
+{
       "key": "Kkys",
       "name": "♨️┣快看┃影视",
       "type": 3,
@@ -370,18 +371,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-    {
-      "key": "dmxq",
-      "name": "♨️┣大米┃影视",
-      "type": 3,
-      "api": "csp_AppDaMi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
-    },
-    {
+},
+{
       "key": "sbys",
       "name": "♨️┣素白┃影视",
       "type": 3,
@@ -391,8 +382,8 @@
       "filterable": 1,
       "ext": "http://www.meowtv.cn/xp/meow.php?file=sbys",
       "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-    {
+},
+{
       "key": "Qxys",
       "name": "♨️┣七新┃影视",
       "type": 3,
@@ -401,8 +392,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/xp/meow.php?file=qxys"
-    },
-    {
+},
+{
       "key": "ynys",
       "name": "♨️┣鸭奈┃影视",
       "type": 3,
@@ -412,8 +403,8 @@
       "filterable": 1,
       "ext": "http://www.meowtv.cn/xp/meow.php?file=ynys",
       "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-    {
+},
+{
       "key": "nfys",
       "name": "♨️┣奈飞┃影视",
       "type": 3,
@@ -423,8 +414,8 @@
       "filterable": 1,
       "ext": "http://www.meowtv.cn/xp/meow.php?file=nfys",
       "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-    {
+},
+{
       "key": "tvys",
       "name": "♨️┣TVB ┃影视",
       "type": 3,
@@ -433,8 +424,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/xp/meow.php?file=tvyb"
-    },
-    {
+},
+{
       "key": "Hhys",
       "name": "♨️┣黑狐┃影视",
       "type": 3,
@@ -443,8 +434,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"
-    },
-    {
+},
+{
       "key": "55ys",
       "name": "♨️┣五五┃影视",
       "type": 3,
@@ -453,8 +444,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/xp/meow.php?file=wwys"
-    },
-    {
+},
+{
       "key": "sxys",
       "name": "♨️┣师兄┃影视",
       "type": 3,
@@ -463,8 +454,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/xp/meow.php?file=sxys"
-    },
-    {
+},
+{
       "key": "xsys",
       "name": "♨️┣先生┃影视",
       "type": 3,
@@ -473,8 +464,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=dyss"
-    },
-    {
+},
+{
       "key": "mays",
       "name": "♨️┣米爱┃影视",
       "type": 3,
@@ -483,8 +474,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=mays"
-    },
-    {
+},
+{
       "key": "xcys",
       "name": "♨️┣星辰┃影视",
       "type": 3,
@@ -493,8 +484,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=xcys"
-    },
-    {
+},
+{
       "key": "jpys",
       "name": "♨️┣荐片┃影视",
       "type": 3,
@@ -503,8 +494,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=jpys"
-    },
-    {
+},
+{
       "key": "zzys",
       "name": "♨️┣子子┃影视",
       "type": 3,
@@ -513,8 +504,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=zzys"
-    },
-    {
+},
+{
       "key": "ssys",
       "name": "♨️┣三三┃视频",
       "type": 3,
@@ -522,8 +513,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
+},
+{
       "key": "qysp",
       "name": "♨️┣奇艺┃视频",
       "type": 3,
@@ -532,8 +523,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=qysp"
-    },
-    {
+},
+{
       "key": "txsp",
       "name": "♨️┣腾讯┃视频",
       "type": 3,
@@ -542,8 +533,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=txsp"
-    },
-    {
+},
+{
       "key": "yksp",
       "name": "♨️┣优酷┃视频",
       "type": 3,
@@ -552,8 +543,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=yksp"
-    },
-    {
+},
+{
       "key": "mgsp",
       "name": "♨️┣芒果┃视频",
       "type": 3,
@@ -562,8 +553,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=mgsp"
-    },
-    {
+},
+{
       "key": "sgys",
       "name": "♨️┣搜狗┃视频",
       "type": 3,
@@ -572,8 +563,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp"
-    },
-    {
+},
+{
       "key": "xydj",
       "name": "♨️┣星芽┃短剧",
       "type": 3,
@@ -582,311 +573,209 @@
       "quickSearch": 0,
       "filterable": 0,
       "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
+},
+{
+    "key":"酷奇MV",
+    "name":"🎸酷奇MV",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":{
+    "主页url":"https://www.kuqimv.com",
+    "直接播放":"1",
+    "短视频":"1",
+    "分类":"华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10",
+    "分类url":"https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z",
+    "数组":"<li>&&</li>",
+    "标题":"title=\"&&\"",
+    "副标题":"target=\"play\">&&<",
+    "搜索模式":"1",
+    "搜索url":"https://www.kuqimv.com/search.php?key={wd}"}
+},	      
+{
+    "key":"music",
+    "name": "🎵酷狗┃音乐",
+    "type": 3,
+    "api":"csp_Music",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
+    "searchable":0,
+    "changeable":0,
+    "style":{"type":"rect","ratio":1.433}
+},
+{
+    "key": "csp_Bili短剧",
+    "name": "🅱️短剧┃哔哩",
+    "type": 3,
+    "api": "csp_Bili",
+    "style": {
+    "type": "rect",
+    "ratio": 1.597
     },
-    {
-      "key": "ygcl",
-      "name": "影港┃磁力",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=ygcl",
-      "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-    {
-      "key": "lwcl",
-      "name": "六维┃磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://www.xb6v.com/"
-    },
-    {
-      "key": "mp4c",
-      "name": "MP4 ┃磁力",
-      "type": 3,
-      "api": "csp_Mp4Mov",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-    {
-      "key": "dmbs",
-      "name": "巴士┃动漫",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "rmdm",
-      "name": "日漫┃动漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "xfdm",
-      "name": "稀饭┃动漫",
-      "type": 3,
-      "api": "csp_Xifan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
-    },
-    {
-      "key": "ntdm",
-      "name": "柠桐┃动漫",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=ntdm"
-    },
-    {
-      "key": "qmdm",
-      "name": "奇米┃动漫",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=qmdm"
-    },
-    {
-      "key": "qmty",
-      "name": "JRK ┃体育",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=jrkq"
-    },
-    {
-      "key": "qety",
-      "name": "企鹅┃体育",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=qety"
-    },
-    {
-      "key": "mxmv",
-      "name": "明星┃ MV ",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
+    "searchable": 1,
+    "quickSearch": 0,
+    "changeable": 0,
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili短剧.json",
+    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+},
+{
+    "key": "MV",
+    "name": "🅱️歌曲┃哔哩",
+    "type": 3,
+    "api": "csp_Bili",
+    "style": {
+    "type": "rect",
+    "ratio": 1.597
       },
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=mxmv"
-    },
-    {
-      "key": "hyzb",
-      "name": "虎牙┃直播",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=hyzb"
-    },
-    {
-      "key": "blzb",
-      "name": "哔哩┃直播",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=blzb"
-    },
-    {
-      "key": "ysxs",
-      "name": "有声┃小说",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=ysxs"
-    },
-    {
-      "key": "blhj",
-      "name": "哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=blhj"
-    },
-    {
-      "key": "blgq",
-      "name": "哔哩┃歌曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=blgq"
-    },
-    {
-      "key": "qydh",
-      "name": "奇艺┃动画",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=qydh"
-    },
-    {
-      "key": "txdh",
-      "name": "腾讯┃动画",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=txdh"
-    },
-    {
-      "key": "mgdh",
-      "name": "芒果┃动画",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=mgdh"
-    },
-    {
-      "key": "jjjx",
-      "name": "急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "tqss",
-      "name": "童趣┃搜视",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=tqss"
-    },
-    {
-      "key": "etqm",
-      "name": "儿童┃启蒙",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=etqm"
-    },
-    {
-      "key": "dtgx",
-      "name": "灯塔┃国学",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=dtgx"
-    },
-    {
-      "key": "sejy",
-      "name": "少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=sejy"
-    },
-    {
-      "key": "xxkt",
-      "name": "小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=xxkt"
-    },
-    {
-      "key": "czkt",
-      "name": "初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=czkt"
-    },
-    {
-      "key": "gzkt",
-      "name": "高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=gzkt"
-    },
-    {
-      "key": "bdsp",
-      "name": "本地┃视频",
-      "type": 3,
-      "api": "csp_LocalFile",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "type_flag": 0,
-      "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-    {
-      "key": "push_agent",
-      "name": "推送┃链接",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/MeowTV/token.txt+4k|auto|fhd"
-    }
-  ],
+    "searchable": 1,
+    "quickSearch": 0,
+    "changeable": 0,
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili音乐.json",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+},
+{
+    "key":"戏曲",
+    "name":"🅱️戏曲┃精选",
+    "type":3,
+    "api":"csp_Bili",
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+},
+{
+    "key": "hipy_js_一曲肝肠断",
+    "name": "🅱️曲肝┃肠断",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/一曲肝肠断.js"
+},
+{
+    "key":  "少儿",
+    "name": "🅰️少儿┃合集",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/少儿合集.json",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+},
+{
+    "key": "小学课堂",
+    "name": "🅰️小学┃课堂",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小学课堂.json",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+},
+{
+    "key": "初中课堂",
+    "name": "🅰️初中┃课堂",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/初中课堂.json",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+},
+{
+    "key": "高中课堂",
+    "name": "🅰️高中┃课堂",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/高中课堂.json",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+},
+{
+    "key":"小灯塔科学",
+    "name":"🌏科学┃小灯塔",
+    "type":3,
+    "api":"csp_Bili",
+    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔科学.json",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+},
+{
+    "key":"小灯塔地理",
+    "name":"🌏地理┃小灯塔",
+    "type":3,
+    "api":"csp_Bili",
+    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔地理.json",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+},
+{
+    "key":"小灯塔百科",
+    "name":"🌏百科┃小灯塔",
+    "type":3,
+    "api":"csp_Bili",
+    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔百科.json",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+},
+{
+    "key":"小灯塔国学",
+    "name":"🌏国学┃小灯塔",
+    "type":3,
+    "api":"csp_Bili",
+    "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔国学.json",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+},
+{
+    "key": "New6v",
+    "name": "🎆┣六维┫磁力",
+    "type": 3,
+    "api": "csp_New6v",
+    "ext": "https://www.xb6v.com"
+},
+{
+    "key": "SeedHub",
+    "name": "🎆┣小白┫磁力",
+    "type": 3,
+    "api": "csp_SeedHub"
+},
+{
+    "key": "美剧迷",
+    "name": "🎆┣剧迷┫磁力",
+    "type": 3,
+    "api": "csp_MeijuMi"        
+},
+{
+    "key": "迅雷吧",
+    "name": "🎆┣迅雷┫磁力",
+    "type": 3,
+    "api": "csp_Xunlei8"
+},
+{
+    "key": "Mp4电影",
+    "name": "🎆┣电影┫磁力",
+    "type": 3,
+    "api": "csp_Mp4Mov"
+},
+{
+    "key": "美剧天堂",
+    "name": "🎆┣天堂┫磁力",
+    "type": 3,
+    "api": "csp_MeijuTT"
+},
+{
+    "key": "ConfigCenter",
+    "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
+    "type": 3,
+    "api": "csp_ConfigCenter",
+    "jar": "https://git.acwing.com/iduoduo/orange/-/raw/main/custom_spider.jar;md5;",
+    "ext": {"commonConfig": "https://git.acwing.com/iduoduo/orange/-/raw/main/peizhi.json"}
+},
+{
+    "key":"本地",
+    "name": "🇨🇳┣☪琉✿芸┫【更新时间:09.22】",
+    "type":3,
+    "api":"csp_LocalFile"
+}],
+
+
   "parses": [
-    {
-      "name": "Webs聚合",
-      "type": 3,
-      "url": "Web"
-    },
     {
       "name": "Json聚合",
       "type": 3,
       "url": "Demo"
+    },
+    {
+      "name": "Webs聚合",
+      "type": 3,
+      "url": "Web"
     },
     {
       "name": "MeowTV1",
@@ -894,16 +783,150 @@
       "url": "https://bd.jx.cn/?url="
     },
     {
-      "name": "MeowTV2",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "name": "MeowTV3",
-      "type": 0,
-      "url": "https://player.mrgaocloud.com/player/?url="
-    }
-  ],
+    "name": "XGJ专线",
+    "url": "http://43.248.100.147:6068/bba/781xgjjson.php?url=",
+    "flag": ["BBA"],
+    "header": {"User-Agent": "Dalvik/2.1.0"},
+    "type": "1"
+},
+{
+    "name": "XMY专线",
+    "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
+    "flag": ["NBY"],
+    "header": {"User-Agent": "Dalvik/2.1.0"},
+    "type": "1"
+},
+{
+    "name": "LX专线",
+    "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+    "flag": ["LXTX"],
+    "header": {"User-Agent": "Dalvik/2.1.0"},
+    "type": "1"
+},
+{
+    "name": "4K专线",
+    "url": "https://jf.hanliu8.cn/api/?key=qEDfo9v5Uk48DVmu6W&url=",
+    "flag": ["4kvip"],
+    "header": {"User-Agent": "Dalvik/2.1.0"},
+    "type": "1"
+},
+{
+    "name": "MX专线",
+    "url": "https://jf.hanliu8.cn/api/?key=qEDfo9v5Uk48DVmu6W&url=",
+    "flag": ["m78"],
+    "header": {"User-Agent": "Dalvik/2.1.0"},
+    "type": "1"
+},
+{
+    "name": "XGJ专线",
+    "url": "http://43.248.100.147:6068/KEY/70xgjgj.php?url=",
+    "flag": [
+        "youku",
+        "qq",
+        "qiyi",
+        "bilibili",
+        "mgtv",
+        "pptv",
+        "xigua"],
+        "header": {"User-Agent": "Dalvik/2.1.0"},
+        "type": "1"
+},
+{
+    "name": "LL专线",
+    "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+    "flag": [
+        "youku",
+        "qq",
+        "qiyi",
+        "bilibili",
+        "mgtv",
+        "pptv",
+        "xigua"],
+        "header": {"User-Agent": "Dalvik/2.1.0"},
+        "type": "1"
+},
+{
+    "name": "HH专线",
+    "url": "https://api.huohua.vip/api/?key=LqSFybBQvYzN52Tneg&url=",
+    "flag": [
+        "youku",
+        "qq",
+        "qiyi",
+        "bilibili",
+        "mgtv",
+        "pptv",
+        "xigua"],
+    "header": {"User-Agent": "Dalvik/2.1.0"},
+    "type": "1"
+},
+{
+    "name": "XGJ聚合",
+    "url": "http://43.248.100.147:6068//KEY/XGJ/root/key/44jxzy.php?url=",
+    "flag": [
+        "youku",
+        "qq",
+        "qiyi",
+        "bilibili",
+        "mgtv",
+        "pptv",
+        "xigua",
+        "NBY",
+        "ETH-",
+        "mytv",
+        "nmys",
+        "BBA",
+        "4kvip",
+        "m78"],
+    "header": {"User-Agent": "Dalvik/2.1.0"},
+    "type": "1"
+},
+{
+    "name": "盘古Ⓖ解析",
+    "type": 0,
+    "url": "https://www.pangujiexi.com/pangu/?url="
+},
+{
+    "name": "夜幕Ⓝ解析",
+    "type": 0,
+    "url": "https://www.yemu.xyz/?url="
+},
+{
+    "name": "猫咪Ⓞ解析",
+    "type": 0,
+    "url": "https://www.ckplayer.vip/jiexi/?url="
+},
+{
+    "name": "游戏Ⓟ线路",
+    "type": 0,
+    "url": "https://jx.m3u8.tv/jiexi/?url="
+},
+{
+    "name": "冰豆Ⓣ智能",
+    "type": 0,
+    "url": "https://bd.jx.cn/?url="
+},
+{
+    "name": "图图Ⓗ线路",
+    "type": 0,
+    "url": "https://jx.m3u8.tv/jiexi/?url="
+},
+{
+    "name": "8090Ⓚ嗅探",
+    "type": 0,
+    "url": "https://www.8090g.cn/jiexi/?url="
+},
+{
+    "name":"🏁琉芸★全能嗅探★Ⓦ",
+    "type": "1",
+    "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url="
+},
+{
+    "name":"🏁琉芸★全能嗅探★Ⓜ︎",
+    "type": 0,
+    "url": "https://jx.xmflv.com/?url="
+}],
+
+
   "lives": [
     {
       "name": "直播",
