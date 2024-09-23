@@ -236,52 +236,12 @@
     "categories": [ "女频恋爱", "反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","爽文短剧"]
 },
 {
-    "key": "L芸乐视",
-    "name": "🍇┃L芸08┃短剧",    
-    "type": 1,
-    "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
-    "playurl": "https://leshivideoplayurl.com/?url=",         
-    "categories": [ "女频恋爱", "反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","短剧"]
-},
-{
     "key": "L芸天空", 
-    "name": "🍇┃L芸09┃短剧", 
+    "name": "🍇┃L芸08┃短剧", 
     "type": 1,
     "api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list",
     "playurl": "https://jx.huishij.com/yun/?url=",
     "categories": ["短剧"] 
-},
-{
-    "key": "可可",
-    "name": "🍇┃L芸10┃短剧",
-    "type": 3,
-    "api": "csp_Kekys",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
-    "timeout": 15,
-    "categories": ["短剧"] 
-},
-{
-    "key": "小点",
-    "name": "🍇┃L芸11┃短剧",
-    "type": 3,
-    "api": "csp_Xdys",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
-    "categories": ["短剧"] 
-},
-{
-    "key": "FreeOK",
-    "name": "🍇┃L芸12┃短剧",
-    "type": 3,
-    "api": "csp_FreeOK",
-    "categories": ["短剧"]
-},
-{
-    "key": "胖虎影视",
-    "name": "🍇┃L芸13┃短剧",
-    "type": 3,
-    "api": "csp_Panghu",
-    "ext": "https://physvod.com",
-    "categories": ["短剧"]
 },
 {
     "key": "忍者影视",
@@ -292,70 +252,11 @@
     "ext": "http://rzys.xyz/"
 },
 {
-    "key": "兄弟影视",
-    "name": "🍇┃L芸15┃短剧",
-    "type": 3,
-    "api": "csp_Wexxiongdiys",
-    "categories": ["短剧"]
-},
-{
-    "key": "地瓜影视",
-    "name": "🍇┃L芸16┃短剧",
-    "type": 3,
-    "api": "csp_Wexdiguatv",
-    "categories": ["短剧"]
-},      
-{
-    "key": "农民影视",
-    "name": "🍇┃L芸17┃短剧",
-    "type": 3,
-    "api": "csp_WexNmys",
-    "categories": ["短剧"]
-},
-{
-    "key": "愉悦影视",
-    "name": "🍇┃L芸18┃短剧",
-    "type": 3,
-    "api": "csp_Wexyuyueys",
-    "categories": ["短剧"]
-},
-{
-    "key": "花蕊影视",
-    "name": "🍇┃L芸19┃短剧",
-    "type": 3,
-    "api": "csp_Wexhuaruitv",
-    "categories": ["短剧"]
-},
-{
-    "key": "剧兔",
-    "name": "🍇┃L芸00┃短剧",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "https://www.zjtu.one/api.php/app/",
-    "categories": ["短剧"]
-},
-{
     "key": "小马",
     "name": "🍇┃L芸20┃短剧",
     "type": 3,
     "api": "csp_AppYsV2",
     "ext": "https://mas.szyyds.cn/api.php/app/",
-    "categories": ["短剧"]
-},
-{
-    "key": "老蟹",
-    "name": "🍇┃L芸21┃短剧",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "http://www.ajj001.top/api.php/app/",
-    "categories": ["短剧"]
-},
-{
-    "key": "柠檬",
-    "name": "🍇┃L芸22┃短剧",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "http://mf.songshu.cyou/api.php/app/",
     "categories": ["短剧"]
 },
 {
