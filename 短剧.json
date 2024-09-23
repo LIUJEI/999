@@ -212,13 +212,6 @@
     "playurl": "https://hhjiexi.com/play/?url=",
     "categories": [ "短剧" ] 
 },
-{
-    "key": "L芸飞速",
-    "name": "🍇┃L芸06┃短剧 ",
-    "type": 1,
-    "api": "https://feisuzy.com/api.php/provide/vod/",
-    "categories": [ "短剧" ] 
-},
 {   
     "key": "L芸最大",
     "name": "🍇┃L芸07┃短剧",
