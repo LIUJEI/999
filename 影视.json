@@ -229,20 +229,7 @@
     "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
     "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
 },
-{
-    "key":"圣城影视",
-    "name":"🎆┣圣城┫影视",
-    "type":3,
-    "api":"csp_SC1080",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
-},
-{
-    "key":"腐剧视频",
-    "name":"🎆┣腐剧┫影视",
-    "type":3,
-    "api":"csp_WexFujutv",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
-},
+
 {
     "key": "csp_SP360",
     "name": "🎆┣三六┫影视",
@@ -720,7 +707,7 @@
     "quickSearch": 0,
     "changeable": 0,
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili短剧.json",
-    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
 },
 {
     "key": "MV",
