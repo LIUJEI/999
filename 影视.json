@@ -266,7 +266,6 @@
     "api": "csp_Jpys",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
 },
-
 {
     "key":"dr_卫士",
     "name":"🅾️主力【官方】",
@@ -533,7 +532,7 @@
 },	      
 {
     "key":"music",
-    "name": "🎵酷狗┃音乐",
+    "name": "🎸酷狗┃音乐",
     "type": 3,
     "api":"csp_Music",
     "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
