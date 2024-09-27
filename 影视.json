@@ -339,13 +339,13 @@
 },
 {
     "key": "hipy_js_金牌影院",
-	"name": "🆚┣金牌┫影院",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/金牌影院.js"
+    "name": "🆚┣金牌┫影院",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/金牌影院.js"
 },
 {
-	"key":"drpy_js_荐片",
+    "key":"drpy_js_荐片",
     "name":"🆚┣影视┫荐片",
     "type":3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
@@ -374,11 +374,11 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/中国人线上看.js"
 },
 {
-	"key": "hipy_js_宝片视频",
-	"name": "🆚┣宝片┫视频",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/宝片视频.js"
+    "key": "hipy_js_宝片视频",
+    "name": "🆚┣宝片┫视频",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/宝片视频.js"
 },	
 {
     "key": "hipy_js_闪雷电",
