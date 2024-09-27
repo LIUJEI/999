@@ -627,16 +627,15 @@
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
 },
 {
-    "key":"戏曲",
-    "name":"🅱️戏曲┃精选",
-    "type":3,
-    "api":"csp_Bili",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+    "key": "戏 曲",
+    "name": "🎈国粹┃戏曲",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": "http://mdxgh.tpddns.cn:9999//mdlib/Blixq.json"
 },
 {
     "key": "hipy_js_一曲肝肠断",
-    "name": "🅱️曲肝┃肠断",
+    "name": "🎈曲肝┃肠断",
     "type": 3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "http://mdxgh.tpddns.cn:9999/dzlib/一曲肝肠断.js"
