@@ -153,6 +153,12 @@
     "api": "csp_Bttwo"
 },
 {
+    "key": "厂长资源",
+    "name": "♨️┣厂长┫资源",
+    "type": 3,
+    "api": "csp_Czzy"
+},
+{
     "key": "视频库",
     "name": "♨️┣视频┫影库",
     "type":3,
@@ -262,13 +268,6 @@
     "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
 },
 {
-    "key": "nkys",
-    "name": "🎆┣耐看┫影视",
-    "type": 3,
-    "api": "csp_Nkdy",
-    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-},
-{
     "key":"圣城影视",
     "name":"🎆┣圣城┫影视",
     "type":3,
@@ -326,14 +325,14 @@
 },
 {
     "key": "摘星",
-    "name": "✨星星┃1080P",
+    "name": "🆚┣摘星┫影视",
     "type": 3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/摘星.js"
 },
 {
     "key": "hipy_js_闪雷电",
-    "name": "🆚┣雷电┫影视",
+    "name": "🆚┣闪电┫影视",
     "type": 3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "http://mdxgh.tpddns.cn:9999/dzlib/闪雷电.js"
@@ -379,13 +378,6 @@
     "type": 3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/白嫖者联盟.js"
-},
-{
-    "key":"drpy_js_567电影院",
-    "name":"🆚┣电影┫院线",
-    "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/567电影院.js"
 },
 {"key": "酷影","name": "🏧┣酷影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key": "丘丘","name": "🏧┣丘丘┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://111.173.115.204:2211/api.php/app/"},
