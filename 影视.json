@@ -251,15 +251,11 @@
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
 },
 {
-    "key": "在线短剧",
-    "name": "📛┣在线┫短剧",
+    "key": "hipy_js_短剧天堂",
+    "name": "📛┣天堂┫短剧",
     "type": 3,
-    "api": "csp_Duanju",
-    "searchable": 1,
-    "changeable": 0,
-    "style": {
-        "type": "rect",
-        "ratio": 1.433}
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/短剧天堂.js"
 },
 {
     "key": "无忧短剧",
@@ -273,24 +269,10 @@
         "ratio": 1.433}
 },
 {
-    "key": "hipy_js_短剧TV网",
-    "name": "📛┣TV网┫短剧",
-    "type": 3,
-    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/短剧TV网.js"
-},
-{
     "key": "星芽短剧",
     "name": "📛┣星芽┫APP",
     "type": 3,
     "api": "csp_AppXY"
-},
-{
-    "key": "hipy_js_短剧天堂",
-    "name": "📛┣天堂┫短剧",
-    "type": 3,
-    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/短剧天堂.js"
 },
 {
     "key": "csp_XYQHiker_爱你短剧",
@@ -377,20 +359,13 @@
 },
 {
     "key": "你好帅",
-    "name": "♨️好帅®短剧",
+    "name": "📛┣好帅┫短剧",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
     "分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html",
     "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan",
     "播放数组": "<div class=\"sort-item\"&&</div>"}
-},
-{
-    "key": "蓝莓短剧",
-    "name": "♨️蓝莓®短剧",
-    "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "https://weixine.net/js/lanmei.js"
 },
 {
     "key":"dr_卫士",
