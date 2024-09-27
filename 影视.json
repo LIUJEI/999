@@ -442,60 +442,18 @@
     "ext": "http://mdxgh.tpddns.cn:9999/dzlib/闪雷电.js"
 },				
 {
-    "key":"drpy_js_看了么",
-    "name":"🆚┣看么┫影视",
-    "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/看了么.js"
-},
-{
-    "key":"drpy_js_567电影院",
-    "name":"🆚┣电影┫院线",
-    "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/567电影院.js"
-},
-{
-	"key": "hipy_js_爱优影视[自动]",
-	"name": "🆚┣爱优┫影视",
+	"key": "hipy_js_一起看",
+	"name": "🆚┣起看┫影视",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/爱优影视.js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/一起看.js"
 },
 {
-	"key": "hipy_js_白嫖者联盟",
-	"name": "🆚┣白嫖┫联盟",
+	"key": "hipy_js_影视大全",
+	"name": "🆚┣影视┫大全",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/白嫖者联盟.js"
-},
-{
-	"key": "hipy_js_北川影视",
-	"name": "🆚┣北川┫影视",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/北川影视.js"
-},
-{
-	"key": "hipy_js_冠建影视",
-	"name": "🆚┣冠建┫影视",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/冠建影视.js"
-},
-{
-	"key": "hipy_js_暖光影视",
-	"name": "🆚┣暖光┫影视",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/暖光影视.js"
-},
-{
-	"key": "hipy_js_无忧影视",
-	"name": "🆚┣无忧┫影视",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/无忧影视.js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/影视大全.js"
 },
 {
 	"key": "hipy_js_西瓜影院",
@@ -512,27 +470,26 @@
 	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/星空影院.js"
 },
 {
-	"key": "hipy_js_旋风视频",
-	"name": "🆚┣旋风┫视频",
+	"key": "hipy_js_爱优影视[自动]",
+	"name": "🆚┣爱优┫影视",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/旋风视频.js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/爱优影视.js"
 },
 {
-	"key": "hipy_js_一起看",
-	"name": "🆚┣起看┫影视",
+	"key": "hipy_js_白嫖者联盟",
+	"name": "🆚┣白嫖┫联盟",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/一起看.js"
+	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/白嫖者联盟.js"
 },
 {
-	"key": "hipy_js_影视大全",
-	"name": "🆚┣影视┫大全",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/影视大全.js"
+    "key":"drpy_js_567电影院",
+    "name":"🆚┣电影┫院线",
+    "type":3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/567电影院.js"
 },
-
 {"key": "酷影","name": "🏧┣酷影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key": "丘丘","name": "🏧┣丘丘┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://111.173.115.204:2211/api.php/app/"},
 {"key": "君君","name": "🏧┣君君┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.85.203:1000/api.php/app/"},
