@@ -172,10 +172,47 @@
     "filterable": 1
 },
 {
-    "key": "南瓜影视",
-    "name": "♨️┣南瓜┫APP",
+    "key": "csp_NanGua",
+    "name": "🎆┣南瓜┫APP",
     "type": 3,
-    "api": "csp_Nangua"
+    "changeable": 1,
+    "api": "csp_NanGua",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
+},
+{
+    "key": "csp_JPYY",
+    "name": "🎆┣金牌┫影视",
+    "type": 3,
+    "api": "csp_Jpyy",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
+},
+{
+    "key": "csp_subaobai",
+    "name": "🎆┣素白┫影视",
+    "type": 3,
+    "api": "csp_SuBaiBai",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
+},
+{
+    "key": "csp_yunbo",
+    "name": "🎆┣云播┫影视",
+    "type": 3,
+    "api": "csp_Tvyb",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
+},
+{
+    "key": "qyys",
+    "name": "🎆┣奇优┫影视",
+    "type": 3,
+    "api": "csp_Qiyou",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
+},
+{
+    "key": "shys",
+    "name": "🎆┣骚火┫影视",
+    "type": 3,
+    "api": "csp_SaoHuo",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
     "key": "欢视",
@@ -206,42 +243,7 @@
     "type": 3,
     "api": "csp_AppTT",
     "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-},
-{
-    "key": "csp_JPYY",
-    "name": "🥇金牌┃1080P",
-    "type": 3,
-    "api": "csp_Jpyy",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
-},
-{
-    "key": "csp_subaobai",
-    "name": "✍️白白┃1080P",
-    "type": 3,
-    "api": "csp_SuBaiBai",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
-},
-{
-    "key": "csp_yunbo",
-    "name": "☁️️云播┃1080",
-    "type": 3,
-    "api": "csp_Tvyb",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
-},
-{
-    "key": "qyys",
-    "name": "🎆┣奇优┫影视",
-    "type": 3,
-    "api": "csp_Qiyou",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
-},
-{
-    "key": "shys",
-    "name": "🎆┣骚火┫影视",
-    "type": 3,
-    "api": "csp_SaoHuo",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
 },
 {
     "key": "ygys",
