@@ -163,7 +163,7 @@ var rule = {
 			vod_actor: data.vod_actor,
 			vod_director: data.vod_director,
 			vod_content: data.vod_content.replace(/<p[^>]*?>|<\/p>/g, ''),
-			vod_play_from琉芸解析: xianlu.join('$$$'),
+			vod_play_from: 琉芸解析.join('$$$'),
 			vod_play_url: result.join('$$$')
 		}
 
