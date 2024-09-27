@@ -178,6 +178,29 @@
     "api": "csp_Nangua"
 },
 {
+    "key": "欢视",
+    "name": "🎆┣欢视┫多线",
+    "type": 3,
+    "api": "csp_AppTT",
+    "ext": "AO7TcBkd8IPB+BwH4Qma+opv",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
+
+},
+{
+    "key": "可可",
+    "name": "🎆┣可可┫多线",
+    "type": 3,
+    "api": "csp_Kekys",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
+},
+{
+    "key": "文采",
+    "name": "🎆┣文采┫秒播",
+    "type": 3,
+    "api": "csp_Jpys",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
+},
+{
     "key": "mmys",
     "name": "🎆┣萌米┫影视",
     "type": 3,
@@ -242,29 +265,6 @@
     "type":3,
     "api":"csp_WexFujutv",
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
-},
-{
-    "key": "欢视",
-    "name": "🎆┣欢视┫多线",
-    "type": 3,
-    "api": "csp_AppTT",
-    "ext": "AO7TcBkd8IPB+BwH4Qma+opv",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
-
-},
-{
-    "key": "可可",
-    "name": "🎆┣可可┫多线",
-    "type": 3,
-    "api": "csp_Kekys",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
-},
-{
-    "key": "文采",
-    "name": "🎆┣文采┫秒播",
-    "type": 3,
-    "api": "csp_Jpys",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
 },
 {
     "key":"dr_卫士",
