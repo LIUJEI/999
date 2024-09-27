@@ -359,13 +359,6 @@
    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/一起看.js"
 },
 {
-    "key": "hipy_js_影视大全",
-    "name": "🆚┣影视┫大全",
-    "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/影视大全.js"
-},
-{
     "key": "hipy_js_西瓜影院",
     "name": "🆚┣西瓜┫影院",
     "type": 3,
@@ -392,6 +385,17 @@
     "type": 3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/白嫖者联盟.js"
+},
+ {
+    "key": "xiaozhen",
+    "name": "🆚┣玫瑰┫小镇",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "线路数组": "<a data-toggle=\"tab\"&&/a>",
+    "线路标题": ">&&<",
+    "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
+    "分类": "电影$1#电视剧$2#动漫$3#综艺$4"}
 },
 {"key": "酷影","name": "🏧┣酷影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key": "丘丘","name": "🏧┣丘丘┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://111.173.115.204:2211/api.php/app/"},
