@@ -574,6 +574,20 @@
       "filterable": 0,
       "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
 },
+ {
+      "key": "2400部恐怖电影📲",
+      "name": "🏅电影",
+      "type": 3,
+      "api": "http://zb.hys.cool/app/lib/16万hys.js",
+      "ext": "http://zb.hys.cool/app/lib/2400部恐怖电影.js"
+    },
+    {
+      "key": "十六万MV听歌📣",
+      "name": "🏅听歌",
+      "type": 3,
+      "api": "http://zb.hys.cool/app/lib/16万hys.js",
+      "ext": "http://zb.hys.cool/app/lib/16万mv.js"
+    },
 {
     "key":"酷奇MV",
     "name":"🎸酷奇MV",
@@ -617,7 +631,7 @@
     "quickSearch": 0,
     "changeable": 0,
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili短剧.json",
-    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
 },
 {
     "key": "MV",
