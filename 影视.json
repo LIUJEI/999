@@ -135,6 +135,12 @@
     "api": "csp_Jiaozi"
 },
 {
+    "key": "小苹果",
+    "name": "♨️┣苹果┫影视",
+    "type": 3,
+    "api": "csp_Xpg"
+},
+{
     "key": "兄弟影视",
     "name": "♨️┣兄弟┫影视",
     "type": 3,
@@ -173,6 +179,17 @@
     "quickSearch":0,
     "filterable":0,
     "ext":"https://vidhub1.cc"
+},
+{
+    "key": "立播影视",
+    "name": "♨️┣立播┫影视",
+    "type": 3,
+    "api": "csp_Libvio",
+    "changeable": 1,
+    "ext": {
+    "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+    "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+    "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"}
 },
 {
     "key": "csp_NanGua",
