@@ -624,14 +624,15 @@
     "quickSearch": 0,
     "changeable": 0,
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili音乐.json",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+    "jar": "http://mdxgh.tpddns.cn:9999/mdlib/spider.jar"
 },
 {
     "key": "戏 曲",
     "name": "🎈国粹┃戏曲",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "http://mdxgh.tpddns.cn:9999//mdlib/Blixq.json"
+    "ext": "http://mdxgh.tpddns.cn:9999//mdlib/Blixq.json",
+    "jar": "http://mdxgh.tpddns.cn:9999/mdlib/spider.jar"
 },
 {
     "key": "hipy_js_一曲肝肠断",
