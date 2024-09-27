@@ -159,6 +159,12 @@
     "api": "csp_Czzy"
 },
 {
+    "key": "机器人",
+    "name": "♨️┣爱看┫机器",
+    "type":3,
+    "api": "csp_Ikanbot"
+},
+{
     "key": "视频库",
     "name": "♨️┣视频┫影库",
     "type":3,
@@ -169,17 +175,8 @@
     "ext":"https://vidhub1.cc"
 },
 {
-    "key": "机器人",
-    "name": "♨️┣爱看┫机器",
-    "type":3,
-    "api": "csp_Ikanbot",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-{
     "key": "csp_NanGua",
-    "name": "🎆┣南瓜┫APP",
+    "name": "♨️┣南瓜┫APP",
     "type": 3,
     "changeable": 1,
     "api": "csp_NanGua",
@@ -187,42 +184,42 @@
 },
 {
     "key": "csp_JPYY",
-    "name": "🎆┣金牌┫影视",
+    "name": "♨️┣金牌┫影视",
     "type": 3,
     "api": "csp_Jpyy",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
     "key": "csp_subaobai",
-    "name": "🎆┣素白┫影视",
+    "name": "♨️┣素白┫影视",
     "type": 3,
     "api": "csp_SuBaiBai",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
     "key": "csp_yunbo",
-    "name": "🎆┣云播┫影视",
+    "name": "♨️┣云播┫影视",
     "type": 3,
     "api": "csp_Tvyb",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
     "key": "qyys",
-    "name": "🎆┣奇优┫影视",
+    "name": "♨️┣奇优┫影视",
     "type": 3,
     "api": "csp_Qiyou",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
     "key": "shys",
-    "name": "🎆┣骚火┫影视",
+    "name": "♨️┣骚火┫影视",
     "type": 3,
     "api": "csp_SaoHuo",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
     "key": "欢视",
-    "name": "🎆┣欢视┫多线",
+    "name": "♨️┣欢视┫多线",
     "type": 3,
     "api": "csp_AppTT",
     "ext": "AO7TcBkd8IPB+BwH4Qma+opv",
@@ -231,21 +228,21 @@
 },
 {
     "key": "可可",
-    "name": "🎆┣可可┫多线",
+    "name": "♨️┣可可┫多线",
     "type": 3,
     "api": "csp_Kekys",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
 },
 {
     "key": "文采",
-    "name": "🎆┣文采┫秒播",
+    "name": "♨️┣文采┫秒播",
     "type": 3,
     "api": "csp_Jpys",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
 },
 {
     "key": "mmys",
-    "name": "🎆┣萌米┫影视",
+    "name": "♨️┣萌米┫影视",
     "type": 3,
     "api": "csp_AppTT",
     "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
@@ -253,7 +250,7 @@
 },
 {
     "key": "ygys",
-    "name": "🎆┣菠菜┫影视",
+    "name": "♨️┣菠菜┫影视",
     "type": 3,
     "api": "csp_Pptv",
     "ext": "https://yigeg.pro",
@@ -261,7 +258,7 @@
 },
 {
     "key": "free",
-    "name": "🎆┣FREE┫独家",
+    "name": "♨️┣FREE┫独家",
     "type": 3,
     "api": "csp_FreeOK",
     "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
@@ -269,14 +266,14 @@
 },
 {
     "key":"圣城影视",
-    "name":"🎆┣圣城┫影视",
+    "name":"♨️┣圣城┫影视",
     "type":3,
     "api":"csp_SC1080",
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
 },
 {
     "key":"腐剧视频",
-    "name":"🎆┣腐剧┫影视",
+    "name":"♨️┣腐剧┫影视",
     "type":3,
     "api":"csp_WexFujutv",
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
