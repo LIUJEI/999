@@ -209,32 +209,39 @@
     "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
 },
 {
-    "key": "pgys",
-    "name": "🎆┣苹果┫影视",
+    "key": "csp_JPYY",
+    "name": "🥇金牌┃1080P",
     "type": 3,
-    "api": "csp_LiteApple",
-    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+    "api": "csp_Jpyy",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
-    "key": "nkys",
-    "name": "🎆┣耐看┫影视",
+    "key": "csp_subaobai",
+    "name": "✍️白白┃1080P",
     "type": 3,
-    "api": "csp_Nkdy",
-    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+    "api": "csp_SuBaiBai",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
+},
+{
+    "key": "csp_yunbo",
+    "name": "☁️️云播┃1080",
+    "type": 3,
+    "api": "csp_Tvyb",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
     "key": "qyys",
     "name": "🎆┣奇优┫影视",
     "type": 3,
     "api": "csp_Qiyou",
-    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
     "key": "shys",
     "name": "🎆┣骚火┫影视",
     "type": 3,
     "api": "csp_SaoHuo",
-    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
     "key": "ygys",
@@ -250,6 +257,13 @@
     "type": 3,
     "api": "csp_FreeOK",
     "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
+    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+},
+{
+    "key": "nkys",
+    "name": "🎆┣耐看┫影视",
+    "type": 3,
+    "api": "csp_Nkdy",
     "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
 },
 {
@@ -307,6 +321,13 @@
     "type":3,
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
+},
+{
+    "key": "摘星",
+    "name": "✨星星┃1080P",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/摘星.js"
 },
 {
     "key": "hipy_js_闪雷电",
