@@ -49,118 +49,118 @@
 },
 {
     "key": "全网影视",
-    "name": "🎆┣全网｜影视",
+    "name": "♨️┣全网｜影视",
     "type": 3,
     "api": "csp_Quanwk",
     "ext": "https://fm666.qkw1.cc"
 },
 {
     "key": "大米星球",
-    "name": "🎆┣大米┫星球",
+    "name": "♨️┣大米┫星球",
     "type": 3,
     "api": "csp_AppDaMi"
 },
 {
     "key": "南瓜影视",
-    "name": "🎆┣南瓜┫APP",
+    "name": "♨️┣南瓜┫APP",
     "type": 3,
     "api": "csp_Nangua"
 },
 {
     "key": "追剧影视",
-    "name": "🎆┣追剧┫影视",
+    "name": "♨️┣追剧┫影视",
     "type": 3,
     "api": "csp_AppZJ",
     "ext": "http://z.kzjtv.com/"
 },
 {
     "key": "快看影视",
-    "name": "🎆┣快看┫影视",
+    "name": "♨️┣快看┫影视",
     "type": 3,
     "api": "csp_Kuaikan"
 },
 {
     "key": "天天影视",
-    "name": "🎆┣天天┫影视",
+    "name": "♨️┣天天┫影视",
     "type": 3,
     "api": "csp_AppTT"
 },
 {
     "key": "热播影视",
-    "name": "🎆┣热播┫影视",
+    "name": "♨️┣热播┫影视",
     "type": 3,
     "api": "csp_AppRB"
 },
 {
     "key": "农民影视",
-    "name": "🎆┣农民┫影视",
+    "name": "♨️┣农民┫影视",
     "type": 3,
     "api": "csp_Nongm"
 },
 {
     "key": "达达龟",
-    "name": "🎆┣达龟┫影视",
+    "name": "♨️┣达龟┫影视",
     "type": 3,
     "api": "csp_Dadag"
 },
 {
     "key": "低端影视",
-    "name": "🎆┣低端┫影视",
+    "name": "♨️┣低端┫影视",
     "type": 3,
     "api": "csp_Ddys"
 },
 {
     "key":"疯狗影视",
-    "name":"🎆┣疯狗┫影视",
+    "name":"♨️┣疯狗┫影视",
     "type":3,
     "api":"csp_FengGo"
 },
 {
     "key": "忍者影视",
-    "name": "🎆┣忍者┫APP",
+    "name": "♨️┣忍者┫APP",
     "type": 3,
     "api": "csp_AppRZ",
     "ext": "http://rzys.xyz/"
 },
 {
     "key": "看客影视",
-    "name": "🎆┣看客┫影视",
+    "name": "♨️┣看客┫影视",
     "type": 3,
     "api": "csp_Kanke"
 },
 {
     "key": "瓜子｜影视",
-    "name": "🎆┣瓜子┫影视",
+    "name": "♨️┣瓜子┫影视",
     "type": 3,
     "api": "csp_Gz360"
 },
 {
     "key": "饺子影视",
-    "name": "🎆┣饺子┫影视",
+    "name": "♨️┣饺子┫影视",
     "type": 3,
     "api": "csp_Jiaozi"
 },
 {
     "key": "兄弟影视",
-    "name": "🎆┣兄弟┫影视",
+    "name": "♨️┣兄弟┫影视",
     "type": 3,
     "api": "csp_Xdys"
 },
 {
     "key": "韩小圈",
-    "name": "🎆┣韩圈┫APP",
+    "name": "♨️┣韩圈┫APP",
     "type": 3,
     "api": "csp_HanXiaoQuan"
 },
 {
     "key": "比特影视",
-    "name": "🎆┣比特┫影视",
+    "name": "♨️┣比特┫影视",
     "type": 3,
     "api": "csp_Bttwo"
 },
 {
     "key": "视频库",
-    "name": "🎆┣视频┫影库",
+    "name": "♨️┣视频┫影库",
     "type":3,
     "api":"csp_WebVidHub",
     "searchable":1,
@@ -170,7 +170,7 @@
 },
 {
     "key": "机器人",
-    "name": "🎆┣爱看┫机器",
+    "name": "♨️┣爱看┫机器",
     "type":3,
     "api": "csp_Ikanbot",
     "searchable": 1,
@@ -422,24 +422,31 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
 },
 {
+    "key": "金牌",
+    "name": "🆚┣金牌┃秒播",
+    "type": 3,
+    "api": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.min.js",
+    "ext": "https://weixine.net/js/jpys.js"
+},
+{
     "key": "js_荐片",
     "name": "🆚┣荐片┫影视",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "api": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/荐片[优].js"
 },	
 {
     "key": "js_nangua",
     "name": "🆚┣南瓜┫秒播",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "api": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.min.js",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/南瓜影视[优].js"
 },
 {
     "key": "hipy_js_闪雷电",
     "name": "🆚┣雷电┫影视",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "api": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.min.js",
     "ext": "http://mdxgh.tpddns.cn:9999/dzlib/闪雷电.js"
 },
 {
@@ -467,28 +474,28 @@
     "key": "js_Lib",
     "name": "🆚┣利奥┫影视",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "api": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.min.js",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/LIBVIO[优].js"
 },
 {
     "key": "js_Czsapp",
     "name": "🆚┣厂长┫影视",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "api": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.min.js",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/厂长资源(可搜索).js"
 },
 {
     "key": "js_ddys",
     "name": "🆚┣低端┫影视",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "api": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.min.js",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/低端.js"
 },				
 {
     "key":"drpy_js_看了么",
     "name":"🆚┣看么┫影视",
     "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "api": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/看了么.js"
 },
 {
