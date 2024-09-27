@@ -356,8 +356,22 @@
     "name":"影视 | 荐片[js]",
     "type":3,
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/drpy/drpy2.min.js",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/荐片.js", 
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/荐片.js", 
     "timeout":30
+},
+{
+    "key":"drpy_js_中国人线上看",
+    "name":"影视 | 中国人线上看[js]",
+    "type":3,
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/drpy/drpy2.min.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/中国人线上看.js"
+},
+{
+    "key":"drpy_js_北极狐[V2]",
+    "name":"影视 | 北极狐[V2]",
+    "type":3,
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/drpy/drpy2.min.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/北极狐.js"
 },
 {
 	"key": "hipy_js_宝片视频",
