@@ -438,15 +438,15 @@
     "key": "js_荐片",
     "name": "🆚┣荐片┫影视",
     "type": 3,
-    "api":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.min.js",
+    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/荐片[优].js"
 },	
 {
     "key": "js_nangua",
     "name": "🆚┣南瓜┫秒播",
     "type": 3,
-    "api":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/drpy2.min.js",
-    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/南瓜影视[优].js"
+    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/drpy2.min.js",
+    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/南瓜影视[优].js"
 },
 {
     "key": "hipy_js_闪雷电",
