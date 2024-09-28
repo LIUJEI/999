@@ -321,6 +321,13 @@
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
+    "key": "csp_SP360",
+    "name": "♨️┣360┫影视",
+    "type": 3,
+    "changeable": 0,
+    "api": "csp_SP360"
+},
+{
     "key":"dr_卫士",
     "name":"🅾️主力【官方】",
     "type":3,
