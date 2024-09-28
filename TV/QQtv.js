@@ -15,8 +15,8 @@ var rule = {
     },
     timeout: 5000,
     cate_exclude: '会员|游戏|全部',
-    class_name: '电影&电视剧&综艺&动漫&少儿&纪录片',
-    class_url: 'movie&tv&variety&cartoon&child&doco',
+    class_name: '电视剧&琉芸✨电影&综艺&动漫&少儿&纪录片',
+    class_url: 'tv&movie&variety&cartoon&child&doco',
     limit: 20,
     lazy: 'js:input="https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="+input.split("?")[0];log(input);let html=JSON.parse(request(input));log(html);input=html.url||input',
     推荐: '.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
@@ -101,12 +101,12 @@ var rule = {
             }
         }
         let yg = d.filter(function (it) {
-            return it.type && it.type !== "正片"
+            return it.type && it.type !== "琉芸"
         });
         let zp = d.filter(function (it) {
-            return !(it.type && it.type !== "正片")
+            return !(it.type && it.type !== "琉芸")
         });
-        VOD.vod_play_from = yg.length < 1 ? "正片" : "正片$$$预告";
+        VOD.vod_play_from = yg.length < 1 ? "琉芸专享✨" : "琉芸$$$预告";
         VOD.vod_play_url = yg.length < 1 ? d.map(function (it) {
             return it.title + "$" + it.url
         }).join("#") : [zp, yg].map(function (it) {
