@@ -101,12 +101,12 @@ var rule = {
             }
         }
         let yg = d.filter(function (it) {
-            return it.type && it.type !== "琉芸"
+            return it.type && it.type !== "琉芸专享✨"
         });
         let zp = d.filter(function (it) {
-            return !(it.type && it.type !== "琉芸")
+            return !(it.type && it.type !== "正片")
         });
-        VOD.vod_play_from = yg.length < 1 ? "琉芸专享✨" : "琉芸$$$预告";
+        VOD.vod_play_from = yg.length < 1 ? "琉芸专享✨" : "琉芸专享✨$$$预告";
         VOD.vod_play_url = yg.length < 1 ? d.map(function (it) {
             return it.title + "$" + it.url
         }).join("#") : [zp, yg].map(function (it) {
