@@ -153,18 +153,6 @@
     "api": "csp_HanXiaoQuan"
 },
 {
-    "key": "比特影视",
-    "name": "♨️┣比特┫影视",
-    "type": 3,
-    "api": "csp_Bttwo"
-},
-{
-    "key": "厂长资源",
-    "name": "♨️┣厂长┫资源",
-    "type": 3,
-    "api": "csp_Czzy"
-},
-{
     "key": "机器人",
     "name": "♨️┣爱看┫机器",
     "type":3,
@@ -181,23 +169,101 @@
     "ext":"https://vidhub1.cc"
 },
 {
-    "key": "立播影视",
-    "name": "♨️┣立播┫影视",
+    "key":"drpy_js_荐片",
+    "name":"♨️┣影视┫荐片",
+    "type":3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/荐片.js", 
+    "timeout":30
+},
+{
+    "key": "欢视",
+    "name": "♨️┣欢视┫多线",
+    "type": 3,
+    "api": "csp_AppTT",
+    "ext": "AO7TcBkd8IPB+BwH4Qma+opv",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
+
+},
+{
+    "key": "可可",
+    "name": "♨️┣可可┫多线",
+    "type": 3,
+    "api": "csp_Kekys",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
+},
+{
+    "key": "文采",
+    "name": "♨️┣金牌┫秒播",
+    "type": 3,
+    "api": "csp_Jpys",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
+},
+{
+    "key": "mmys",
+    "name": "♨️┣萌米┫影视",
+    "type": 3,
+    "api": "csp_AppTT",
+    "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
+},
+{
+    "key": "Lib",
+    "name": "♨️┣立播┫秒播",
     "type": 3,
     "api": "csp_Libvio",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90",
     "changeable": 1,
-    "ext": {
-    "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-    "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-    "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"}
+    "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}
 },
 {
     "key": "csp_NanGua",
     "name": "♨️┣南瓜┫APP",
     "type": 3,
-    "changeable": 1,
+    "timeout": 15,
     "api": "csp_NanGua",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
+},
+{
+    "key": "糯米",
+    "name": "♨️┣糯米┫秒播",
+    "type": 3,
+    "api": "csp_Nmyswv",
+    "timeout": 15,
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
+},
+{
+    "key": "厂长",
+    "name": "♨️┣厂长┫不卡",
+    "type": 3,
+    "api": "csp_NewCz",
+    "timeout": 15,
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90",
+    "ext": "https://www.czzy77.com/"
+},
+{
+    "key": "原创",
+    "name": "♨️┣原创┫不卡",
+    "type": 3,
+    "api": "csp_YCyz",
+    "timeout": 15,
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
+},
+{
+    "key": "比特",
+    "name": "♨️┣比特┫秒播",
+    "type": 3,
+    "api": "csp_Bttwoo",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
+},
+{
+    "key": "Auete",
+    "name": "♨️┣奥特┫无广",
+    "type": 3,
+    "api": "csp_Auete",
+    "timeout": 15,
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90",
+    "ext": "https://auete.pro/"
 },
 {
     "key": "csp_JPYY",
@@ -234,37 +300,7 @@
     "api": "csp_SaoHuo",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
-{
-    "key": "欢视",
-    "name": "♨️┣欢视┫多线",
-    "type": 3,
-    "api": "csp_AppTT",
-    "ext": "AO7TcBkd8IPB+BwH4Qma+opv",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
 
-},
-{
-    "key": "可可",
-    "name": "♨️┣可可┫多线",
-    "type": 3,
-    "api": "csp_Kekys",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
-},
-{
-    "key": "文采",
-    "name": "♨️┣文采┫秒播",
-    "type": 3,
-    "api": "csp_Jpys",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
-},
-{
-    "key": "mmys",
-    "name": "♨️┣萌米┫影视",
-    "type": 3,
-    "api": "csp_AppTT",
-    "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
-},
 {
     "key": "ygys",
     "name": "♨️┣菠菜┫影视",
@@ -344,14 +380,7 @@
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/金牌影院.js"
 },
-{
-    "key":"drpy_js_荐片",
-    "name":"🆚┣影视┫荐片",
-    "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/荐片.js", 
-    "timeout":30
-},
+
 {
     "key":"drpy_js_北极狐[V2]",
     "name":"🆚┣极狐┫影院",
