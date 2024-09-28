@@ -761,102 +761,87 @@
     "url": "Demo"
 },
 {
-    "name": "XGJ专线",
-    "url": "http://43.248.100.147:6068/bba/781xgjjson.php?url=",
-    "flag": ["BBA"],
-    "header": {"User-Agent": "Dalvik/2.1.0"},
-    "type": "1"
-},
-{
-    "name": "XMY专线",
-    "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
-    "flag": ["NBY"],
-    "header": {"User-Agent": "Dalvik/2.1.0"},
-    "type": "1"
-},
-{
-    "name": "LX专线",
-    "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
-    "flag": ["LXTX"],
-    "header": {"User-Agent": "Dalvik/2.1.0"},
-    "type": "1"
-},
-{
-    "name": "4K专线",
-    "url": "https://jf.hanliu8.cn/api/?key=qEDfo9v5Uk48DVmu6W&url=",
-    "flag": ["4kvip"],
-    "header": {"User-Agent": "Dalvik/2.1.0"},
-    "type": "1"
-},
-{
-    "name": "MX专线",
-    "url": "https://jf.hanliu8.cn/api/?key=qEDfo9v5Uk48DVmu6W&url=",
-    "flag": ["m78"],
-    "header": {"User-Agent": "Dalvik/2.1.0"},
-    "type": "1"
-},
-{
-    "name": "XGJ专线",
-    "url": "http://43.248.100.147:6068/KEY/70xgjgj.php?url=",
+    "name": "✦巴拉解析",
+    "type": 1,
+    "url": "https://jxjson.icu/neibu.php?url=",
+    "ext": {
     "flag": [
-        "youku",
         "qq",
+        "腾讯",
         "qiyi",
-        "bilibili",
+        "爱奇艺",
+        "奇艺",
+        "youku",
+        "优酷",
+        "sohu",
+        "搜狐",
+        "letv",
+        "乐视",
         "mgtv",
-        "pptv",
-        "xigua"],
-        "header": {"User-Agent": "Dalvik/2.1.0"},
-        "type": "1"
+        "芒果",
+        "tnmb",
+        "seven",
+        "bilibili",
+        "1905"],
+    "header": {"User-Agent": "okhttp/4.9.1"}}
 },
 {
-    "name": "LL专线",
-    "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
-    "flag": [
-        "youku",
-        "qq",
-        "qiyi",
-        "bilibili",
-        "mgtv",
-        "pptv",
-        "xigua"],
-        "header": {"User-Agent": "Dalvik/2.1.0"},
-        "type": "1"
+    "name": "✦巧记解析",
+    "type": 1,
+    "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
 },
 {
-    "name": "HH专线",
-    "url": "https://api.huohua.vip/api/?key=LqSFybBQvYzN52Tneg&url=",
-    "flag": [
-        "youku",
-        "qq",
-        "qiyi",
-        "bilibili",
-        "mgtv",
-        "pptv",
-        "xigua"],
-    "header": {"User-Agent": "Dalvik/2.1.0"},
-    "type": "1"
+    "name": "✦虾米解析",
+    "type": 0,
+    "url": "https://jx.xmflv.com/?url=",
+    "ext": {
+    "header": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}
 },
 {
-    "name": "XGJ聚合",
-    "url": "http://43.248.100.147:6068//KEY/XGJ/root/key/44jxzy.php?url=",
-    "flag": [
-        "youku",
-        "qq",
-        "qiyi",
-        "bilibili",
-        "mgtv",
-        "pptv",
-        "xigua",
-        "NBY",
-        "ETH-",
-        "mytv",
-        "nmys",
-        "BBA",
-        "4kvip",
-        "m78"],
-    "header": {"User-Agent": "Dalvik/2.1.0"},
-    "type": "1"
+    "name": "✦全看解析",
+    "type": 0,
+    "url": "https://jx.quankan.app/?url=",
+    "ext": {
+    "header": {
+    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+},
+{
+    "name": "✦云解析",
+    "type": 0,
+    "url": "https://jx.yparse.com/index.php?url=",
+    "ext": {
+    "header": {
+    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+},
+{
+    "name": "✦琪琪解析",
+    "type": 0,
+    "url": "https://jx.aidouer.net/?url=",
+    "ext": {
+    "header": {
+    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+    "referer": "https://jiejie.uk/"}}
+},
+{
+    "name": "8090Ⓚ嗅探",
+    "type": 0,
+    "url": "https://www.8090g.cn/jiexi/?url="
+},
+{
+    "name": "样图㊣线路",
+    "type": 0,
+    "url": "https://jx.yangtu.top?url="
+},
+{
+    "name": "游戏Ⓟ线路",
+    "type": 0,
+    "url": "https://jx.m3u8.tv/jiexi/?url="
+},
+{
+    "name": "猫咪Ⓞ解析",
+    "type": 0,
+    "url": "https://www.ckplayer.vip/jiexi/?url="
 },
 {
     "name": "盘古Ⓖ解析",
@@ -869,16 +854,6 @@
     "url": "https://www.yemu.xyz/?url="
 },
 {
-    "name": "猫咪Ⓞ解析",
-    "type": 0,
-    "url": "https://www.ckplayer.vip/jiexi/?url="
-},
-{
-    "name": "游戏Ⓟ线路",
-    "type": 0,
-    "url": "https://jx.m3u8.tv/jiexi/?url="
-},
-{
     "name": "冰豆Ⓣ智能",
     "type": 0,
     "url": "https://bd.jx.cn/?url="
@@ -887,11 +862,6 @@
     "name": "图图Ⓗ线路",
     "type": 0,
     "url": "https://jx.m3u8.tv/jiexi/?url="
-},
-{
-    "name": "8090Ⓚ嗅探",
-    "type": 0,
-    "url": "https://www.8090g.cn/jiexi/?url="
 },
 {
     "name":"🏁琉芸★全能嗅探★Ⓦ",
