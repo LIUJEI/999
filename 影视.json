@@ -754,15 +754,18 @@
 }],
 
 "parses":[
+
 {
-    "name":"智能🌐聚合",
-    "type":3,
-    "url":"Web"
-},
-{
-    "name": "琉芸㊎解析",
+    "name": "🌐琉芸★全能嗅探★",
     "type": 0,
     "url": "https://jx.xmflv.com/?url="
+},
+{
+    "name": "🏁琉芸★全能嗅探★",
+    "type": 1,
+    "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
+    "ext": {
+    "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}
 },
 {
     "name":"虾米㊍解析",
@@ -778,8 +781,7 @@
     "ext":{
     "flag":[
     "qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],
-    "header":{"User-Agent":"Mozilla/5.0"}},
-    "header":{"User-Agent":"Mozilla/5.0"}
+    "header":{"User-Agent":"Mozilla/5.0"}}  
 },
 {
     "name":"咸鱼㊋解析",
@@ -798,13 +800,6 @@
     "header":{
     "user-agent":
     "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
-},
-{
-    "name": "🏁琉芸★全能嗅探★",
-  "type": 1,
-  "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
-  "ext": {
-  "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}
 }],
 
 "flags":["youku","优酷","优 酷","优酷视频", "qq","腾讯","腾 讯","腾讯视频", "iqiyi", "qiyi","奇艺","爱奇艺","爱 奇 艺", "m1905", "xigua", "letv","leshi","乐视","乐 视", "sohu","搜狐","搜 狐","搜狐视频", "tudou","mgtv","芒果","imgo","芒果TV","芒 果 T V", "bilibili","哔 哩","哔 哩 哔 哩","SPA","YuMi-vip","pptv","PPTV","ltnb","rx","SLYS4k","tucheng","BYGA","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","renrenmi","ppayun","haiwaikan","cool","dbm3u8","xmm","funshion","ruyi1080","ruyib1080"],
