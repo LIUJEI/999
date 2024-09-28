@@ -106,7 +106,7 @@ var rule = {
         let zp = d.filter(function (it) {
             return !(it.type && it.type !== "正片")
         });
-        VOD.vod_play_from = yg.length < 1 ? "琉芸专享✨" : "琉芸专享✨$$$预告";
+        VOD.vod_play_from = yg.length < 1 ? "琉芸专享✨" : "正片$$$预告";
         VOD.vod_play_url = yg.length < 1 ? d.map(function (it) {
             return it.title + "$" + it.url
         }).join("#") : [zp, yg].map(function (it) {
