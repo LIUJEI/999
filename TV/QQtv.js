@@ -15,7 +15,7 @@ var rule = {
     },
     timeout: 5000,
     cate_exclude: '会员|游戏|全部',
-    class_name: '电影&电视剧&综艺&动漫&少儿&纪录片',
+    class_name: '电视剧&琉芸✨电影&综艺&动漫&少儿&纪录片',
     class_url: 'movie&tv&variety&cartoon&child&doco',
     limit: 20,
     lazy: 'js:input="https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="+input.split("?")[0];log(input);let html=JSON.parse(request(input));log(html);input=html.url||input',
