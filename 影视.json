@@ -321,11 +321,14 @@
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
-    "key": "csp_SP360",
-    "name": "♨️┣360┫影视",
+    "key": "nk",
+    "name": "♨️┣耐看┫影视",
     "type": 3,
+    "api": "csp_WebNK",
+    "jar": "http://150.158.112.123/jar/xc.zip",
+    "searchable": 0,
     "changeable": 0,
-    "api": "csp_SP360"
+    "ext": "KhY021WelCEl+6MsvwnzaPussky1Dh0d+WXb80vqSfdVqJTIDGrV0xPZiB/0I8O9mrMKS+cdzxqKP83dFJJyyyb8D0J0ZVtM/ds4xb/4dA=="
 },
 {
     "key":"dr_卫士",
@@ -573,22 +576,12 @@
     "播放数组": "<div class=\"sort-item\"&&</div>"}
 },
 {
-    "key":"酷奇MV",
-    "name":"🎸酷奇MV",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext":{
-    "主页url":"https://www.kuqimv.com",
-    "直接播放":"1",
-    "短视频":"1",
-    "分类":"华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10",
-    "分类url":"https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z",
-    "数组":"<li>&&</li>",
-    "标题":"title=\"&&\"",
-    "副标题":"target=\"play\">&&<",
-    "搜索模式":"1",
-    "搜索url":"https://www.kuqimv.com/search.php?key={wd}"}
-},	      
+    "key": "十六万MV听歌📣",
+    "name": "🎸歌曲┃合集",
+    "type": 3,
+    "api": "http://zb.hys.cool/app/lib/16万hys.js",
+    "ext": "http://zb.hys.cool/app/lib/16万mv.js"
+},     
 {
     "key":"music",
     "name": "🎸酷狗┃音乐",
