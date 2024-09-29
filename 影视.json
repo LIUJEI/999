@@ -601,7 +601,7 @@
     "name": "🎸酷狗┃音乐",
     "type": 3,
     "api":"csp_Music",
-    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar",
     "searchable":0,
     "changeable":0,
     "style":{"type":"rect","ratio":1.433}
@@ -650,7 +650,7 @@
     "type": 3,
     "api": "csp_Bili",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/TV/raw/main/小学课堂.json",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt"
 },
 {
     "key": "初中课堂",
@@ -658,7 +658,7 @@
     "type": 3,
     "api": "csp_Bili",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/TV/raw/main/初中课堂.json",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt"
 },
 {
     "key":  "高中课堂",
@@ -666,7 +666,7 @@
     "type": 3,
     "api": "csp_Bili",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/TV/raw/main/高中课堂.json",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt"
 },
 {
     "key": "小灯塔科学",
@@ -674,7 +674,7 @@
     "type":3,
     "api": "csp_Bili",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/TV/raw/main/小灯塔科学.json",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt"
 },
 {
     "key": "小灯塔地理",
@@ -682,7 +682,7 @@
     "type":3,
     "api": "csp_Bili",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/TV/raw/main/小灯塔地理.json",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt"
 },
 {
     "key": "小灯塔百科",
@@ -690,7 +690,7 @@
     "type":3,
     "api": "csp_Bili",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/TV/raw/main/小灯塔百科.json",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt"
 },
 {
     "key": "小灯塔国学",
@@ -698,7 +698,7 @@
     "type":3,
     "api": "csp_Bili",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/TV/raw/main/小灯塔国学.json",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt"
 },
 {
     "key": "New6v",
