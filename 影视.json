@@ -576,15 +576,15 @@
     "播放数组": "<div class=\"sort-item\"&&</div>"}
 },
 {
-    "key": "🚨网易影像",
-    "name": "💻🖥📺网易┃影像",
+    "key": "hipy_js_网易影像",
+    "name": "🖥网易┃影像",
     "type": 3,
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/网易影像.js"
 },
 {
   "key": "hipy_js_diany",
-  "name": "💻🖥📺电影┃合集",
+  "name": "🖥电影┃合集",
   "type": 3,
   "api": "http://zb.hys.cool/app/lib/16万hys.js",
   "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/电影合集.js"
