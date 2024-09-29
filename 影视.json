@@ -634,7 +634,7 @@
     "quickSearch": 0,
     "changeable": 0,
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili音乐.json",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt"
 },
 {
     "key":  "少儿",
@@ -642,7 +642,7 @@
     "type": 3,
     "api": "csp_Bili",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/TV/raw/main/少儿合集.json",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt"
 },
 {
     "key": "小学课堂",
