@@ -899,14 +899,6 @@
     "categories": ["短剧","动作片","科幻片","国产剧","大陆综艺","动画片"]
 },
 {
-    "key": "三六资源",
-    "name": "🌠┣三六┫资源",
-    "type": 1,
-    "api": "https://360zy.com/api.php/provide/vod",
-    "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
-    "categories": [""] 
-},
-{
     "key": "华为吧资源",
     "name": "🌠┣华为┫采集",
     "type": 1,
@@ -939,47 +931,20 @@
     "categories": ["网络电影","国产剧","国产综艺","国产动漫","热门短剧"]
 },
 {
-  "key": "最大资源",
-  "name": "🌠┣最大┫采集",
-  "type": 1,
-  "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8",
-  "playurl": "https://jx.zuidplay.com/m3u8Player/?url=",
-    "categories": ["4K电影","国产剧","大陆综艺","动画片","爽文短剧"]
-},
-{
-  "key": "csp_xml_ikun",
-  "name": "🌠┣爱坤┫采集",
-  "type": 1,
-  "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
-  "playurl": "https://www.ikdmjx.com/?url="
-},
-{
-  "key": "虎牙资源",
-  "name": "🌠┣虎牙┫采集",
-  "type": 1,
-  "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
-  "playurl": "https://huyajx.com/play?url="
-},
-{
-  "key": "红牛资源",
-  "name": "🌠┣红牛┫采集",
-  "type": 1,
-  "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-  "playurl": "https://www.hnjiexi.com/m3u8/?url="
-},
-{
-  "key": "快车资源",
-  "name": "🌠┣快车┫采集",
-  "type": 1,
-  "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
-  "playurl": "https://jiexi.kczyapi.com/m3u8/?url="
+    "key": "csp_xml_ikun",
+    "name": "🌠┣爱坤┫采集",
+    "type": 1,
+    "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+    "playurl": "https://www.ikdmjx.com/?url=",
+    "categories": ["爽文短剧","国产剧","篮球","足球","德甲","意甲","英超","西甲","法甲","NBA","CBA","LBA","WCBA"]
 },
 {
   "key": "索尼资源",
   "name": "🌠┣索尼┫采集",
   "type": 1,
   "api": "https://suoniapi.com/api.php/provide/vod/",
-  "playurl": "https://www.snplayer.com/?url="
+  "playurl": "https://www.snplayer.com/?url=",
+  "categories": ["爱情片","国产剧","大陆综艺","女频恋爱", "反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市"] 
 },
 {
   "key": "非凡资源",
@@ -996,11 +961,12 @@
   "playurl": "https://lziplayer.com/?url="
 },
 {
-  "key": "卧龙资源",
-  "name": "🌠┣卧龙┫采集",
-  "type": 1,
-  "api": "https://wolongzyw.com/api.php/provide/vod/",
-  "playurl": "https://jx.wolongm3u8.com:65/m3u8.php?url="
+    "key": "卧龙资源",
+    "name": "🌠┣卧龙┫采集",
+    "type": 1,
+    "api": "https://wolongzyw.com/api.php/provide/vod/",
+    "playurl": "https://jx.wolongm3u8.com:65/m3u8.php?url=",
+    "categories": ["短剧","古装片","国产剧","大陆综艺","国产动漫","短片"]
 },
 {
   "key": "暴风资源",
