@@ -989,13 +989,7 @@
   "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
   "playurl": "https://www.gszyv.com/m3u8/?url="
 },
-{
-  "key": "极速资源",
-  "name": "🌠┣极速┫采集",
-  "type": 1,
-  "api": "http://www.jisuziyuan.com/api.php/provide/vod/",
-  "playurl": "https://jisjiexi.com/play/?url="
-},
+
 {
   "key": "无尽资源",
   "name": "🌠┣无尽┫采集",
