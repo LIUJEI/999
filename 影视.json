@@ -428,6 +428,82 @@
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/白嫖者联盟.js"
 },
+{
+  "key": "三六资源",
+  "name": "🌠┣三六┫资源",
+  "type": 1,
+  "api": "https://360zy.com/api.php/provide/vod",
+  "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
+  "categories": ["古装片","国产剧","大陆综艺","爽文短剧","现代都市","年代穿越","古装仙侠","成长逆袭"] 
+},
+{
+    "key": "墨白影视",
+    "name": "🌠┣墨白┫快播",
+    "type": 1,
+    "api": "https://nm.xxxc137.top/api.php/provide/vod/"
+},
+{
+    "key": "刺桐影视",
+    "name": "🌠┣刺桐┫快播",
+    "type": 1,
+    "api": "http://pg.cttv.vip/api.php/provide/vod/"
+}, 
+{
+    "key": "何以资源",
+    "name": "🌠┣何以┫快播",
+    "type": 1,
+    "api": "https://www.heyik.cn/api.php/provide/vod/"
+},
+{
+    "key": "皇冠影视",
+    "name": "🌠┣皇冠┫快播",
+    "type": 1,
+    "api": "https://hong.hgyx.vip/api.php/provide/vod/"
+},
+{
+    "key": "黑墙影视",
+    "name": "🌠┣黑墙┫快播",
+    "type": 1,
+    "api": "https://blackwallvideo.online/api.php/provide/vod/",
+    "categories": ["电影","国产剧","大陆综艺","沙雕动漫","短剧","其他短剧"] 
+},
+{
+    "key": "农民资源",
+    "name": "🌠┣农民┫影视",
+    "type": 1,
+    "api": "https://www.xncnews.com/api.php/provide/vod/",
+    "categories": ["电影","电视剧","国产剧","综艺","动漫","短剧"]
+},
+{
+    "key": "华为吧资源",
+    "name": "🌠┣华为┫采集",
+    "type": 1,
+    "api": "https://hw8.live/api.php/provide/vod/",
+    "playurl": "https://dp.hw8.live/player/?url=",
+    "categories": ["电影","电视剧","国产剧","国产综艺","动画电影","短剧"]
+},
+{
+  "key": "非凡资源",
+  "name": "🌠┣非凡┫采集",
+  "type": 1,
+  "api": "http://ffzy1.tv/api.php/provide/vod/",
+  "playurl": "https://svip.ffzyplay.com/?url="
+},
+{
+  "key": "速播资源",
+  "name": "🌠┣速播┫采集",
+  "type": 1,
+  "api": "https://subocaiji.com/api.php/provide/vod",
+  "playurl": "https://subojiexi.com/play/?url="
+},
+{
+  "key": "无尽资源",
+  "name": "🌠┣无尽┫采集",
+  "type": 1,
+  "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
+  "playurl": "https://jx.wujinkk.com/dplayer/?url="
+},
+
 
 {"key": "酷影","name": "🏧┣酷影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key": "丘丘","name": "🏧┣丘丘┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://111.173.115.204:2211/api.php/app/"},
