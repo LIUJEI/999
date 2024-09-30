@@ -6,6 +6,13 @@
     {"name": "🚸《魔盒》","url": "https://git.acwing.com/999/tvbox/-/raw/main/魔盒.json"},
     {"name": "🚸《采集》","url": "https://git.acwing.com/999/tvbox/-/raw/main/采集.json"},
     {"name": "🚸《休闲》","url": "https://git.acwing.com/999/tvbox/-/raw/main/休闲.json"},
-    {"name": "🚸《刘备》","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json"}
+    {
+      "url": "https://my5353.com/liugongzi",
+      "name": "🚦刘公子源"
+    },
+    {
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/001.json",
+      "name": "🚦分享者"
+  }
 ]
 }
