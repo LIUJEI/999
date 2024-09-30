@@ -1004,6 +1004,14 @@
   "api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list",
   "playurl": "https://jx.huishij.com/yun/?url="
 }, 
+{
+  "key": "三六资源",
+  "name": "🌠┣三六┫资源",
+  "type": 1,
+  "api": "https://360zy.com/api.php/provide/vod",
+  "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
+  "categories": ["古装片","国产剧","大陆综艺","爽文短剧","现代都市","年代穿越","古装仙侠","成长逆袭"] 
+},
 
 
 
