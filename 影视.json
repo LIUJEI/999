@@ -190,13 +190,6 @@
 
 },
 {
-    "key": "可可",
-    "name": "♨️┣可可┫多线",
-    "type": 3,
-    "api": "csp_Kekys",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
-},
-{
     "key": "文采",
     "name": "♨️┣金牌┫秒播",
     "type": 3,
@@ -221,12 +214,13 @@
     "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}
 },
 {
-    "key": "csp_NanGua",
+    "key": "南瓜影视",
     "name": "♨️┣南瓜┫APP",
     "type": 3,
-    "timeout": 15,
-    "api": "csp_NanGua",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
+    "api": "csp_Nangua",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
 },
 {
     "key": "糯米",
@@ -254,20 +248,11 @@
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
 },
 {
-    "key": "比特",
-    "name": "♨️┣比特┫秒播",
+    "key": "可可",
+    "name": "♨️┣可可┫多线",
     "type": 3,
-    "api": "csp_Bttwoo",
+    "api": "csp_Kekys",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
-},
-{
-    "key": "Auete",
-    "name": "♨️┣奥特┫无广",
-    "type": 3,
-    "api": "csp_Auete",
-    "timeout": 15,
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90",
-    "ext": "https://auete.pro/"
 },
 {
     "key": "ygys",
