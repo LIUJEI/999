@@ -436,13 +436,6 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/北极狐.js"
 },
 {
-    "key": "摘星",
-    "name": "🆚┣摘星┫影视",
-    "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/摘星.js"
-},
-{
     "key": "hipy_js_闪雷电",
     "name": "🆚┣闪电┫影视",
     "type": 3,
@@ -483,14 +476,6 @@
     "type": 3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/白嫖者联盟.js"
-},
-{
-	"key": "XBPQ_qq",
-	"name": "💖分享纤纤",
-	"type": 3,
-	"api": "csp_XBPQ",
-	"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
-	"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享QQ.json"
 },
 {
   "key": "360资源",
@@ -560,20 +545,6 @@
   "api": "https://subocaiji.com/api.php/provide/vod",
   "playurl": "https://subojiexi.com/play/?url="
 },
-{
-  "key": "无尽资源",
-  "name": "🌠┣无尽┫采集",
-  "type": 1,
-  "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
-  "playurl": "https://jx.wujinkk.com/dplayer/?url="
-},
-{
-  "key": "天空资源",
-  "name": "🌠┣天空┫采集",
-  "type": 1,
-  "api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list",
-  "playurl": "https://jx.huishij.com/yun/?url="
-}, 
 
 {"key": "酷影","name": "🏧┣酷影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key": "丘丘","name": "🏧┣丘丘┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://111.173.115.204:2211/api.php/app/"},
