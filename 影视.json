@@ -49,16 +49,16 @@
 },
 {
     "key":"PTT影视",
-	"name":"💮┣芸芸┫影视",
-	"type":3,
+    "name":"💮┣芸芸┫影视",
+    "type":3,
 	"api":"csp_PTT",
-	"searchable":1,
-	"changeable":1,
-	"jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/ptt.jar"
+    "searchable":1,
+    "changeable":1,
+    "jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/ptt.jar"
 },
 {
     "key":"魅影影视",
-    "name":"魅影",
+    "name":"💮┣魅影┫影院",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -74,24 +74,17 @@
 },
 {
     "key": "小鸭影音",
-    "name": "小鸭影音",
+    "name": "💮┣小鸭┫影音",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
-    "简介":"分享者剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>",
+    "简介":"琉芸剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>",
     "分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电视剧$2#电影$1#动漫$30#综艺$29"}
 },
 {
-	"key": " fxz好影",
-	"name": "好影",
-	"type": 3,
-	"api": "csp_XBPQ",
-	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享好影.json"
-},
-{
     "key":"csp_adyy",
-    "name":"💖爱碟影院",
+    "name":"💮┣爱碟┫影院",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -102,15 +95,8 @@
     "分类": "电影$dianying#电视剧$dianshiju#国产$guochan#综艺$zongyi#短剧$duanju#动作片$dongzuo#科幻片$kehuan#动漫$dongman"}
 }, 
 {
-    "key": "ba秒播",
-    "name": "💖彼岸",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享waipan.json"
-},
-{
     "key":"蜂2鸟",
-    "name":"💖蜂鸟",
+    "name":"💮┣蜂鸟┫影视",
     "type":3,
     "api":"csp_AppSK",
     "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip",
@@ -118,7 +104,7 @@
 },
 {
     "key":"csp_极光",
-    "name":"💖极光",
+    "name":"💮┣极光┫影视",
     "type":3,
     "api":"csp_AppSK",
     "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsKjLdyU6L2fWAhdkHsMHY7zpKguHeHM9N9Hodw+0VE7gKlHRpfZ+PrvhFHLg==",
@@ -499,11 +485,11 @@
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/白嫖者联盟.js"
 },
 {
-    "key": "shiju影视",
-    "name": "🆚┣新版┫视觉",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享SJ.json"
+	"key": "hipy_js_fxz4kyy",
+	"name": "🆚┣焱焱┫4K",
+	"type": 3,
+    "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/YY4kapp.js"
 },
 {
   "key": "360资源",
