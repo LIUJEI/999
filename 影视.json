@@ -425,7 +425,7 @@
 	"name": "🆚┣糖果┫影院",
 	"type": 3,
 	"ua": "okhttp/3.15",
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
 	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/JS/糖果.js"
 },
 {
