@@ -439,14 +439,14 @@
     "key": "摘星",
     "name": "🆚┣摘星┫影视",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/drpy2.min.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/摘星.js"
 },
 {
     "key": "hipy_js_闪雷电",
     "name": "🆚┣闪电┫影视",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/drpy2.min.js",
     "ext": "http://mdxgh.tpddns.cn:9999/dzlib/闪雷电.js"
 },				
 {
@@ -460,7 +460,7 @@
     "key": "hipy_js_西瓜影院",
     "name": "🆚┣西瓜┫影院",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/drpy2.min.js",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/西瓜影院.js"
 },
 {
