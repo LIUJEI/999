@@ -358,6 +358,89 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
 },
 {
+	"key": "hipy_js_fxztg",
+	"name": "糖果",
+	"type": 3,
+	"ua": "okhttp/3.15",
+    "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享糖果.js"
+},
+{
+	"key": "hipy_js_fxzjz",
+	"name": "饺子",
+	"type": 3,
+	"ua": "okhttp/3.15",
+         "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享饺子.js"
+},
+{"key":"PTT影视",
+	"name":"PTT",
+	"type":3,
+	"api":"csp_PTT",
+	"searchable":1,
+	"changeable":1,
+	"jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/ptt.jar"
+},
+{
+    "key": "nu",
+    "name": "Nuu",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html",
+    "分类": "https://json.heimuer.xyz/api.php/provide/vod?ac=list"}
+},
+{
+    "key":"魅影影视",
+    "name":"魅影",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext":{
+    "\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
+    "搜索url":"https://www.heitujc.com/search/-------------.html?wd={wd}",
+    "搜索数组":"<a class=\"video-pic&&</a",
+    "搜索图片":"data-original=\"&&\"",
+    "搜索标题":"title=\"&&\"",
+    "搜索链接":"href=\"&&\"",
+    "分类url":"https://www.heitujc.com/screen/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类":"电影&电视剧&综艺&动漫",
+    "分类值":"1&2&3&4"}
+},
+{
+    "key": "小鸭影音",
+    "name": "小鸭",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "简介":"分享者剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>",
+    "分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电视剧$2#电影$1#动漫$30#综艺$29"}
+},
+{
+	  "key": " fxz好影",
+	  "name": "好影",
+	  "type": 3,
+	  "api": "csp_XBPQ",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享好影.json"
+	},
+{"key":"csp_Jpys","name":"💖分享金牌",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "影片地区": "分享者制作",
+                "搜索url": "https://www.diemi.cc/search/?wd={wd}",
+                "搜索链接": "href=\"&&\"",
+                "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
+                "分类": "国产$guochan#短剧$duanju#动作片$dongzuo#电影$dianying#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
+            }
+        },   
+{
     "key":"drpy_js_北极狐[V2]",
     "name":"🆚┣极狐┫影院",
     "type":3,
