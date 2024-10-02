@@ -383,7 +383,7 @@
 },
  {
       "key": "shiju影视",
-      "name": "💖分享视觉",
+      "name": "💖视觉",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -427,7 +427,7 @@
 	  "filterable": 1,
 	  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享好影.json"
 	},
-{"key":"csp_Jpys","name":"💖分享金牌",
+{"key":"csp_Jpys","name":"💖金牌",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -444,7 +444,7 @@
 {"key":"99影视","name":"💖分享对酒","type":3,"api":"csp_XBPQ","ext":{"简介":"剧情介绍: +col-pd text-collapse content\">&&</div>","分类url":"http://www.kangping99.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$25#电影$1#连续剧$2#动漫$4#综艺$3"}},
 {
       "key": "ba秒播",
-      "name": "💖分享彼岸",
+      "name": "💖彼岸",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -454,22 +454,81 @@
     },
 {
     "key": "csp_SP2345",
-    "name": "💖分享数字",
+    "name": "💖数字",
     "type": 3, 
     "api": "csp_SP2345",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "jar":"https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
+    "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者0.zip"
 },
-           {"key":"360影视","name":"💖分享六六","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-     {"key":"csp_QQ1","name":"💖分享腾讯","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"爱奇艺","name":"💖分享奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
-
-{"key":"csp_MGTV","name":"💖分享芒果","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
-         {"key":"csp_yk","name":"💖分享优酷","type":3,"api":"csp_YOUKU","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
-{"key":"蜂2鸟","name":"💖分享蜂鸟","type":3,"api":"csp_AppSK","jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="},
-	 {"key":"csp_极光","name":"💖分享极光","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsKjLdyU6L2fWAhdkHsMHY7zpKguHeHM9N9Hodw+0VE7gKlHRpfZ+PrvhFHLg==","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"},  
+{
+    "key":"csp_SP360",
+    "name":"六六",
+    "type":3,
+    "api":"csp_SP360",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "changeable":0,
+    "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者0.zip"
+},
+{
+    "key":"csp_QQ",
+    "name":"💖腾讯",
+    "type": 3,
+    "api":"csp_QQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者0.zip"
+},
+{
+    "key":"csp_IQIYI",
+    "name":"💖奇艺",
+    "type":3,
+    "api":"csp_IQIYI",
+    "quickSearch":1,
+    "searchable":1,
+    "filterable":1,
+    "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者0.zip"
+},
+{
+    "key":"csp_MGTV",
+    "name":"💖芒果",
+    "type":3,
+    "api":"csp_MGTV",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者0.zip"
+},
+{
+    "key":"csp_YOUKU",
+    "name":"💖优酷",
+    "type":3,
+    "api":"csp_YOUKU",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"
+},
+{
+    "key":"蜂2鸟",
+    "name":"💖蜂鸟",
+    "type":3,
+    "api":"csp_AppSK",
+    "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip",
+    "ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="
+},
+{
+    "key":"csp_极光",
+    "name":"💖极光",
+    "type":3,
+    "api":"csp_AppSK",
+    "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsKjLdyU6L2fWAhdkHsMHY7zpKguHeHM9N9Hodw+0VE7gKlHRpfZ+PrvhFHLg==",
+    "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"
+},  
 {
     "key":"drpy_js_北极狐[V2]",
     "name":"🆚┣极狐┫影院",
