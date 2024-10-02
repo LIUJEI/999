@@ -436,32 +436,12 @@
 },
 {
 	"key": "hipy_js_fxztg",
-	"name": "糖果",
+	"name": "🆚┣糖果┫影院",
 	"type": 3,
 	"ua": "okhttp/3.15",
     "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
 	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享糖果.js"
 },
-{
-	"key": "hipy_js_fxzjz",
-	"name": "饺子",
-	"type": 3,
-	"ua": "okhttp/3.15",
-    "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享饺子.js"
-},
-
- {
-      "key": "shiju影视",
-      "name": "💖视觉",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"",
-      "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享SJ.json"
-    },
-
 {
     "key":"drpy_js_北极狐[V2]",
     "name":"🆚┣极狐┫影院",
@@ -519,8 +499,15 @@
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/白嫖者联盟.js"
 },
 {
-  "key": "三六资源",
-  "name": "🌠┣三六┫资源",
+    "key": "shiju影视",
+    "name": "🆚┣新版┫视觉",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享SJ.json"
+},
+{
+  "key": "360资源",
+  "name": "🌠┣卫士┫资源",
   "type": 1,
   "api": "https://360zy.com/api.php/provide/vod",
   "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
