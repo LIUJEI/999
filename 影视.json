@@ -452,7 +452,16 @@
       "filterable": 1,
       "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/分享waipan.json"
     },
-    {"key": "csp_SP2345","name": "💖分享数字","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
+{
+    "key": "csp_SP2345",
+    "name": "💖分享数字",
+    "type": 3, 
+    "api": "csp_SP2345",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar":"https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
+},
            {"key":"360影视","name":"💖分享六六","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
      {"key":"csp_QQ1","name":"💖分享腾讯","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"爱奇艺","name":"💖分享奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
