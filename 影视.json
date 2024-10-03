@@ -13,27 +13,34 @@
 },
 {
     "key":"csp_豆瓣",
-    "name":"🎬┣豆瓣┫预告┃",
+    "name":"🎬┣豆瓣┫预告",
     "type":3,
     "api":"csp_XBPQ",
     "playerType":2,
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/豆瓣预告.json"
 },
 {
-    "key": "贱贱",
-    "name": "🐭贱贱┃P2P",
+    "key": "hipy_js_tpian",
+    "name": "🎆┣影视┫荐片",
     "type": 3,
     "playerType": "1",
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-    "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/荐片.js"
 },
 {
-	"key": "hipy_js_fxztg",
-	"name": "🆚┣糖果┫影院",
+	"key": "hipy_js_tguo",
+	"name": "🆚┣影视┫糖果",
 	"type": 3,
 	"ua": "okhttp/3.15",
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
 	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/糖果影院.js"
+},
+{
+    "key": "热播影视",
+    "name": "🎆┣热播┫影视",
+    "type": 3,
+    "api": "csp_AppRB",
+    "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
 },
 {
     "key": "全网影视",
@@ -60,18 +67,6 @@
     "name": "🎆┣快看┫影视",
     "type": 3,
     "api": "csp_Kuaikan"
-},
-{
-    "key": "天天影视",
-    "name": "🎆┣天天┫影视",
-    "type": 3,
-    "api": "csp_AppTT"
-},
-{
-    "key": "热播影视",
-    "name": "🎆┣热播┫影视",
-    "type": 3,
-    "api": "csp_AppRB"
 },
 {
     "key": "农民影视",
