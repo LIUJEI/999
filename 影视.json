@@ -9,22 +9,23 @@
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ua":  "okhttp/10.01",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/douban.js"
 },
 {
     "key":"csp_豆瓣",
     "name":"🎬┣豆瓣┫电影",
     "type":3,
-    "api":"csp_XBPQ",
-    "ua": "okhttp/10.04",
+    "api": "csp_XBPQ",
+    "ua":  "okhttp/10.02",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/03影院.json"
 },
 {
     "key": "hipy_js_tpian",
     "name": "🌕┣影视┫荐片",
     "type": 3,
-    "playerType": "1",
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ua":  "okhttp/10.03",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/荐片.js"
 },
 {
@@ -39,7 +40,7 @@
     "key": "热播影视",
     "name": "🎆┣热播┫影视",
     "type": 3,
-     "api": "csp_AppRB"
+    "api": "csp_AppRB"
 },
 {
     "key": "全网影视",
