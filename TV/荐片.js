@@ -77,7 +77,7 @@ var rule = {
             d.push({
                 title: it.title,
                 img: it.thumbnail||it.path,
-                desc: (it.mask || it.playlist.title) + ' ✨琉芸蓝光✨' + it.score,
+                desc: (it.mask || it.playlist.title) + ' ⭐琉芸蓝光⭐' + it.score,
                 url: it.id
             })
         });
@@ -111,7 +111,7 @@ var rule = {
             }
             let playMap = {};
 			if (node.have_ftp_ur == 1) {
-				playMap["边下边播，勤去清缓存"] = node.new_ftp_list.map(it => {
+				playMap["边下边播，✨琉芸专享✨"] = node.new_ftp_list.map(it => {
 					return it.title + "$" + (/m3u8/.test(it.url) ? play_url + it.url : "tvbox-xg:" + it.url)
 				}).join('#');
 			}
