@@ -218,7 +218,7 @@
 },
 {
     "key": "csp_JPYY",
-    "name": "♨️┣金牌┫影视",
+    "name": "♨️┣小米┫影视",
     "type": 3,
     "api": "csp_Jpyy",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
@@ -231,30 +231,30 @@
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
-    "key": "qyys",
+    "key": "csp_qyys",
     "name": "♨️┣奇优┫影视",
     "type": 3,
     "api": "csp_Qiyou",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
-    "key": "shys",
+    "key": "csp_shys",
     "name": "♨️┣骚火┫影视",
     "type": 3,
     "api": "csp_SaoHuo",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
-    "key": "木叶",
-    "name": "木叶┃App",
+    "key": "csp_木叶",
+    "name": "♨️┣木叶┫App",
     "type": 3,
     "api": "csp_Muye",
     "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4",
     "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
 },
 {
-    "key": "柠檬",
-    "name": "柠檬┃App",
+    "key": "csp_柠檬",
+    "name": "♨️┣柠檬┫App",
     "type": 3,
     "api": "csp_Nmvod",
     "playerType": 1,
@@ -262,32 +262,15 @@
     "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
 },
 {
-    "key": "AI4",
-    "name": "AI4┃APP",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "playerType": 1,
-    "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q=",
-    "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
-},
-{
-    "key": "蚂蚁",
-    "name": "蚂蚁┃App",
+    "key": "csp_蚂蚁",
+    "name": "♨️┣蚂蚁┫App",
     "type": 3,
     "api": "csp_Mayiys",
     "playerType": 1,
     "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0",
     "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
 },
-{
-    "key": "时常",
-    "name": "时常┃APP",
-    "type": 3,
-    "api": "csp_qiao3",
-    "playerType": 1,
-    "ext": "caHR0cDovL2FwcC5henlqLnByb3xkYzMyNTA2ZDliNWNiZjhlfGRjMzI1MDZkOWI1Y2JmOGU=",
-    "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
-},
+
 {
     "key":"dr_卫士",
     "name":"🅾️┣主力┫官方",
@@ -920,11 +903,7 @@
 }],
 
 "parses":[
-{
-    "name": "解析聚合",
-    "type": 3,
-    "url": "Demo"
-},
+
 {
     "name": "🌐琉芸★全能嗅探★",
     "type": 0,
