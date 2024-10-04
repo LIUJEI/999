@@ -16,7 +16,7 @@
     "name":"🎬┣豆瓣┫预告",
     "type":3,
     "api":"csp_XBPQ",
-    "playerType":2,
+    "ua": "okhttp/10.04",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/豆瓣预告.json"
 },
 {
@@ -28,12 +28,12 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/荐片.js"
 },
 {
-	"key": "hipy_js_subai",
-	"name": "🎆┣影视┫拜拜",
-	"type": 3,
-	"ua": "okhttp/10.04",
+    "key": "hipy_js_subai",
+    "name": "🎆┣影视┫拜拜",
+    "type": 3,
+    "ua": "okhttp/10.04",
     "api": "csp_XBPQ",
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/拜拜.js"
+    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/拜拜.js"
 },
 {
     "key": "热播影视",
@@ -376,6 +376,7 @@
     "name": "💮┣南坊┫影视",
     "type": 3,
 	"api": "csp_XBPQ",
+    "ua": "okhttp/10.04",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/南坊.json"
 },
 {
@@ -383,6 +384,7 @@
     "name": "💮┣七新┫影视",
     "type": 3,
     "api": "csp_XBPQ",
+    "ua": "okhttp/10.04",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/七新影视.json"
 },
 {
@@ -390,6 +392,7 @@
     "name": "💮┣茶杯┫聚合",
     "type": 3,
     "api": "csp_XBPQ",
+    "ua": "okhttp/10.04",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/茶杯.json"
 },
 {
@@ -397,7 +400,24 @@
     "name": "💮┣优优┫影视",
     "type": 3,
     "api": "csp_XBPQ",
+    "ua": "okhttp/10.04",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/UU影视.json"
+},
+{
+	"key": "XBPQ_98影视",
+	"name": "💮┣酒吧┫影视",
+	"type": 3,
+	"api": "csp_XBPQ",
+    "ua": "okhttp/10.04",
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/98影视.json"
+},
+{
+	"key": "XBPQ_黑狐",
+	"name": "💮┣黑狐┫影视",
+	"type": 3,
+	"api": "csp_XBPQ",
+    "ua": "okhttp/10.04",
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/黑狐影视.json"
 },
 {
     "key": "影视大全",
