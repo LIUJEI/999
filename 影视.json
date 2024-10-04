@@ -21,7 +21,7 @@
 },
 {
     "key": "hipy_js_tpian",
-    "name": "🎆┣影视┫荐片",
+    "name": "🌕┣影视┫荐片",
     "type": 3,
     "playerType": "1",
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
@@ -29,7 +29,7 @@
 },
 {
     "key": "hipy_js_subai",
-    "name": "🎆┣影视┫拜拜",
+    "name": "🌕┣影视┫拜拜",
     "type": 3,
     "ua": "okhttp/10.04",
     "api": "csp_XBPQ",
