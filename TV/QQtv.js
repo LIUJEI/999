@@ -116,7 +116,7 @@ var rule = {
         let zp = d.filter(function (it) {
             return !(it.type && it.type !== "正片")
         });
-        VOD.vod_play_from = yg.length < 1 ? "琉芸💜腾讯解析" : "琉芸💜$$$腾讯解析 预告及花絮";
+        VOD.vod_play_from = yg.length < 1 ? "琉芸💜腾讯解析" : "琉芸💜腾讯解析$$$ 预告及花絮";
         VOD.vod_play_url = yg.length < 1 ? d.map(function (it) {
             return it.title + "$" + it.url
         }).join("#") : [zp, yg].map(function (it) {
