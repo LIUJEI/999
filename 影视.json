@@ -39,7 +39,7 @@
     "key": "热播影视",
     "name": "🎆┣热播┫影视",
     "type": 3,
-    "api": "csp_AppTT"
+     "api": "csp_AppRB"
 },
 {
     "key": "全网影视",
@@ -154,11 +154,10 @@
     "api": "csp_Nangua"
 },
 {
-    "key":"圣城影视",
-    "name":"🎆┣圣城┫影视",
-    "type":3,
-    "api":"csp_SC1080",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/ou.jar"
+    "key": "厂长资源",
+    "name": "🎆┣厂长┫资源",
+    "type": 3,
+    "api": "csp_Czzy"
 },
 {
     "key": "欢视",
@@ -202,15 +201,6 @@
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
 },
 {
-    "key": "厂长",
-    "name": "♨️┣厂长┫不卡",
-    "type": 3,
-    "api": "csp_NewCz",
-    "timeout": 15,
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90",
-    "ext": "https://www.czzy77.com/"
-},
-{
     "key": "ygys",
     "name": "♨️┣菠菜┫影视",
     "type": 3,
@@ -231,13 +221,6 @@
     "name": "♨️┣金牌┫影视",
     "type": 3,
     "api": "csp_Jpyy",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
-},
-{
-    "key": "csp_subaobai",
-    "name": "♨️┣素白┫影视",
-    "type": 3,
-    "api": "csp_SuBaiBai",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
@@ -262,14 +245,48 @@
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
-    "key": "nk",
-    "name": "♨️┣耐看┫影视",
+    "key": "木叶",
+    "name": "木叶┃App",
     "type": 3,
-    "api": "csp_WebNK",
-    "jar": "http://150.158.112.123/jar/xc.zip",
-    "searchable": 0,
-    "changeable": 0,
-    "ext": "KhY021WelCEl+6MsvwnzaPussky1Dh0d+WXb80vqSfdVqJTIDGrV0xPZiB/0I8O9mrMKS+cdzxqKP83dFJJyyyb8D0J0ZVtM/ds4xb/4dA=="
+    "api": "csp_Muye",
+    "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4",
+    "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
+},
+{
+    "key": "柠檬",
+    "name": "柠檬┃App",
+    "type": 3,
+    "api": "csp_Nmvod",
+    "playerType": 1,
+    "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
+    "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
+},
+{
+    "key": "AI4",
+    "name": "AI4┃APP",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "playerType": 1,
+    "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q=",
+    "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
+},
+{
+    "key": "蚂蚁",
+    "name": "蚂蚁┃App",
+    "type": 3,
+    "api": "csp_Mayiys",
+    "playerType": 1,
+    "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0",
+    "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
+},
+{
+    "key": "时常",
+    "name": "时常┃APP",
+    "type": 3,
+    "api": "csp_qiao3",
+    "playerType": 1,
+    "ext": "caHR0cDovL2FwcC5henlqLnByb3xkYzMyNTA2ZDliNWNiZjhlfGRjMzI1MDZkOWI1Y2JmOGU=",
+    "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
 },
 {
     "key":"dr_卫士",
@@ -903,7 +920,11 @@
 }],
 
 "parses":[
-
+{
+    "name": "解析聚合",
+    "type": 3,
+    "url": "Demo"
+},
 {
     "name": "🌐琉芸★全能嗅探★",
     "type": 0,
