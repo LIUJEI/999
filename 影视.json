@@ -903,16 +903,15 @@
 }],
 
 "parses":[
-
-{
-    "name": "🌐琉芸★推荐★",
-    "type": 0,
-    "url": "https://jx.xmflv.com/?url="
-},
 {
     "name": "🌐腾讯★巴拉★",
     "type": 1,
     "url": "https://jxjson.icu/neibu.php?url="
+},
+{
+    "name": "🌐琉芸★推荐★",
+    "type": 0,
+    "url": "https://jx.xmflv.com/?url="
 },
 {
     "name": "☪夜幕㊎",
