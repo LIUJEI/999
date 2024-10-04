@@ -282,7 +282,7 @@
     "key":"dr_腾迅",
     "name":"🐧┣腾讯┫官方",
     "type":3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/QQtv.js"
 },
 {
