@@ -23,7 +23,7 @@ var rule = {
     cate_exclude: '会员|游戏|全部',
     // class_name: '精选&电视剧&电影&综艺&动漫&少儿&纪录片',
     // class_url: 'choice&tv&movie&variety&cartoon&child&doco',
-    class_name: '琉芸💜首页&电视剧&电影&综艺&动漫&少儿&纪录片',
+    class_name: '琉芸💜精选&电视剧&电影&综艺&动漫&少儿&纪录片',
     class_url: 'choice&tv&movie&variety&cartoon&child&doco',
     limit: 20,
     // play_parse:true,
@@ -116,7 +116,7 @@ var rule = {
         let zp = d.filter(function (it) {
             return !(it.type && it.type !== "正片")
         });
-        VOD.vod_play_from = yg.length < 1 ? "琉芸腾讯💜解析" : "琉芸$$$腾讯💜解析 预告及花絮";
+        VOD.vod_play_from = yg.length < 1 ? "琉芸💜腾讯解析" : "琉芸💜$$$腾讯解析 预告及花絮";
         VOD.vod_play_url = yg.length < 1 ? d.map(function (it) {
             return it.title + "$" + it.url
         }).join("#") : [zp, yg].map(function (it) {
