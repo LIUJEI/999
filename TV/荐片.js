@@ -57,7 +57,7 @@ var rule = {
             d.push({
                 title: it.title,
                 img: it.path,
-                desc: it.playlist.title + ' ⭐' + it.score,
+                desc: it.playlist.title + '✨琉芸蓝光✨' + it.score,
                 url: it.id
             })
         });
