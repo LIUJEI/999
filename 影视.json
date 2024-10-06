@@ -203,14 +203,6 @@
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
 },
 {
-    "key": "ygys",
-    "name": "♨️┣菠菜┫影视",
-    "type": 3,
-    "api": "csp_Pptv",
-    "ext": "https://yigeg.pro",
-    "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-},
-{
     "key": "free",
     "name": "♨️┣FREE┫独家",
     "type": 3,
@@ -232,7 +224,7 @@
     "type": 3,
     "api": "csp_Tvyb",
     "ua":  "okhttp/10.04",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/0927fan.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
     "key": "csp_qyys",
@@ -240,7 +232,7 @@
     "type": 3,
     "api": "csp_Qiyou",
     "ua":  "okhttp/10.04",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/0927fan.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
     "key": "csp_shys",
@@ -248,8 +240,21 @@
     "type": 3,
     "api": "csp_SaoHuo",
     "ua":  "okhttp/10.04",
-    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/0927fan.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
+{
+    "key": "GUAZI",
+    "name": "♨️┣瓜子┫视频",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1, 
+	"api": "http://www.mpanso.com/appys.js",
+    "ext": {
+    "host": "http://110.42.37.106:7788/api.php/app/",
+    "*": ["http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=", ""]},
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/0927fan.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
+},
+
 {
     "key": "csp_木叶",
     "name": "♨️┣木叶┫App",
