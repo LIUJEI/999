@@ -178,14 +178,6 @@
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/0927fan.txt"
 },
 {
-    "key": "mmys",
-    "name": "♨️┣萌米┫影视",
-    "type": 3,
-    "api": "csp_AppTT",
-    "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/0927fan.txt"
-},
-{
     "key": "Lib",
     "name": "♨️┣立播┫秒播",
     "type": 3,
@@ -193,14 +185,6 @@
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/0927fan.txt",
     "ua": "okhttp/10.04",
     "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}
-},
-{
-    "key": "糯米",
-    "name": "♨️┣糯米┫秒播",
-    "type": 3,
-    "api": "csp_Nmyswv",
-    "ua": "okhttp/10.04",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/0927fan.txt"
 },
 {
     "key": "free",
