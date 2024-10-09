@@ -30,7 +30,7 @@
 },
 {
     "key": "瓜子app",
-    "name": "♨️瓜子®APP",
+    "name": "🆚┣瓜子┫視蘋",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.04",
@@ -38,7 +38,7 @@
 },
 {
     "key": "金牌",
-    "name": "🚛金牌┃秒播",
+    "name": "🆚┣金牌┃秒播",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.05",
@@ -46,7 +46,7 @@
 },
 {
     "key": "闪雷影院",
-    "name": "🚛闪电┃秒播",
+    "name": "🆚┣闪电┫影视",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.06",
@@ -54,7 +54,7 @@
 },
 {
     "key": "素白秒播",
-    "name": "🚛素白┃秒播",
+    "name": "🆚┣素白┫影视",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.07",
@@ -93,15 +93,7 @@
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/西瓜影院.js"
 },
 {
-    "key": "hipy_js_白嫖者联盟",
-    "name": "🆚┣白嫖┫联盟",
-    "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.12",
-    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/白嫖者联盟.js"
-},
-{
-    "key": "星芽短剧",
+    "key": "hipy_js_星芽短剧",
     "name": "♨️星芽®短剧",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
@@ -109,7 +101,7 @@
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/xingya.js"
 },
 {
-    "key": "蓝莓短剧",
+    "key": "hipy_js_蓝莓短剧",
     "name": "♨️蓝莓®短剧",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
