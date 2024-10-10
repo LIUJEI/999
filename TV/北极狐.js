@@ -268,8 +268,8 @@ var rule = {
 						playList.push(val.url);
 					}
 				})
-				VOD.vod_play_from = playFrom.join('$$$');
-				VOD.vod_play_url = playList.join('$$$');
+				VOD.vod_play_from = playFrom.join('琉芸$$$');
+				VOD.vod_play_url = playList.join('琉芸$$$');
 			} else {
 				VOD.vod_play_from = node.vod_play_from;
 				VOD.vod_play_url = node.vod_play_url;
