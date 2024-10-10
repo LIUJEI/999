@@ -16,7 +16,7 @@ var rule = {
     quickSearch: 1,
     filterable: 1,
 
-    class_name: '逆袭(1组)&都市(2组)&神医(3组)&脑洞(4组)',
+    class_name: '逆袭(✨)&都市(✨)&神医(✨)&脑洞(✨)',
     class_url: '1&20&25&30',
     filter_def: {
         1: {cateId: '1'},
@@ -50,7 +50,7 @@ parse: 0, url: kurl, header: {"User-Agent": 'MOBILE_UA', "Referer":"https://duan
 //线路数组
         "tabs": ".nav-tabs:has(li)&&a",
 //线路标题
-        "tab_text": "琉芸+body&&Text",
+        "tab_text": "body琉芸+&&Text",
 //播放数组 选集列表
         "lists": ".myui-content__list:eq(#id)&&a",
 //选集标题
