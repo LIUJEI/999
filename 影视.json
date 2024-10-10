@@ -24,7 +24,7 @@
     "key": "hipy_js_tpian",
     "name": "濺片影視",
     "type": 3,
-    "api": "./TV/dy2.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.03",
     "ext": "./TV/荐片.js"
 },
