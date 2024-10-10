@@ -606,6 +606,28 @@
 {"key": "河狸","name": "🏧┣河狸┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.heli888.cc/api.php/app/"},
 {"key": "自营","name": "🏧┣自营┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://mas.szyyds.cn/api.php/app/"},
 {
+    "key": "无忧短剧",
+    "name": "📛┣无忧┫短剧",
+    "type": 3,
+    "api": "csp_Duanj",
+    "searchable": 1,
+    "changeable": 0,
+    "style": {
+        "type": "rect",
+        "ratio": 1.433}
+},
+{
+    "key": "在线短剧",
+    "name": "📛┣在线┫短剧",
+    "type": 3,
+    "api": "csp_Duanju",
+    "searchable": 1,
+    "changeable": 0,
+    "style": {
+        "type": "rect",
+        "ratio": 1.433}
+},
+{
     "key": "星芽短剧",
     "name": "📛┣星芽┫APP",
     "type": 3,
@@ -616,21 +638,21 @@
     "name": "📛┣天堂┫短剧",
     "type": 3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-    "ext": "./Lib/短剧天堂.js"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/短剧天堂.js"
 },
 {
     "key": "csp_XYQHiker_爱你短剧",
     "name":"📛┣爱你┫短剧",
     "type":3,
     "api":"csp_XYQHiker",
-    "ext":"./Lib/爱你短剧.json"
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/爱你短剧.json"
 },
 {
     "key": "csp_XYQHiker_河马短剧",
     "name":"📛┣河马┫短剧",
     "type":3,
     "api":"csp_XYQHiker",
-    "ext":"./Lib/河马短剧.json"
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/河马短剧.json"
 },
 {
     "key": "短剧屋",
@@ -640,7 +662,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "./Lib/短剧屋.json"
+    "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/短剧屋.json"
 },
 {
     "key":"短剧吧",
@@ -715,22 +737,22 @@
     "key": "hipy_js_网易影像",
     "name": "🖥网易┃影像",
     "type": 3,
-    "api": "./TV/dy2.js",
-    "ext": "./TV/网易影像.js"
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/网易影像.js"
 },
 {
   "key": "hipy_js_diany",
   "name": "🖥电影┃合集",
   "type": 3,
   "api": "http://zb.hys.cool/app/lib/16万hys.js",
-  "ext": "./TV/电影合集.js"
+  "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/电影合集.js"
 },
 {
   "key": "hipy_js_gequ",
   "name": "🎸歌曲┃合集",
   "type": 3,
   "api": "http://zb.hys.cool/app/lib/16万hys.js",
-  "ext": "./TV/mv.js"
+  "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/mv.js"
 }, 
 {
     "key":"music",
@@ -754,7 +776,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "ext": "./Lib/Bili短剧.json",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili短剧.json",
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
 },
 {
@@ -769,7 +791,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "ext": "./Lib/Bili音乐.json",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili音乐.json",
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
 },
 {
