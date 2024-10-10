@@ -101,11 +101,11 @@
     "ext": "./TV/Ngua.js"
 },
 {
-	"key": "hipy_js_fxzcz2",
-	"name": "厰長影視",
-	"type": 3,
+    "key": "hipy_js_fxzcz2",
+    "name": "厰長影視",
+    "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-	"ext": "./TV/changzhang.js"
+    "ext": "./TV/changzhang.js"
 },
 {
     "key":"dr_卫士",
@@ -119,7 +119,7 @@
     "key":"dr_腾迅",
     "name":"騰訊官方",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua": "okhttp/10.04",
     "ext": "./TV/QQtv.js"
 },
