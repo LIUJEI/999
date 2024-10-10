@@ -68,7 +68,7 @@ var rule = {
             vod_name: data.title,
             vod_pic: data.cover_url,
             vod_remarks: data.total + "集",
-            vod_play_from: 'XT短剧',
+            vod_play_from: '琉芸短剧',
             vod_play_url: urls.join('#')
         };
     }),
