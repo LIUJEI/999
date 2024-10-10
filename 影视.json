@@ -418,12 +418,6 @@
     "api": "csp_Kanke"
 },
 {
-    "key": "瓜子｜影视",
-    "name": "🎆┣瓜子┫影视",
-    "type": 3,
-    "api": "csp_Gz360"
-},
-{
     "key": "饺子影视",
     "name": "🎆┣饺子┫影视",
     "type": 3,
@@ -434,12 +428,6 @@
     "name": "🎆┣苹果┫影视",
     "type": 3,
     "api": "csp_Xpg"
-},
-{
-    "key": "兄弟影视",
-    "name": "🎆┣兄弟┫影视",
-    "type": 3,
-    "api": "csp_Xdys"
 },
 {
     "key": "韩小圈",
@@ -459,18 +447,6 @@
     "type":3,
     "api":"csp_WebVidHub",
     "ext":"https://vidhub1.cc"
-},
-{
-    "key": "南瓜影视",
-    "name": "🎆┣南瓜┫APP",
-    "type": 3,
-    "api": "csp_Nangua"
-},
-{
-    "key": "厂长资源",
-    "name": "🎆┣厂长┫资源",
-    "type": 3,
-    "api": "csp_Czzy"
 },
 {
     "key": "欢视",
@@ -505,14 +481,6 @@
     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727398313929/0927.txt"
 },
 {
-    "key": "huohuo",
-    "name": "♨️┣骚火┫影视",
-    "type": 3,
-    "api": "csp_SaoHuo",
-    "ua":  "okhttp/10.04",
-    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727398313929/0927.txt"
-},
-{
     "key": "csp_木叶",
     "name": "♨️┣木叶┫App",
     "type": 3,
@@ -538,19 +506,18 @@
     "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0",
     "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
 },
-
- {
-      "key": "T4-黑狐",
-      "name": "黑虎",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/heihu.php"
-    },
-    {
-      "key": "T4-南瓜",
-      "name": "💕分享懒瓜",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/nangua.php"
-    },
+{
+    "key": "T4-黑狐",
+    "name": "黑虎T4",
+    "type": 4,
+    "api": "https://catbox.n13.club/t4/heihu.php"
+},
+{
+    "key": "T4-南瓜",
+    "name": "南瓜T4",
+    "type": 4,
+    "api": "https://catbox.n13.club/t4/nangua.php"
+},
  
 {
   "key": "360资源",
