@@ -22,31 +22,31 @@
 },
 {
     "key": "hipy_js_tpian",
-    "name": "🌕┣影视┫荐片",
+    "name": "濺片影視",
     "type": 3,
     "api": "./TV/dy2.js",
     "ua":  "okhttp/10.03",
     "ext": "./TV/荐片.js"
 },
 {
-    "key": "瓜子app",
-    "name": "🆚┣瓜子┫視蘋",
-    "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.04",
-    "ext": "./TV/guazi.js"
-},
-{
     "key": "金牌",
-    "name": "🆚┣金牌┃秒播",
+    "name": "金牌影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.05",
     "ext": "./TV/jpys.js"
 },
 {
+    "key": "瓜子app",
+    "name": "瓜子影視",
+    "type": 3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ua":  "okhttp/10.04",
+    "ext": "./TV/guazi.js"
+},
+{
     "key": "闪雷影院",
-    "name": "🆚┣闪电┫影视",
+    "name": "閃電影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.06",
@@ -54,7 +54,7 @@
 },
 {
     "key": "素白秒播",
-    "name": "🆚┣素白┫影视",
+    "name": "屬白影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.07",
@@ -62,7 +62,7 @@
 },
 {
     "key": "hipy_js_fxztg",
-    "name": "🆚┣糖果┫影视",
+    "name": "糖果影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.08",
@@ -70,7 +70,7 @@
 },
 {
     "key":"drpy_js_北极狐[V2]",
-    "name":"🆚┣极狐┫影院",
+    "name":"機狐影視",
     "type":3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.09",
@@ -78,7 +78,7 @@
 },			
 {
    "key": "hipy_js_一起看",
-   "name": "🆚┣起看┫影视",
+   "name": "壹起看影視",
    "type": 3,
    "api": "https://weixine.net/js/lib/drpy2.min.js",
    "ua":  "okhttp/10.10",
@@ -86,7 +86,7 @@
 },
 {
     "key": "hipy_js_西瓜影院",
-    "name": "🆚┣西瓜┫影院",
+    "name": "西瓜影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.11",
@@ -94,7 +94,7 @@
 },
  {
     "key": "南瓜2",
-    "name": "🆚┣南瓜┫視蘋",
+    "name": "南瓜影視",
     "type": 3,
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/drpy/drpy2.min.js",
     "ua":  "okhttp/10.11",
@@ -102,7 +102,7 @@
 },
 {
 	"key": "hipy_js_fxzcz2",
-	"name": "厰長",
+	"name": "厰長影視",
 	"type": 3,
     "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
 	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享changzhang.js"
