@@ -314,6 +314,13 @@
     "ext": "./Lib/兄弟.json"
 },
 {
+    "key": "csp_xp_vip",
+    "name": "柒夜雪影視",
+    "type": 3,
+    "api": "csp_XPath",
+    "ext": "./Lib/柒夜雪.json"
+},
+{
     "key": "七味影视",
     "name": "柒味影視",
     "type": 3,
