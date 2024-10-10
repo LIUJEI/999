@@ -1,5 +1,5 @@
 {
-    "作者": "一个分享者",
+    "作者": "",
     "站名": "好影快看",
     "主页url": "https://www.hitv.app/",
     "导演": "导演：&&</div>",
@@ -14,7 +14,7 @@
     "搜索图片": "data-original=\"&&\"",
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>",
-    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+    "线路标题": "琉芸藍光+<span>&&</small>[替换:</span><small>>>共]+集",
     "分类url": "https://www.hitv.app/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$2#动漫$4#综艺$3#儿童$58"
 }
