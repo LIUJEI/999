@@ -269,7 +269,7 @@ var rule = {
 					}
 				})
 				VOD.vod_play_from = playFrom.join('琉芸$$$');
-				VOD.vod_play_url = playList.join('琉芸$$$');
+				VOD.vod_play_url = playList.join('$$$');
 			} else {
 				VOD.vod_play_from = node.vod_play_from;
 				VOD.vod_play_url = node.vod_play_url;
