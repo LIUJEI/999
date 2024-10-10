@@ -173,14 +173,14 @@
 },
 {
 	"key": " fxzyg ",
-	"name": "一个G",
+	"name": "壹個影視",
 	"type": 3,
 	"api": "csp_XBPQ",
-	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/XBPQ/分享yg.json"
+	"ext": "./Lib/一个G.json"
 },
 {
     "key": "XBPQ_南坊",
-    "name": "💮┣南坊┫影视",
+    "name": "南坊影視",
     "type": 3,
     "api": "csp_XBPQ",
     "ua":  "okhttp/10.04",
@@ -188,7 +188,7 @@
 },
 {
     "key": "Qxys",
-    "name": "💮┣七新┫影视",
+    "name": "柒鑫",
     "type": 3,
     "api": "csp_XBPQ",
     "ua":  "okhttp/10.04",
@@ -196,7 +196,7 @@
 },
 {
     "key": "csp_XBPQ_茶杯狐",
-    "name": "💮┣茶杯┫聚合",
+    "name": "茶杯聚合",
     "type": 3,
     "api": "csp_XBPQ",
     "ua":  "okhttp/10.04",
@@ -204,7 +204,7 @@
 },
 {
     "key": "✨YY影视✨",
-    "name": "💮┣优优┫影视",
+    "name": "優優影視",
     "type": 3,
     "api": "csp_XBPQ",
     "ua":  "okhttp/10.04",
@@ -212,7 +212,7 @@
 },
 {
     "key": "XBPQ_98影视",
-    "name": "💮┣酒吧┫影视",
+    "name": "玖捌",
     "type": 3,
     "api": "csp_XBPQ",
     "ua":  "okhttp/10.04",
@@ -220,7 +220,7 @@
 },
 {
     "key": "XBPQ_黑狐",
-    "name": "💮┣黑狐┫影视",
+    "name": "黑狐影視",
     "type": 3,
     "api": "csp_XBPQ",
     "ua":  "okhttp/10.04",
