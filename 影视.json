@@ -82,7 +82,7 @@
    "type": 3,
    "api": "https://weixine.net/js/lib/drpy2.min.js",
    "ua":  "okhttp/10.10",
-   "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/一起看.js"
+   "ext": "./TV/一起看.js"
 },
 {
     "key": "hipy_js_西瓜影院",
@@ -90,7 +90,7 @@
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.11",
-    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/西瓜影院.js"
+    "ext": "./TV/西瓜影院.js"
 },
  {
     "key": "南瓜2",
@@ -98,7 +98,7 @@
     "type": 3,
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/drpy/drpy2.min.js",
     "ua":  "okhttp/10.11",
-    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/Ngua.js"
+    "ext": "./TV//Ngua.js"
 },
 {
 	"key": "hipy_js_fxzcz2",
