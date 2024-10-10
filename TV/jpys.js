@@ -62,6 +62,18 @@ var rule = {
     tabs: '.top a',
     lists: '.main-list-sections__BodyArea-sc-8bb7334b-2 .listitem a',
   },
+   VOD = {
+            title: data2.vod_name,
+            type: data2.videoTag.toString(),
+            desc: data2.vod_use_content,
+            vod_actor: data2.vod_actor,
+            vod_area: data2.vod_area,
+            vod_director: data2.vod_director,
+            img: data2.vod_pic,
+            vod_play_from: '琉芸专享',
+            vod_play_url: nnnmm.join('#')
+        },
+
   搜索: $js.toString(()=>{
     const t = new Date().getTime()
      eval(getCryptoJS)
