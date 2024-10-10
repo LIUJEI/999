@@ -9,7 +9,6 @@
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
     "api": "./TV/dy2.js",
-    "ua":  "okhttp/10.01",
     "ext": "./TV/douban.js"
 },
 {
@@ -17,7 +16,6 @@
     "name":"🎬┣豆瓣┫预告",
     "type": 3,
     "api": "csp_YGP",
-    "ua":  "okhttp/10.02",
     "searchable": 0
 },
 {
@@ -25,7 +23,6 @@
     "name": "濺片影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.03",
     "ext": "./TV/荐片.js"
 },
 {
@@ -33,7 +30,6 @@
     "name": "金牌影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.05",
     "ext": "./TV/jpys.js"
 },
 {
@@ -41,7 +37,6 @@
     "name": "瓜子影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.04",
     "ext": "./TV/guazi.js"
 },
 {
@@ -49,7 +44,6 @@
     "name": "閃電影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.06",
     "ext": "./TV/shanlei.js"
 },
 {
@@ -57,7 +51,6 @@
     "name": "屬白影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.07",
     "ext": "./TV/subaibai.js"
 },
 {
@@ -65,7 +58,6 @@
     "name": "糖果影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.08",
     "ext": "./TV/糖果.js"
 },
 {
@@ -73,7 +65,6 @@
     "name":"機狐影視",
     "type":3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.09",
     "ext": "./TV/北极狐.js"
 },			
 {
@@ -81,7 +72,6 @@
    "name": "壹起看影視",
    "type": 3,
    "api": "https://weixine.net/js/lib/drpy2.min.js",
-   "ua":  "okhttp/10.10",
    "ext": "./TV/一起看.js"
 },
 {
@@ -89,7 +79,6 @@
     "name": "西瓜影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.11",
     "ext": "./TV/西瓜影院.js"
 },
  {
@@ -97,7 +86,6 @@
     "name": "南瓜影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.11",
     "ext": "./TV/Ngua.js"
 },
 {
@@ -112,7 +100,6 @@
     "name":"叁陸官方",
     "type":3,
     "api": "./TV/dy2.js",
-    "ua": "okhttp/10.04",
     "ext": "./TV/360.js"
 },
 {
@@ -120,7 +107,6 @@
     "name":"騰訊官方",
     "type":3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua": "okhttp/10.04",
     "ext": "./TV/QQtv.js"
 },
 {
@@ -128,7 +114,6 @@
     "name":"芒果官方",
     "type":3,
     "api": "./TV/dy2.js",
-    "ua": "okhttp/10.04",
     "ext":"./TV/MGtv.js"
 },
 {
@@ -136,7 +121,6 @@
     "name":"奇藝官方",
     "type":3,
     "api": "./TV/dy2.js",
-    "ua": "okhttp/10.04",
     "ext":"./TV/AQItv.js"
 },
 {
@@ -144,7 +128,6 @@
     "name":"搜狗官方",
     "type":3,
     "api": "./TV/dy2.js",
-    "ua": "okhttp/10.04",
     "ext":"./TV/SGtv.js"
 },
 {
@@ -152,7 +135,6 @@
     "name":"優酷官方",
     "type":3,
     "api": "./TV/dy2.js",
-    "ua":  "okhttp/10.04",
     "ext": "./TV/yKtv.js"
 },
 {
@@ -160,7 +142,6 @@
     "name": "星芽短劇",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.13",
     "ext": "./TV/xingya.js"
 },
 {
@@ -168,14 +149,12 @@
     "name": "藍莓短劇",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.14",
     "ext": "./TV/lanmei.js"
 },
 {
     "key": " fxzyg ",
     "name": "壹個影視",
     "type": 3,
-    "api": "csp_XBPQ",
     "ext": "./Lib/一个G.json"
 },
 {
@@ -183,7 +162,6 @@
     "name": "南坊影視",
     "type": 3,
     "api": "csp_XBPQ",
-    "ua":  "okhttp/10.04",
     "ext": "./Lib/南坊.json"
 },
 {
@@ -191,7 +169,6 @@
     "name": "柒鑫影視",
     "type": 3,
     "api": "csp_XBPQ",
-    "ua":  "okhttp/10.04",
     "ext": "./Lib/七新影视.json"
 },
 {
@@ -199,7 +176,6 @@
     "name": "茶杯聚合",
     "type": 3,
     "api": "csp_XBPQ",
-    "ua":  "okhttp/10.04",
     "ext": "./Lib/茶杯.json"
 },
 {
@@ -207,7 +183,6 @@
     "name": "優優影視",
     "type": 3,
     "api": "csp_XBPQ",
-    "ua":  "okhttp/10.04",
     "ext": "./Lib/UU影视.json"
 },
 {
@@ -215,7 +190,6 @@
     "name": "玖捌影視",
     "type": 3,
     "api": "csp_XBPQ",
-    "ua":  "okhttp/10.04",
     "ext": "./Lib/98影视.json"
 },
 {
@@ -223,7 +197,6 @@
     "name": "黑狐影視",
     "type": 3,
     "api": "csp_XBPQ",
-    "ua":  "okhttp/10.04",
     "ext": "./Lib/黑狐影视.json"
 },
 {
@@ -265,8 +238,7 @@
     "key": "影视大全",
     "name": "影視大全",
     "type": 3,
-    "ua": "okhttp/10.04",
-    "api": "csp_XBPQ",
+    "api":"csp_XBPQ",
     "ext": "./Lib/影视大全.json"
 },
 {
@@ -280,7 +252,6 @@
     "key": "小鸭影音",
     "name": "小鴨影音",
     "type": 3,
-    "ua": "okhttp/10.04",
     "api": "csp_XBPQ",
     "ext": "./Lib/小鸭影音.json"
 },
@@ -460,7 +431,6 @@
     "name": "♨️┣小米┫影视",
     "type": 3,
     "api": "csp_Jpyy",
-    "ua":  "okhttp/10.04",
     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727398313929/0927.txt"
 },
 {
@@ -468,7 +438,6 @@
     "name": "♨️┣云播┫影视",
     "type": 3,
     "api": "csp_Tvyb",
-    "ua":  "okhttp/10.04",
    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727398313929/0927.txt"
 },
 {
@@ -476,7 +445,6 @@
     "name": "♨️┣奇优┫影视",
     "type": 3,
     "api": "csp_Qiyou",
-    "ua":  "okhttp/10.04",
     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727398313929/0927.txt"
 },
 {
@@ -492,7 +460,6 @@
     "name": "♨️┣柠檬┫App",
     "type": 3,
     "api": "csp_Nmvod",
-    "ua":  "okhttp/10.04",
     "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
     "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
 },
@@ -501,7 +468,6 @@
     "name": "♨️┣蚂蚁┫App",
     "type": 3,
     "api": "csp_Mayiys",
-    "ua":  "okhttp/10.04",
     "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0",
     "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
 },
