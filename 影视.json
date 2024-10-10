@@ -8,9 +8,9 @@
     "key": "js-豆瓣",
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/drpy/drpy2.min.js",
+    "api": "./TV/dy2.js",
     "ua":  "okhttp/10.01",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/douban.js"
+    "ext": "./TV/douban.js"
 },
 {
     "key":"csp_豆瓣",
@@ -20,33 +20,21 @@
     "ua":  "okhttp/10.02",
     "searchable": 0
 },
- {
-      "key": "T4-黑狐",
-      "name": "黑虎",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/heihu.php"
-    },
-    {
-      "key": "T4-南瓜",
-      "name": "💕分享懒瓜",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/nangua.php"
-    },
 {
     "key": "hipy_js_tpian",
     "name": "🌕┣影视┫荐片",
     "type": 3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "api": "./TV/dy2.js",
     "ua":  "okhttp/10.03",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/荐片.js"
+    "ext": "./TV/荐片.js"
 },
 {
     "key": "瓜子app",
     "name": "🆚┣瓜子┫視蘋",
     "type": 3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/drpy/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.04",
-    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/guazi.js"
+    "ext": "./TV/guazi.js"
 },
 {
     "key": "金牌",
@@ -54,7 +42,7 @@
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.05",
-    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/jpys.js"
+    "ext": "./TV/jpys.js"
 },
 {
     "key": "闪雷影院",
@@ -62,7 +50,7 @@
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.06",
-    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/shanlei.js"
+    "ext": "./TV/shanlei.js"
 },
 {
     "key": "素白秒播",
@@ -70,7 +58,7 @@
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.07",
-    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/subaibai.js"
+    "ext": "./TV/subaibai.js"
 },
 {
     "key": "hipy_js_fxztg",
@@ -78,7 +66,7 @@
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.08",
-    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/分享糖果.js"
+    "ext": "./TV/糖果.js"
 },
 {
     "key":"drpy_js_北极狐[V2]",
@@ -86,7 +74,7 @@
     "type":3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ua":  "okhttp/10.09",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/北极狐.js"
+    "ext": "./TV/北极狐.js"
 },			
 {
    "key": "hipy_js_一起看",
@@ -119,7 +107,54 @@
     "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
 	"ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享changzhang.js"
 },
-
+{
+    "key":"dr_卫士",
+    "name":"🅾️┣主力┫官方",
+    "type":3,
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ua": "okhttp/10.04",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/360.js"
+},
+{
+    "key":"dr_腾迅",
+    "name":"🐧┣腾讯┫官方",
+    "type":3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ua": "okhttp/10.04",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/QQtv.js"
+},
+{
+    "key":"dr_芒果",
+    "name":"🥭┣芒果┫官方",
+    "type":3,
+    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ua": "okhttp/10.04",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/MGtv.js"
+},
+{
+    "key":"dr_奇异",
+    "name":"🥝┣奇艺┫官方",
+    "type":3,
+    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ua": "okhttp/10.04",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/AQItv.js"
+},
+{
+    "key":"dr_搜狗",
+    "name":"🦊┣搜狗┫官方",
+    "type":3,
+    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ua": "okhttp/10.04",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/SGtv.js"
+},
+{
+    "key":"dr_优酷",
+    "name":"🏠┣优酷┫官方",
+    "type":3,
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ua":  "okhttp/10.04",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
+},
 {
     "key": "hipy_js_星芽短剧",
     "name": "♨️星芽®短剧",
@@ -346,54 +381,19 @@
     "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0",
     "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
 },
-{
-    "key":"dr_卫士",
-    "name":"🅾️┣主力┫官方",
-    "type":3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-    "ua": "okhttp/10.04",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/360.js"
-},
-{
-    "key":"dr_腾迅",
-    "name":"🐧┣腾讯┫官方",
-    "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ua": "okhttp/10.04",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/QQtv.js"
-},
-{
-    "key":"dr_芒果",
-    "name":"🥭┣芒果┫官方",
-    "type":3,
-    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-    "ua": "okhttp/10.04",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/MGtv.js"
-},
-{
-    "key":"dr_奇异",
-    "name":"🥝┣奇艺┫官方",
-    "type":3,
-    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-    "ua": "okhttp/10.04",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/AQItv.js"
-},
-{
-    "key":"dr_搜狗",
-    "name":"🦊┣搜狗┫官方",
-    "type":3,
-    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-    "ua": "okhttp/10.04",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/SGtv.js"
-},
-{
-    "key":"dr_优酷",
-    "name":"🏠┣优酷┫官方",
-    "type":3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-    "ua":  "okhttp/10.04",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
-},
+
+ {
+      "key": "T4-黑狐",
+      "name": "黑虎",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/heihu.php"
+    },
+    {
+      "key": "T4-南瓜",
+      "name": "💕分享懒瓜",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/nangua.php"
+    },
  {
 	  "key": " fxzyg ",
 	  "name": "一个G",
