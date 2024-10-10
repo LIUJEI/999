@@ -271,9 +271,8 @@ var rule = {
 				VOD.vod_play_from = playFrom.join('$$$');
 				VOD.vod_play_url = playList.join('$$$');
 			} else {
-				VOD.vod_play_from: '琉芸蓝光',
-                VOD.vod_play_url: urls.join('#')
-
+				VOD.vod_play_from = node.vod_play_from;
+				VOD.vod_play_url = node.vod_play_url;
 			}
 		} catch (e) {
 			log("获取二级详情页发生错误:" + e.message);
