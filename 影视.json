@@ -856,19 +856,14 @@
     "url": "Demo"
 },
 {
-    "name": "★起点解析★",
-    "type": 1,
-    "url": "https://json.o0a.cn/api/?key=4d3de1fb4708d88282125859639cfe96&url="
+    "name": "★琉芸推荐★",
+    "type": 0,
+    "url": "https://jx.xmflv.com/?url="
 },
 {
     "name": "★巴拉解析★",
     "type": 1,
     "url": "https://jxjson.icu/neibu.php?url="
-},
-{
-    "name": "★琉芸推荐★",
-    "type": 0,
-    "url": "https://jx.xmflv.com/?url="
 },
 {
     "name": "☪夜幕㊎",
@@ -906,10 +901,17 @@
     "url":"https://jx.aidouer.net/?url="
 },
 {
+    "name": "☪起点㊣",
+    "type": 1,
+    "url": "https://json.o0a.cn/api/?key=4d3de1fb4708d88282125859639cfe96&url="
+},
+{
     "name": "🏁琉芸★全能嗅探★",
     "type": 0,
     "url": "https://www.8090g.cn/jiexi/?url="
 }],
+
+
 
 "flags":["youku","优酷","优 酷","优酷视频", "qq","腾讯","腾 讯","腾讯视频", "iqiyi", "qiyi","奇艺","爱奇艺","爱 奇 艺", "m1905", "xigua", "letv","leshi","乐视","乐 视", "sohu","搜狐","搜 狐","搜狐视频", "tudou","mgtv","芒果","imgo","芒果TV","芒 果 T V", "bilibili","哔 哩","哔 哩 哔 哩","SPA","YuMi-vip","pptv","PPTV","ltnb","rx","SLYS4k","tucheng","BYGA","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","renrenmi","ppayun","haiwaikan","cool","dbm3u8","xmm","funshion","ruyi1080","ruyib1080"],
 "doh":[
