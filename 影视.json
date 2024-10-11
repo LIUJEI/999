@@ -391,14 +391,6 @@
     "api": "csp_HanXiaoQuan"
 },
 {
-    "key": "欢视",
-    "name": "🎆┣欢视┫多线",
-    "type": 3,
-    "api": "csp_AppTT",
-    "ext": "AO7TcBkd8IPB+BwH4Qma+opv",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/0927fan.txt"
-},
-{
     "key":"PTT影视",
     "name":"🎆┣PTT┫影视",
     "type":3,
@@ -413,6 +405,14 @@
     "type": 3,
     "api": "csp_Jpyy",
     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728350715516/1008.jar"
+},
+{
+    "key": "nk",
+    "name": "🎆┣耐看┫App",
+    "type": 3,
+    "api": "csp_WebNK",
+    "jar": "",
+    "ext": "KhY021WelCEl+6MsvwnzaPussky1Dh0d+WXb80vqSfdVqJTIDGrV0xPZiB/0I8O9mrMKS+cdzxqKP83dFJJyyyb8D0J0ZVtM/ds4xb/4dA=="
 },
 {
     "key": "csp_木叶",
