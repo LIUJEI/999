@@ -1,5 +1,5 @@
 var rule = {
-    author: '/241012/第一版',
+    author: '/241012/',
     title: '短剧天堂',
     host: 'https://duanjutt.tv',
     hostJs: '',
