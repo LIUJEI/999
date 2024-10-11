@@ -48,6 +48,13 @@
     "ext": "./TV/subaibai.js"
 },
 {
+    "key": "xcys",
+    "name": "♨️星辰影視",
+    "type": 3,
+    "api": "http://www.meowtv.cn/js/drpy2.min.js",
+    "ext": "./TV/星辰.js"
+},
+{
     "key":"drpy_js_北极狐[V2]",
     "name":"♨️機狐影視",
     "type":3,
@@ -156,6 +163,20 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/七新影视.json"
+},
+{
+    "key": "tvys",
+    "name": "♨️蕓播影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/TVB云播.json"
+},
+{
+    "key": "sxys",
+    "name": "♨️師兄影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/师兄.json"
 },
 {
     "key": "csp_XBPQ_茶杯狐",
