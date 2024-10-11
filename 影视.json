@@ -145,12 +145,6 @@
     "ext": "./TV/西瓜影院.js"
 },
 {
-    "key": "T4-南瓜",
-    "name": "♨️南瓜影視",
-    "type": 4,
-    "api": "https://catbox.n13.club/t4/nangua.php"
-},
-{
     "key": "hipy_js_fxzcz2",
     "name": "♨️厰長影視",
     "type": 3,
