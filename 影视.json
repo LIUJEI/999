@@ -228,7 +228,42 @@
     "api":"csp_XBPQ",
     "ext": "./Lib/影视大全.json"
 },
-
+{
+    "key":"魅影影视",
+    "name":"魅影影院",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext": "./Lib/魅影.json"
+},
+{
+    "key": "小鸭影音",
+    "name": "小鴨影音",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/小鸭影音.json"
+},
+{
+    "key":"csp_adyy",
+    "name":"愛碟影院",
+    "type": 3,
+    "ua": "okhttp/10.04",
+    "api": "csp_XBPQ",
+    "ext": "./Lib/爱碟.json"
+}, 
+{
+    "key": "XBPQ_qq",
+    "name": "芊芊影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/Qys.json"
+},
+{
+    "categories": "XBPQ_xz",
+    "name": "玫瑰小鎮",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/小鎮.json"
+},
 {
     "key": "热播影视",
     "name": "🎆┣热播┫影视",
