@@ -23,7 +23,7 @@ var rule = {
         20: {cateId: '20'},
         25: {cateId: '25'},
         5: {cateId: '5'},
-        32: {cateId: '32'},
+        22: {cateId: '22'},
         28: {cateId: '28'}
 
     },
