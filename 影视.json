@@ -655,7 +655,7 @@
     "name": "🎸酷狗┃音乐",
     "type": 3,
     "api":"csp_Music",
-    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar",
+    "jar": "./JAR/Bili.jar",
     "searchable":0,
     "changeable":0,
     "style":{"type":"rect","ratio":1.433}
