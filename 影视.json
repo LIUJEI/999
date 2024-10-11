@@ -40,13 +40,6 @@
     "ext": "./TV/guazi.js"
 },
 {
-    "key": "闪雷影院",
-    "name": "閃電影視",
-    "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "./TV/shanlei.js"
-},
-{
     "key": "素白秒播",
     "name": "屬白影視",
     "type": 3,
