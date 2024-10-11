@@ -243,6 +243,20 @@
     "ext": "./Lib/小鸭影音.json"
 },
 {
+    "key": "XBPQ_qq",
+    "name": "芊芊影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/Qys.json"
+},
+{
+    "categories": "XBPQ_xz",
+    "name": "玫瑰小鎮",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/小鎮.json"
+},
+{
     "key": "热播影视",
     "name": "🎆┣热播┫影视",
     "type": 3,
