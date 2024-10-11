@@ -1,5 +1,5 @@
 var rule = {
-    author: '小可乐/240525/第一版',
+    author: '/241012/第一版',
     title: '短剧天堂',
     host: 'https://duanjutt.tv',
     hostJs: '',
@@ -22,7 +22,10 @@ var rule = {
         1: {cateId: '1'},
         20: {cateId: '20'},
         25: {cateId: '25'},
-        30: {cateId: '5'}
+        5: {cateId: '5'},
+        32: {cateId: '32'},
+        28: {cateId: '28'}
+
     },
 
     play_parse: true,
