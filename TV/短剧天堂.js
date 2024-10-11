@@ -16,13 +16,13 @@ var rule = {
     quickSearch: 1,
     filterable: 1,
 
-    class_name: '✨逆袭短剧&✨都市短剧&✨神医短剧&✨脑洞短剧',
+    class_name: '✨逆袭短剧&✨都市短剧&✨神医短剧&✨重生短剧',
     class_url: '1&20&25&30',
     filter_def: {
         1: {cateId: '1'},
         20: {cateId: '20'},
         25: {cateId: '25'},
-        30: {cateId: '30'}
+        30: {cateId: '5'}
     },
 
     play_parse: true,
