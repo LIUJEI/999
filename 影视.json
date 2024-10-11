@@ -54,6 +54,13 @@
     "ext": "./TV/guazi.js"
 },
 {
+    "key": "sd",
+    "name": "♨️閃電影視",
+    "type": 3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "./TV/闪电.js"
+},
+{
     "key": "素白秒播",
     "name": "♨️屬白影視",
     "type": 3,
