@@ -17,7 +17,7 @@ var rule = {
     filterable: 1,
 
     class_name: '✨逆袭短剧&✨都市短剧&✨神医短剧&✨重生短剧&✨古装短剧&✨其他短剧',
-    class_url: '1&20&25&30&22&34',
+    class_url: '1&20&25&5&22&34',
     filter_def: {
         1: {cateId: '1'},
         20: {cateId: '20'},
