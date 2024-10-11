@@ -407,11 +407,11 @@
     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728350715516/1008.jar"
 },
 {
-    "key": "nk",
+    "key": "csp_耐看",
     "name": "🎆┣耐看┫App",
     "type": 3,
     "api": "csp_WebNK",
-    "jar": "",
+    "jar": "./JAR/0927.jar",
     "ext": "KhY021WelCEl+6MsvwnzaPussky1Dh0d+WXb80vqSfdVqJTIDGrV0xPZiB/0I8O9mrMKS+cdzxqKP83dFJJyyyb8D0J0ZVtM/ds4xb/4dA=="
 },
 {
@@ -857,12 +857,22 @@
 
 "parses":[
 {
-    "name": "🌐腾讯★巴拉★",
+    "name": "🌐聚合",
+    "type": 3,
+    "url": "Demo"
+},
+{
+    "name": "★起点解析★",
+    "type": 1,
+    "url": "https://json.o0a.cn/api/?key=4d3de1fb4708d88282125859639cfe96&url="
+},
+{
+    "name": "★巴拉解析★",
     "type": 1,
     "url": "https://jxjson.icu/neibu.php?url="
 },
 {
-    "name": "🌐琉芸★推荐★",
+    "name": "★琉芸推荐★",
     "type": 0,
     "url": "https://jx.xmflv.com/?url="
 },
