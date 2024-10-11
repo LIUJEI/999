@@ -243,21 +243,67 @@
     "ext": "./Lib/小鸭影音.json"
 },
 {
-    "key": "hipy_js_星芽短剧",
-    "name": "♨️星芽®短剧",
+    "key":"csp_adyy",
+    "name":"愛碟影院",
     "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.13",
-    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/xingya.js"
+    "api": "csp_XBPQ",
+    "ext": "./Lib/爱碟.json"
+}, 
+{
+    "key": "XBPQ_qq",
+    "name": "芊芊影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/Qys.json"
 },
 {
-    "key": "hipy_js_蓝莓短剧",
-    "name": "♨️蓝莓®短剧",
+    "categories": "XBPQ_xz",
+    "name": "玫瑰小鎮",
     "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.14",
-    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/lanmei.js"
-},	
+    "api": "csp_XBPQ",
+    "ext": "./Lib/小鎮.json"
+},
+{
+    "key": "XBPQ_brovod",
+    "name": "兄弟影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/兄弟.json"
+},
+{
+    "key": "csp_xp_vip",
+    "name": "柒夜雪影視",
+    "type": 3,
+    "api": "csp_XPath",
+    "ext": "./Lib/柒夜雪.json"
+},
+{
+    "key": "七味影视",
+    "name": "柒味影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "分类url": "https://www.pcmp4.com/vt/{cateId}/area/{area}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html",
+    "分类": "电影$1#剧集$2#动漫$4#综艺$3"}
+},
+{
+    "key": "csp_红狐狸影视",
+    "name": "狐狸影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
+},
+{
+    "key":"PTT影视",
+    "name":"PTT影视",
+    "type":3,
+    "api":"csp_PTT",
+    "searchable":1,
+    "changeable":1,
+    "jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/ptt.jar"
+},		
 {
     "key": "热播影视",
     "name": "🎆┣热播┫影视",
