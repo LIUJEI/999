@@ -101,48 +101,7 @@
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/荐片.js"
 },
-{
-    "key":"dr_卫士",
-    "name":"♨️叁陸官方",
-    "type":3,
-    "api": "./TV/dy2.js",
-    "ext": "./TV/360.js"
-},
-{
-    "key":"dr_腾迅",
-    "name":"♨️騰訊官方",
-    "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "./TV/QQtv.js"
-},
-{
-    "key":"dr_芒果",
-    "name":"♨️芒果官方",
-    "type":3,
-    "api": "./TV/dy2.js",
-    "ext":"./TV/MGtv.js"
-},
-{
-    "key":"dr_奇异",
-    "name":"♨️奇藝官方",
-    "type":3,
-    "api": "./TV/dy2.js",
-    "ext":"./TV/AQItv.js"
-},
-{
-    "key":"dr_搜狗",
-    "name":"♨️搜狗官方",
-    "type":3,
-    "api": "./TV/dy2.js",
-    "ext":"./TV/SGtv.js"
-},
-{
-    "key":"dr_优酷",
-    "name":"♨️優酷官方",
-    "type":3,
-    "api": "./TV/dy2.js",
-    "ext": "./TV/yKtv.js"
-},
+
 {
     "key": " fxzyg ",
     "name": "♨️壹個影視",
@@ -212,13 +171,6 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/UU影视.json"
-},
-{
-    "key": "XBPQ_98影视",
-    "name": "♨️玖捌影視",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "./Lib/98影视.json"
 },
 {
     "key": " fxz好影",
@@ -310,6 +262,48 @@
     "type": 3,
     "api": "csp_XPath",
     "ext": "./Lib/柒夜雪.json"
+},
+{
+    "key":"dr_卫士",
+    "name":"♨️叁陸官方",
+    "type":3,
+    "api": "./TV/dy2.js",
+    "ext": "./TV/360.js"
+},
+{
+    "key":"dr_腾迅",
+    "name":"♨️騰訊官方",
+    "type":3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "./TV/QQtv.js"
+},
+{
+    "key":"dr_芒果",
+    "name":"♨️芒果官方",
+    "type":3,
+    "api": "./TV/dy2.js",
+    "ext":"./TV/MGtv.js"
+},
+{
+    "key":"dr_奇异",
+    "name":"♨️奇藝官方",
+    "type":3,
+    "api": "./TV/dy2.js",
+    "ext":"./TV/AQItv.js"
+},
+{
+    "key":"dr_搜狗",
+    "name":"♨️搜狗官方",
+    "type":3,
+    "api": "./TV/dy2.js",
+    "ext":"./TV/SGtv.js"
+},
+{
+    "key":"dr_优酷",
+    "name":"♨️優酷官方",
+    "type":3,
+    "api": "./TV/dy2.js",
+    "ext": "./TV/yKtv.js"
 },
 {
     "key": "热播影视",
