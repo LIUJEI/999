@@ -138,26 +138,108 @@
     "ext": "./TV/yKtv.js"
 },
 {
-    "key": "hipy_js_星芽短剧",
-    "name": "星芽短劇",
+    "key": " fxzyg ",
+    "name": "壹個影視",
     "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "./TV/xingya.js"
+    "ext": "./Lib/一个G.json"
 },
 {
-    "key": "hipy_js_蓝莓短剧",
-    "name": "藍莓短劇",
+    "key": "XBPQ_南坊",
+    "name": "南坊影視",
     "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "./TV/lanmei.js"
+    "api": "csp_XBPQ",
+    "ext": "./Lib/南坊.json"
 },
- {
-    "key": "南瓜2",
-    "name": "🆚┣南瓜┫視蘋",
+{
+    "key": "Qxys",
+    "name": "柒鑫影視",
     "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ua":  "okhttp/10.11",
-    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/refs/heads/main/Ngua.js"
+    "api": "csp_XBPQ",
+    "ext": "./Lib/七新影视.json"
+},
+{
+    "key": "csp_XBPQ_茶杯狐",
+    "name": "茶杯聚合",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/茶杯.json"
+},
+{
+    "key": "✨YY影视✨",
+    "name": "優優影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/UU影视.json"
+},
+{
+    "key": "XBPQ_98影视",
+    "name": "玖捌影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/98影视.json"
+},
+{
+    "key": "XBPQ_黑狐",
+    "name": "黑狐影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/黑狐影视.json"
+},
+{
+    "key": " fxz好影",
+    "name": "好影快看",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/好影.json"
+},
+{
+    "key":"csp_XYQH_mf影院",
+    "name":"免費影視",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "ext":"./Lib/免费影视.json"
+},
+{
+    "key": "fxzyz",
+    "name": "電影驛站",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/电影驿站.json"
+},
+{
+    "key": "歪片星球",
+    "name": "歪片星球",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/歪片星球.json"
+},
+{
+    "key": "csp_xpath_sh",
+    "name": "燒火電影",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/烧火.json"
+},
+{
+    "key": "影视大全",
+    "name": "影視大全",
+    "type": 3,
+    "api":"csp_XBPQ",
+    "ext": "./Lib/影视大全.json"
+},
+{
+    "key":"魅影影视",
+    "name":"魅影影院",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext": "./Lib/魅影.json"
+},
+{
+    "key": "小鸭影音",
+    "name": "小鴨影音",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/小鸭影音.json"
 },
 {
     "key": "hipy_js_星芽短剧",
