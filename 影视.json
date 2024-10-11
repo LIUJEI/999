@@ -257,6 +257,13 @@
     "ext": "./Lib/Qys.json"
 },
 {
+    "key": "XBPQ_xz",
+    "name": "玫瑰小鎮",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./Lib/小鎮.json"
+},
+{
     "key": "热播影视",
     "name": "🎆┣热播┫影视",
     "type": 3,
