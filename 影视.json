@@ -18,252 +18,253 @@
     "api": "csp_YGP",
     "searchable": 0
 },
-{
-    "key": "hipy_js_tpian",
-    "name": "濺片影視",
-    "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "./TV/荐片.js"
-},
+
 {
     "key": "金牌",
-    "name": "金牌影視",
+    "name": "♨️金牌影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/jpys.js"
 },
 {
+    "key": "hipy_js_fxztg",
+    "name": "♨️糖果影視",
+    "type": 3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "./TV/糖果.js"
+},
+{
     "key": "瓜子app",
-    "name": "瓜子影視",
+    "name": "♨️瓜子影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/guazi.js"
 },
 {
     "key": "素白秒播",
-    "name": "屬白影視",
+    "name": "♨️屬白影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/subaibai.js"
 },
 {
-    "key": "hipy_js_fxztg",
-    "name": "糖果影視",
-    "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "./TV/糖果.js"
-},
-{
     "key":"drpy_js_北极狐[V2]",
-    "name":"機狐影視",
+    "name":"♨️機狐影視",
     "type":3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/北极狐.js"
 },			
 {
    "key": "hipy_js_一起看",
-   "name": "壹起看影視",
+   "name": "♨️壹起影視",
    "type": 3,
    "api": "https://weixine.net/js/lib/drpy2.min.js",
    "ext": "./TV/一起看.js"
 },
 {
     "key": "hipy_js_西瓜影院",
-    "name": "西瓜影視",
+    "name": "♨️西瓜影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/西瓜影院.js"
 },
 {
     "key": "T4-南瓜",
-    "name": "南瓜影視",
+    "name": "♨️南瓜影視",
     "type": 4,
     "api": "https://catbox.n13.club/t4/nangua.php"
 },
 {
     "key": "hipy_js_fxzcz2",
-    "name": "厰長影視",
+    "name": "♨️厰長影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/changzhang.js"
 },
 {
     "key": "T4-黑狐",
-    "name": "黑虎影視",
+    "name": "♨️黑虎影視",
     "type": 4,
     "api": "https://catbox.n13.club/t4/heihu.php"
 },
 {
+    "key": "hipy_js_tpian",
+    "name": "♨️濺片影視",
+    "type": 3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "./TV/荐片.js"
+},
+{
     "key":"dr_卫士",
-    "name":"叁陸官方",
+    "name":"♨️叁陸官方",
     "type":3,
     "api": "./TV/dy2.js",
     "ext": "./TV/360.js"
 },
 {
     "key":"dr_腾迅",
-    "name":"騰訊官方",
+    "name":"♨️騰訊官方",
     "type":3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/QQtv.js"
 },
 {
     "key":"dr_芒果",
-    "name":"芒果官方",
+    "name":"♨️芒果官方",
     "type":3,
     "api": "./TV/dy2.js",
     "ext":"./TV/MGtv.js"
 },
 {
     "key":"dr_奇异",
-    "name":"奇藝官方",
+    "name":"♨️奇藝官方",
     "type":3,
     "api": "./TV/dy2.js",
     "ext":"./TV/AQItv.js"
 },
 {
     "key":"dr_搜狗",
-    "name":"搜狗官方",
+    "name":"♨️搜狗官方",
     "type":3,
     "api": "./TV/dy2.js",
     "ext":"./TV/SGtv.js"
 },
 {
     "key":"dr_优酷",
-    "name":"優酷官方",
+    "name":"♨️優酷官方",
     "type":3,
     "api": "./TV/dy2.js",
     "ext": "./TV/yKtv.js"
 },
 {
     "key": " fxzyg ",
-    "name": "壹個影視",
+    "name": "♨️壹個影視",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/一个G.json"
 },
 {
     "key": "XBPQ_南坊",
-    "name": "南坊影視",
+    "name": "♨️南坊影視",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/南坊.json"
 },
 {
     "key": "Qxys",
-    "name": "柒鑫影視",
+    "name": "♨️柒鑫影視",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/七新影视.json"
 },
 {
     "key": "csp_XBPQ_茶杯狐",
-    "name": "茶杯聚合",
+    "name": "♨️茶杯聚合",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/茶杯.json"
 },
 {
     "key": "✨YY影视✨",
-    "name": "優優影視",
+    "name": "♨️優優影視",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/UU影视.json"
 },
 {
     "key": "XBPQ_98影视",
-    "name": "玖捌影視",
+    "name": "♨️玖捌影視",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/98影视.json"
 },
 {
     "key": " fxz好影",
-    "name": "好影快看",
+    "name": "♨️好影快看",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/好影.json"
 },
 {
     "key":"csp_XYQH_mf影院",
-    "name":"免費影視",
+    "name":"♨️免費影視",
     "type":3,
     "api":"csp_XYQHiker",
     "ext":"./Lib/免费影视.json"
 },
 {
     "key": "fxzyz",
-    "name": "電影驛站",
+    "name": "♨️電影驛站",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/电影驿站.json"
 },
 {
     "key": "歪片星球",
-    "name": "歪片星球",
+    "name": "♨️歪片星球",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/歪片星球.json"
 },
 {
     "key": "csp_xpath_sh",
-    "name": "燒火電影",
+    "name": "♨️燒火電影",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/烧火.json"
 },
 {
     "key": "影视大全",
-    "name": "影視大全",
+    "name": "♨️影視大全",
     "type": 3,
     "api":"csp_XBPQ",
     "ext": "./Lib/影视大全.json"
 },
 {
     "key":"魅影影视",
-    "name":"魅影影院",
+    "name":"♨️魅影影院",
     "type":3,
     "api":"csp_XBPQ",
     "ext": "./Lib/魅影.json"
 },
 {
     "key": "小鸭影音",
-    "name": "小鴨影音",
+    "name": "♨️小鴨影音",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/小鸭影音.json"
 },
 {
     "key":"csp_adyy",
-    "name":"愛碟影院",
+    "name":"♨️愛碟影院",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/爱碟.json"
 }, 
 {
     "key": "XBPQ_qq",
-    "name": "芊芊影視",
+    "name": "♨️芊芊影視",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/Qys.json"
 },
 {
     "key": "XBPQ_xz",
-    "name": "玫瑰小鎮",
+    "name": "♨️玫瑰小鎮",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/小鎮.json"
 },
 {
     "key": "XBPQ_brovod",
-    "name": "兄弟影視",
+    "name": "♨️兄弟影視",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./Lib/兄弟.json"
 },
 {
     "key": "csp_xp_vip",
-    "name": "柒夜雪影視",
+    "name": "♨️柒夜影視",
     "type": 3,
     "api": "csp_XPath",
     "ext": "./Lib/柒夜雪.json"
@@ -357,7 +358,7 @@
 },
 {
     "key": "欢视",
-    "name": "♨️┣欢视┫多线",
+    "name": "🎆┣欢视┫多线",
     "type": 3,
     "api": "csp_AppTT",
     "ext": "AO7TcBkd8IPB+BwH4Qma+opv",
@@ -365,7 +366,7 @@
 },
 {
     "key":"PTT影视",
-    "name":"♨️┣PTT影视",
+    "name":"🎆┣PTT影视",
     "type":3,
     "api":"csp_PTT",
     "searchable":1,
@@ -374,14 +375,14 @@
 },	
 {
     "key": "QIYIU",
-    "name": "♨️┣奇优┫影视",
+    "name": "🎆┣奇优┫影视",
     "type": 3,
     "api": "csp_Qiyou",
     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727398313929/0927.txt"
 },
 {
     "key": "csp_木叶",
-    "name": "♨️┣木叶┫App",
+    "name": "🎆┣木叶┫App",
     "type": 3,
     "api": "csp_Muye",
     "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4",
@@ -389,7 +390,7 @@
 },
 {
     "key": "csp_柠檬",
-    "name": "♨️┣柠檬┫App",
+    "name": "🎆┣柠檬┫App",
     "type": 3,
     "api": "csp_Nmvod",
     "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
@@ -397,7 +398,7 @@
 },
 {
     "key": "csp_蚂蚁",
-    "name": "♨️┣蚂蚁┫App",
+    "name": "🎆┣蚂蚁┫App",
     "type": 3,
     "api": "csp_Mayiys",
     "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0",
@@ -433,14 +434,14 @@
 },
 {
     "key": "hipy_js_星芽短剧",
-    "name": "星芽短劇",
+    "name": "📛┣星芽┫短劇",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/xingya.js"
 },
 {
     "key": "hipy_js_蓝莓短剧",
-    "name": "藍莓短劇",
+    "name": "📛┣藍莓┫短劇",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/lanmei.js"
