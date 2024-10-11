@@ -633,22 +633,22 @@
     "key": "hipy_js_网易影像",
     "name": "🖥网易┃影像",
     "type": 3,
-    "api": "./Lib/dy2.js",
-    "ext": "./Lib/网易影像.js"
+    "api": "./TV/dy2.js",
+    "ext": "./TV/网易影像.js"
 },
 {
   "key": "hipy_js_diany",
   "name": "🖥电影┃合集",
   "type": 3,
   "api": "http://zb.hys.cool/app/lib/16万hys.js",
-  "ext": "./Lib/电影合集.js"
+  "ext": "./TV/电影合集.js"
 },
 {
   "key": "hipy_js_gequ",
   "name": "🎸歌曲┃合集",
   "type": 3,
   "api": "http://zb.hys.cool/app/lib/16万hys.js",
-  "ext": "./Lib/mv.js"
+  "ext": "./TV/mv.js"
 }, 
 {
     "key":"music",
