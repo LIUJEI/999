@@ -47,13 +47,7 @@
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/subaibai.js"
 },
-{
-    "key": "xcys",
-    "name": "♨️星辰影視",
-    "type": 3,
-    "api": "http://www.meowtv.cn/js/drpy2.min.js",
-    "ext": "./TV/星辰.js"
-},
+
 {
     "key":"drpy_js_北极狐[V2]",
     "name":"♨️機狐影視",
@@ -101,7 +95,6 @@
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/荐片.js"
 },
-
 {
     "key": " fxzyg ",
     "name": "♨️壹個影視",
@@ -149,7 +142,7 @@
     "name": "♨️奇優秒播",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "./奇优影院.json"
+    "ext": "./Lib/奇优影院.json"
 },
 {
     "key": "奈飞影视",
