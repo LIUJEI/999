@@ -393,7 +393,7 @@
 },
 {
     "key":"PTT影视",
-    "name":"🎆┣PTT影视",
+    "name":"🎆┣PTT┫影视",
     "type":3,
     "api":"csp_PTT",
     "searchable":1,
@@ -401,11 +401,11 @@
     "jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/ptt.jar"
 },	
 {
-    "key": "QIYIU",
-    "name": "🎆┣奇优┫影视",
+    "key": "csp_JPYY",
+    "name": "🎆┣文采┫秒播",
     "type": 3,
-    "api": "csp_Qiyou",
-    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727398313929/0927.txt"
+    "api": "csp_Jpyy",
+    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728350715516/1008.jar"
 },
 {
     "key": "csp_木叶",
