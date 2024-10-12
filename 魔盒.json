@@ -3,7 +3,7 @@
 
     "warningText":"💕永久完全免费，切勿付费购买💕",  
 
-   "spider": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0924.jar;md5;308dabe9c096459415912ff76cd06ed1",
+  "spider": "./JAR/1012.jar;md5;eb7676582d076a5505be5f23530e4f4d",
     
  
     "lives": [{"name": "live2","type": 0,"url": "./lives/live2.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"}],
