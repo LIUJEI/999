@@ -851,11 +851,6 @@
 
 "parses":[
 {
-    "name": "🌐聚合",
-    "type": 3,
-    "url": "Demo"
-},
-{
     "name": "★琉芸推荐★",
     "type": 0,
     "url": "https://jx.xmflv.com/?url="
@@ -881,7 +876,7 @@
     "url": "https://www.ckplayer.vip/jiexi/?url="
 },
 {
-    "name": "☪游戏㊋",
+    "name": "☪图图㊋",
     "type": 0,
     "url": "https://jx.m3u8.tv/jiexi/?url="
 },
@@ -891,27 +886,26 @@
     "url": "https://bd.jx.cn/?url="
 },
 {
-    "name": "☪图图㊐",
-    "type": 0,
-    "url": "https://jx.m3u8.tv/jiexi/?url="
+    "id": "6c2f0160-ee66-e273-e943-e7332d3c9f50",
+    "name": "☪咸鱼Ⓚ",
+    "url": "https://bd.jx.cn/?url=",
+    "isActive": true
 },
 {
-    "name":"☪咸鱼Ⓚ",
-    "type":0,
-    "url":"https://jx.aidouer.net/?url="
-},
-{
-    "name": "☪起点㊣",
+    "name": "☪4K解析㊐",
     "type": 1,
-    "url": "https://json.o0a.cn/api/?key=4d3de1fb4708d88282125859639cfe96&url="
+    "url": "http://112.74.124.75:8899/jiexi/api.php?url="
+},
+{
+    "name": "☪推荐4K",
+    "type": 1,
+    "url": "http://jx.jwl.icu/jx.php?url="
 },
 {
     "name": "🏁琉芸★全能嗅探★",
     "type": 0,
-    "url": "https://www.8090g.cn/jiexi/?url="
+    "url": "https://www.8090g.cn/?url="
 }],
-
-
 
 "flags":["youku","优酷","优 酷","优酷视频", "qq","腾讯","腾 讯","腾讯视频", "iqiyi", "qiyi","奇艺","爱奇艺","爱 奇 艺", "m1905", "xigua", "letv","leshi","乐视","乐 视", "sohu","搜狐","搜 狐","搜狐视频", "tudou","mgtv","芒果","imgo","芒果TV","芒 果 T V", "bilibili","哔 哩","哔 哩 哔 哩","SPA","YuMi-vip","pptv","PPTV","ltnb","rx","SLYS4k","tucheng","BYGA","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","renrenmi","ppayun","haiwaikan","cool","dbm3u8","xmm","funshion","ruyi1080","ruyib1080"],
 "doh":[
