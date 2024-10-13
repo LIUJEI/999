@@ -13,6 +13,7 @@
     "搜索图片": "data-src=\"&&\"",
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>",
-    "线路标题": "琉芸+<span>&&</small>[替换:</span><small>>>共]+集",
+    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
     "分类url": "http://mp5.hz.cz/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "短剧一FF$1#短剧二YZ$2#短剧三XL$3#短剧四1080$4"}
+    "分类": "抖音短剧$1#快手短剧$2#腾讯短剧$3#火山短剧$4"}
+},
