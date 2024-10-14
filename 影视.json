@@ -20,7 +20,7 @@
 },
 {
     "key": "youyou",
-    "name": "🚩┣悠悠┫快播",
+    "name": "🍊┣悠悠┫快播",
     "type": 1,
     "searchable": 1,
     "quickSearch": 1,
@@ -30,7 +30,7 @@
 },
 {
     "key": "BAOFENG",
-    "name":"🚩风暴┫快播",
+    "name":"🍊┣风暴┫快播",
     "type": 1,
     "searchable": 1,
     "quickSearch": 1,
@@ -40,28 +40,28 @@
 },
 {
     "key": "feifan",
-    "name": "🚩┣飞帆┫快播",
+    "name": "🍊┣飞帆┫快播",
     "type": 1,
     "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id4",
     "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 }, 
 {
     "key": "360-资源",
-    "name": "🚩┣年年┫快播",
+    "name": "🍊┣年年┫快播",
     "type": 1,
     "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id2",
     "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 }, 
 {
     "key": "liangliang",
-    "name": "🚩┣靓仔┫快播",
+    "name": "🍊┣靓仔┫快播",
     "type": 1,
     "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id3",
     "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 }, 
 {
     "key":"fxz小猫咪",
-    "name":"🚩┣猫咪┫快播",
+    "name":"🍊┣猫咪┫快播",
     "type":1,
     "api":"http://zy.xiaomaomi.cc/api.php/provide/vod/",
     "categories": ["电影","连续剧","综艺","动漫","小破站"]
@@ -69,14 +69,14 @@
 },
 {
     "key": "农民采集",
-    "name": "🚩┣悯农┫快播",
+    "name": "🍊┣悯农┫快播",
     "type": 1,
     "api": "https://www.xncnews.com/api.php/provide/vod/",
     "categories": ["电影","连续剧","国产剧","综艺","动漫","短剧"]
 },
 {
     "key": "华为吧资源",
-    "name": "🚩┣华为┫快播",
+    "name": "🍊┣华为┫快播",
     "type": 1,
     "api": "https://hw8.live/api.php/provide/vod/",
     "playurl": "https://dp.hw8.live/player/?url=",
