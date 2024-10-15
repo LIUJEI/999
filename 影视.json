@@ -18,70 +18,7 @@
     "api": "csp_YGP",
     "searchable": 0
 },
-{
-    "key": "youyou",
-    "name": "🍊┣悠悠┫快播",
-    "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "api": "http://154.21.201.190:666/tvbox/lib/悠悠.php",
-    "playerType": 1,
-    "playUrl": "json:http://154.21.201.190:666/tvbox/json/youyou.php?key=168621870&url="
-},
-{
-    "key": "BAOFENG",
-    "name":"🍊┣风暴┫快播",
-    "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id1",
-    "playerType": 1,
-    "playUrl":"json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
-},
-{
-    "key": "feifan",
-    "name": "🍊┣飞帆┫快播",
-    "type": 1,
-    "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id4",
-    "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
-}, 
-{
-    "key": "360-资源",
-    "name": "🍊┣年年┫快播",
-    "type": 1,
-    "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id2",
-    "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
-}, 
-{
-    "key": "liangliang",
-    "name": "🍊┣靓仔┫快播",
-    "type": 1,
-    "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id3",
-    "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
-}, 
-{
-    "key":"fxz小猫咪",
-    "name":"🍊┣猫咪┫快播",
-    "type":1,
-    "api":"http://zy.xiaomaomi.cc/api.php/provide/vod/",
-    "categories": ["电影","连续剧","综艺","动漫","小破站"]
 
-},
-{
-    "key": "农民采集",
-    "name": "🍊┣悯农┫快播",
-    "type": 1,
-    "api": "https://www.xncnews.com/api.php/provide/vod/",
-    "categories": ["电影","连续剧","国产剧","综艺","动漫","短剧"]
-},
-{
-    "key": "华为吧资源",
-    "name": "🍊┣华为┫快播",
-    "type": 1,
-    "api": "https://hw8.live/api.php/provide/vod/",
-    "playurl": "https://dp.hw8.live/player/?url=",
-    "categories": ["电影","电视剧","国产剧","国产综艺","动画电影","短剧"]
-},
 {
     "key": "csp_xBPQ_奇优",
     "name": "♨️奇優秒播",
@@ -298,13 +235,6 @@
     "api": "csp_AppRB"
 },
 {
-    "key": "全网影视",
-    "name": "🎆┣全网┫影视",
-    "type": 3,
-    "api": "csp_Quanwk",
-    "ext": "https://fm666.qkw1.cc"
-},
-{
     "key": "大米星球",
     "name": "🎆┣大米┫星球",
     "type": 3,
@@ -353,12 +283,6 @@
     "type": 3,
     "api": "csp_AppRZ",
     "ext": "http://rzys.xyz/"
-},
-{
-    "key": "看客影视",
-    "name": "🎆┣看客┫影视",
-    "type": 3,
-    "api": "csp_Kanke"
 },
 {
     "key": "饺子影视",
