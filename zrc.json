@@ -1,14 +1,45 @@
 {
   "urls": [
   
-    {"name": "🚸《影视》","url": "https://git.acwing.com/999/tvbox/-/raw/main/影视.json"},
-    {"name": "🚸《短剧》","url": "https://git.acwing.com/999/tvbox/-/raw/main/短剧.json"},
-    {"name": "🚸《魔盒》","url": "https://git.acwing.com/999/tvbox/-/raw/main/魔盒.json"},
-    {"name": "🚸《采集》","url": "https://git.acwing.com/999/tvbox/-/raw/main/采集.json"},
-    {"name": "🚸《休闲》","url": "https://git.acwing.com/999/tvbox/-/raw/main/休闲.json"},
-    {
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/001.json",
-      "name": "🚦分享者"
+  {"name": "🚸《影视》","url": "https://git.acwing.com/999/tvbox/-/raw/main/影视.json"},
+  {"name": "🚸《短剧》","url": "https://git.acwing.com/999/tvbox/-/raw/main/短剧.json"},
+  {"name": "🚸《魔盒》","url": "https://git.acwing.com/999/tvbox/-/raw/main/魔盒.json"},
+  {"name": "🚸《采集》","url": "https://git.acwing.com/999/tvbox/-/raw/main/采集.json"},
+  {"name": "🚸《琉芸》","url": "https://gitee.com/lyun_1_0/tb/raw/master/影视.json"},
+  {"name": "🚸《休闲》","url": "https://git.acwing.com/999/tvbox/-/raw/main/休闲.json"},
+  {"name": "🚦分享者🚦","url": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/001.json"},
+  {
+    "url": "http://47.99.102.252/xc.json",
+    "name": "📁星辰📁"
+  },
+  {
+    "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+    "name": "📁王二📁"
+  },
+  {
+    "url": "https://weixine.net/ysc.json",
+    "name": "📁运输📁"
+  },
+  {
+    "url": "https://cdn05042023.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json",
+    "name": "📁无名📁"
+  },
+  {
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json",
+    "name": "📁高天📁"
+  },
+  {
+    "url": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json",
+    "name": "📁道长📁"
+  },    
+  {
+    "url": "https://tv.xn--11x555b.top/svip",
+    "name": "📁蜗牛📁"
+  },
+  {
+    "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
+    "name": "📁无间📁"
   }
+  
 ]
 }
